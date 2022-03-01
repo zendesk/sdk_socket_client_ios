@@ -9,14 +9,25 @@ let package = Package(
         .library(
             name: "ZendeskSDKSocketClient",
             targets: [
-                "ZendeskSDKSocketClient"
+                "ZendeskSDKSocketClientTargets"
             ]
         )
+    ],
+    dependencies: [
+        .package(name: "ZendeskSDKLogger",
+                 url: "https://github.com/zendesk/sdk_logger_ios",
+                 from: "0.4.3")
     ],
     targets: [
         .binaryTarget(
             name: "ZendeskSDKSocketClient",
             path: "ZendeskSDKSocketClient.xcframework"
-        )
+        ),
+        .target(name: "ZendeskSDKSocketClientTargets",
+                dependencies: [
+                    .target(name: "ZendeskSDKSocketClient"),
+                    .product(name: "ZendeskSDKLogger", package: "ZendeskSDKLogger")
+                ],
+                path: "Sources")
     ]
 )
