@@ -1892,21 +1892,21 @@
     {
       "filePath": "\/Users\/runner\/work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Compression\/WSCompression.swift",
       "kind": "IntegerLiteral",
-      "offset": 6301,
+      "offset": 6326,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Compression\/WSCompression.swift",
       "kind": "IntegerLiteral",
-      "offset": 6311,
+      "offset": 6336,
       "length": 6,
       "value": "0x2000"
     },
     {
       "filePath": "\/Users\/runner\/work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Compression\/WSCompression.swift",
       "kind": "BooleanLiteral",
-      "offset": 6356,
+      "offset": 6381,
       "length": 5,
       "value": "false"
     },
@@ -1934,7 +1934,7 @@
     {
       "filePath": "\/Users\/runner\/work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Starscream\/WebSocket.swift",
       "kind": "BooleanLiteral",
-      "offset": 3779,
+      "offset": 3812,
       "length": 4,
       "value": "true"
     },
