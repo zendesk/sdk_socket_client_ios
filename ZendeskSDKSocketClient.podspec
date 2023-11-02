@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "ZendeskSDKSocketClient"
-  s.version      = "1.6.0"
+  s.version      = "1.7.0"
   s.summary      = "ZendeskSDKSocketClient #{s.version.to_s}"
   s.homepage     = "https://developer.zendesk.com/documentation/zendesk-web-widget-sdks/sdks/ios/getting_started/"
   s.license      = {
