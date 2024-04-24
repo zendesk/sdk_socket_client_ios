@@ -1,7 +1,7 @@
 framework module ZendeskSDKSocketClient {
   umbrella header "ZendeskSDKSocketClient.h"
-
   export *
+
   module * { export * }
 }
 
