@@ -4,14 +4,14 @@ binary-path:     '/Users/admin/Library/Developer/Xcode/DerivedData/NativeMessagi
 relocations:
   - { offsetInCU: 0x34, offset: 0x332E6, size: 0x8, addend: 0x0, symName: _ZendeskSDKSocketClientVersionString, symObjAddr: 0x0, symBinAddr: 0x1D530, symSize: 0x0 }
   - { offsetInCU: 0x69, offset: 0x3331B, size: 0x8, addend: 0x0, symName: _ZendeskSDKSocketClientVersionNumber, symObjAddr: 0x40, symBinAddr: 0x1D570, symSize: 0x0 }
-  - { offsetInCU: 0x4B, offset: 0x3337C, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12HTTPWSHeaderV11upgradeNameSSvpZ', symObjAddr: 0x8270, symBinAddr: 0x29BA8, symSize: 0x0 }
-  - { offsetInCU: 0x65, offset: 0x33396, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12HTTPWSHeaderV12upgradeValueSSvpZ', symObjAddr: 0x8280, symBinAddr: 0x29BB8, symSize: 0x0 }
-  - { offsetInCU: 0x7F, offset: 0x333B0, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12HTTPWSHeaderV8hostNameSSvpZ', symObjAddr: 0x8290, symBinAddr: 0x29BC8, symSize: 0x0 }
-  - { offsetInCU: 0x99, offset: 0x333CA, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12HTTPWSHeaderV14connectionNameSSvpZ', symObjAddr: 0x82A0, symBinAddr: 0x29BD8, symSize: 0x0 }
-  - { offsetInCU: 0xB3, offset: 0x333E4, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12HTTPWSHeaderV15connectionValueSSvpZ', symObjAddr: 0x82B0, symBinAddr: 0x29BE8, symSize: 0x0 }
-  - { offsetInCU: 0xCD, offset: 0x333FE, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12HTTPWSHeaderV12versionValueSSvpZ', symObjAddr: 0x82C0, symBinAddr: 0x29BF8, symSize: 0x0 }
-  - { offsetInCU: 0xE7, offset: 0x33418, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12HTTPWSHeaderV10originNameSSvpZ', symObjAddr: 0x82D0, symBinAddr: 0x29C08, symSize: 0x0 }
-  - { offsetInCU: 0x101, offset: 0x33432, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12HTTPWSHeaderV17defaultSSLSchemesSaySSGvpZ', symObjAddr: 0x82E0, symBinAddr: 0x29C18, symSize: 0x0 }
+  - { offsetInCU: 0x4B, offset: 0x3337C, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12HTTPWSHeaderV11upgradeNameSSvpZ', symObjAddr: 0x8258, symBinAddr: 0x29BA8, symSize: 0x0 }
+  - { offsetInCU: 0x65, offset: 0x33396, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12HTTPWSHeaderV12upgradeValueSSvpZ', symObjAddr: 0x8268, symBinAddr: 0x29BB8, symSize: 0x0 }
+  - { offsetInCU: 0x7F, offset: 0x333B0, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12HTTPWSHeaderV8hostNameSSvpZ', symObjAddr: 0x8278, symBinAddr: 0x29BC8, symSize: 0x0 }
+  - { offsetInCU: 0x99, offset: 0x333CA, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12HTTPWSHeaderV14connectionNameSSvpZ', symObjAddr: 0x8288, symBinAddr: 0x29BD8, symSize: 0x0 }
+  - { offsetInCU: 0xB3, offset: 0x333E4, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12HTTPWSHeaderV15connectionValueSSvpZ', symObjAddr: 0x8298, symBinAddr: 0x29BE8, symSize: 0x0 }
+  - { offsetInCU: 0xCD, offset: 0x333FE, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12HTTPWSHeaderV12versionValueSSvpZ', symObjAddr: 0x82A8, symBinAddr: 0x29BF8, symSize: 0x0 }
+  - { offsetInCU: 0xE7, offset: 0x33418, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12HTTPWSHeaderV10originNameSSvpZ', symObjAddr: 0x82B8, symBinAddr: 0x29C08, symSize: 0x0 }
+  - { offsetInCU: 0x101, offset: 0x33432, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12HTTPWSHeaderV17defaultSSLSchemesSaySSGvpZ', symObjAddr: 0x82C8, symBinAddr: 0x29C18, symSize: 0x0 }
   - { offsetInCU: 0x10F, offset: 0x33440, size: 0x8, addend: 0x0, symName: '_$sSo10z_stream_sVwCP', symObjAddr: 0x70, symBinAddr: 0x32B0, symSize: 0x30 }
   - { offsetInCU: 0x123, offset: 0x33454, size: 0x8, addend: 0x0, symName: ___swift_noop_void_return, symObjAddr: 0xA0, symBinAddr: 0x32E0, symSize: 0x10 }
   - { offsetInCU: 0x137, offset: 0x33468, size: 0x8, addend: 0x0, symName: ___swift_memcpy112_8, symObjAddr: 0xB0, symBinAddr: 0x32F0, symSize: 0x40 }
@@ -457,7 +457,7 @@ relocations:
   - { offsetInCU: 0xFAC, offset: 0x43058, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient7WSErrorVs5ErrorAAsADP19_getEmbeddedNSErroryXlSgyFTW', symObjAddr: 0x150, symBinAddr: 0x15DC0, symSize: 0x10 }
   - { offsetInCU: 0x27, offset: 0x43283, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient06SocketC6LoggerVMa', symObjAddr: 0x0, symBinAddr: 0x17610, symSize: 0x10 }
   - { offsetInCU: 0x4B, offset: 0x432A7, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient06SocketC6LoggerV12logNamespaceSSvpZ', symObjAddr: 0xE68, symBinAddr: 0x293B8, symSize: 0x0 }
-  - { offsetInCU: 0x65, offset: 0x432C1, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient06SocketC6LoggerV11logCategorySSvpZ', symObjAddr: 0x5D88, symBinAddr: 0x29C20, symSize: 0x0 }
+  - { offsetInCU: 0x65, offset: 0x432C1, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient06SocketC6LoggerV11logCategorySSvpZ', symObjAddr: 0x5D78, symBinAddr: 0x29C20, symSize: 0x0 }
   - { offsetInCU: 0x73, offset: 0x432CF, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient06SocketC6LoggerVMa', symObjAddr: 0x0, symBinAddr: 0x17610, symSize: 0x10 }
   - { offsetInCU: 0x87, offset: 0x432E3, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient06SocketC6LoggerV11logCategory_WZ', symObjAddr: 0x10, symBinAddr: 0x17620, symSize: 0x30 }
   - { offsetInCU: 0xA1, offset: 0x432FD, size: 0x8, addend: 0x0, symName: '_$sSo13NSStreamEventV22ZendeskSDKSocketClientE08readableB0SSvg', symObjAddr: 0x40, symBinAddr: 0x17650, symSize: 0xE0 }
