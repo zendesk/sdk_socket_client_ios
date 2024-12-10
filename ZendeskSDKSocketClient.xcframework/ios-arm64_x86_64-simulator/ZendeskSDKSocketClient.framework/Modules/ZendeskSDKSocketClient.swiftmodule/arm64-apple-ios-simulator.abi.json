@@ -1178,189 +1178,196 @@
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/HTTPHandler.swift",
       "kind": "StringLiteral",
-      "offset": 1058,
+      "offset": 1076,
       "length": 9,
       "value": "\"Upgrade\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/HTTPHandler.swift",
       "kind": "StringLiteral",
-      "offset": 1104,
+      "offset": 1122,
       "length": 11,
       "value": "\"websocket\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/HTTPHandler.swift",
       "kind": "StringLiteral",
-      "offset": 1152,
+      "offset": 1170,
       "length": 6,
       "value": "\"Host\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/HTTPHandler.swift",
       "kind": "StringLiteral",
-      "offset": 1195,
+      "offset": 1213,
       "length": 12,
       "value": "\"Connection\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/HTTPHandler.swift",
       "kind": "StringLiteral",
-      "offset": 1244,
+      "offset": 1262,
       "length": 9,
       "value": "\"Upgrade\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/HTTPHandler.swift",
       "kind": "StringLiteral",
-      "offset": 1290,
+      "offset": 1308,
       "length": 24,
       "value": "\"Sec-WebSocket-Protocol\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/HTTPHandler.swift",
       "kind": "StringLiteral",
-      "offset": 1351,
+      "offset": 1369,
       "length": 23,
       "value": "\"Sec-WebSocket-Version\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/HTTPHandler.swift",
       "kind": "StringLiteral",
-      "offset": 1411,
+      "offset": 1429,
       "length": 4,
       "value": "\"13\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/HTTPHandler.swift",
       "kind": "StringLiteral",
-      "offset": 1452,
+      "offset": 1470,
       "length": 26,
       "value": "\"Sec-WebSocket-Extensions\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/HTTPHandler.swift",
       "kind": "StringLiteral",
-      "offset": 1515,
+      "offset": 1533,
       "length": 19,
       "value": "\"Sec-WebSocket-Key\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/HTTPHandler.swift",
       "kind": "StringLiteral",
-      "offset": 1571,
+      "offset": 1589,
       "length": 8,
       "value": "\"Origin\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/HTTPHandler.swift",
       "kind": "StringLiteral",
-      "offset": 1616,
+      "offset": 1634,
       "length": 22,
       "value": "\"Sec-WebSocket-Accept\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/HTTPHandler.swift",
       "kind": "IntegerLiteral",
-      "offset": 1675,
+      "offset": 1693,
       "length": 3,
       "value": "101"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/HTTPHandler.swift",
       "kind": "Array",
-      "offset": 1715,
+      "offset": 1733,
       "length": 16,
       "value": "[\"wss\", \"https\"]"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/HTTPHandler.swift",
       "kind": "StringLiteral",
-      "offset": 2624,
+      "offset": 2642,
       "length": 3,
       "value": "\"\/\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/HTTPHandler.swift",
       "kind": "StringLiteral",
-      "offset": 3591,
+      "offset": 3298,
+      "length": 8,
+      "value": "\"Cookie\""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/HTTPHandler.swift",
+      "kind": "StringLiteral",
+      "offset": 3698,
       "length": 71,
       "value": "\"permessage-deflate; client_max_window_bits; server_max_window_bits=15\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/HTTPHandler.swift",
       "kind": "StringLiteral",
-      "offset": 3826,
+      "offset": 3933,
       "length": 29,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/HTTPHandler.swift",
       "kind": "StringLiteral",
-      "offset": 3840,
+      "offset": 3947,
       "length": 1,
       "value": "\":\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/HTTPHandler.swift",
       "kind": "StringLiteral",
-      "offset": 3854,
+      "offset": 3961,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/HTTPHandler.swift",
       "kind": "IntegerLiteral",
-      "offset": 4129,
+      "offset": 4236,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/HTTPHandler.swift",
       "kind": "IntegerLiteral",
-      "offset": 4133,
+      "offset": 4240,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/HTTPHandler.swift",
       "kind": "IntegerLiteral",
-      "offset": 4164,
+      "offset": 4271,
       "length": 2,
       "value": "97"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/HTTPHandler.swift",
       "kind": "IntegerLiteral",
-      "offset": 4169,
+      "offset": 4276,
       "length": 3,
       "value": "122"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/HTTPHandler.swift",
       "kind": "BooleanLiteral",
-      "offset": 5029,
+      "offset": 5136,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/HTTPHandler.swift",
       "kind": "IntegerLiteral",
-      "offset": 5379,
+      "offset": 5486,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/HTTPHandler.swift",
       "kind": "IntegerLiteral",
-      "offset": 5457,
+      "offset": 5564,
       "length": 3,
       "value": "443"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/HTTPHandler.swift",
       "kind": "IntegerLiteral",
-      "offset": 5505,
+      "offset": 5612,
       "length": 2,
       "value": "80"
     },
@@ -1374,49 +1381,49 @@
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Security\/FoundationSecurity.swift",
       "kind": "BooleanLiteral",
-      "offset": 1108,
+      "offset": 1115,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Security\/FoundationSecurity.swift",
       "kind": "BooleanLiteral",
-      "offset": 1528,
+      "offset": 1490,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Security\/FoundationSecurity.swift",
       "kind": "StringLiteral",
-      "offset": 2493,
+      "offset": 2437,
       "length": 25,
       "value": "\"FoundationSecurityError\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Security\/FoundationSecurity.swift",
       "kind": "StringLiteral",
-      "offset": 2816,
+      "offset": 2760,
       "length": 44,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Security\/FoundationSecurity.swift",
       "kind": "StringLiteral",
-      "offset": 2823,
+      "offset": 2767,
       "length": 8,
       "value": "\"258EAFA5-E914-47DA-95CA-C5AB0DC85B11\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Security\/FoundationSecurity.swift",
       "kind": "StringLiteral",
-      "offset": 2970,
+      "offset": 2914,
       "length": 29,
       "value": "\"accept header doesn't match\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Security\/FoundationSecurity.swift",
       "kind": "IntegerLiteral",
-      "offset": 3340,
+      "offset": 3284,
       "length": 1,
       "value": "0"
     },
@@ -1801,637 +1808,679 @@
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/Framer.swift",
       "kind": "BooleanLiteral",
-      "offset": 2708,
+      "offset": 2716,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/Framer.swift",
       "kind": "BooleanLiteral",
-      "offset": 2776,
+      "offset": 2784,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/Framer.swift",
       "kind": "BooleanLiteral",
-      "offset": 3258,
+      "offset": 3266,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/Framer.swift",
       "kind": "IntegerLiteral",
-      "offset": 4206,
+      "offset": 4214,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/Framer.swift",
       "kind": "IntegerLiteral",
-      "offset": 4392,
+      "offset": 4400,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/Framer.swift",
       "kind": "IntegerLiteral",
-      "offset": 4447,
+      "offset": 4455,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/Framer.swift",
       "kind": "IntegerLiteral",
-      "offset": 4565,
+      "offset": 4573,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/Framer.swift",
       "kind": "IntegerLiteral",
-      "offset": 4620,
+      "offset": 4628,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/Framer.swift",
       "kind": "IntegerLiteral",
-      "offset": 4662,
+      "offset": 4670,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/Framer.swift",
       "kind": "BooleanLiteral",
-      "offset": 4699,
+      "offset": 4707,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/Framer.swift",
       "kind": "IntegerLiteral",
-      "offset": 4826,
+      "offset": 4834,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/Framer.swift",
       "kind": "IntegerLiteral",
-      "offset": 4832,
+      "offset": 4840,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/Framer.swift",
       "kind": "IntegerLiteral",
-      "offset": 4880,
+      "offset": 4888,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/Framer.swift",
       "kind": "IntegerLiteral",
-      "offset": 4892,
+      "offset": 4900,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/Framer.swift",
       "kind": "StringLiteral",
-      "offset": 5064,
+      "offset": 5072,
       "length": 48,
       "value": "\"masked and rsv data is not currently supported\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/Framer.swift",
       "kind": "StringLiteral",
-      "offset": 5504,
+      "offset": 5509,
       "length": 35,
       "value": "\"unknown opcode: \""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/Framer.swift",
       "kind": "StringLiteral",
-      "offset": 5538,
+      "offset": 5543,
       "length": 18,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/Framer.swift",
       "kind": "IntegerLiteral",
-      "offset": 5605,
+      "offset": 5610,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/Framer.swift",
       "kind": "StringLiteral",
-      "offset": 5734,
+      "offset": 5739,
       "length": 36,
       "value": "\"control frames can't be fragmented\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/Framer.swift",
       "kind": "IntegerLiteral",
-      "offset": 5828,
+      "offset": 5833,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/Framer.swift",
       "kind": "IntegerLiteral",
-      "offset": 5877,
+      "offset": 5882,
       "length": 3,
       "value": "125"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/Framer.swift",
       "kind": "StringLiteral",
-      "offset": 5982,
+      "offset": 6012,
       "length": 59,
       "value": "\"payload length is longer than allowed for a control frame\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/Framer.swift",
       "kind": "IntegerLiteral",
-      "offset": 6295,
+      "offset": 6346,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/Framer.swift",
       "kind": "IntegerLiteral",
-      "offset": 6389,
+      "offset": 6440,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/Framer.swift",
       "kind": "IntegerLiteral",
-      "offset": 6426,
+      "offset": 6477,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/Framer.swift",
       "kind": "IntegerLiteral",
-      "offset": 6465,
+      "offset": 6516,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/Framer.swift",
       "kind": "IntegerLiteral",
-      "offset": 6750,
+      "offset": 6801,
       "length": 4,
       "value": "1000"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/Framer.swift",
       "kind": "IntegerLiteral",
-      "offset": 6771,
+      "offset": 6822,
       "length": 4,
       "value": "1003"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/Framer.swift",
       "kind": "IntegerLiteral",
-      "offset": 6791,
+      "offset": 6842,
       "length": 4,
       "value": "1007"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/Framer.swift",
       "kind": "IntegerLiteral",
-      "offset": 6813,
+      "offset": 6864,
       "length": 4,
       "value": "1013"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/Framer.swift",
       "kind": "IntegerLiteral",
-      "offset": 6833,
+      "offset": 6884,
       "length": 4,
       "value": "3000"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/Framer.swift",
       "kind": "IntegerLiteral",
-      "offset": 6982,
+      "offset": 7033,
       "length": 3,
       "value": "127"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/Framer.swift",
       "kind": "IntegerLiteral",
-      "offset": 7256,
+      "offset": 7307,
       "length": 3,
       "value": "126"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/Framer.swift",
       "kind": "IntegerLiteral",
-      "offset": 7990,
+      "offset": 8041,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/Framer.swift",
       "kind": "IntegerLiteral",
-      "offset": 8410,
+      "offset": 8461,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/Framer.swift",
       "kind": "IntegerLiteral",
-      "offset": 8498,
+      "offset": 8549,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/Framer.swift",
       "kind": "IntegerLiteral",
-      "offset": 8934,
+      "offset": 8985,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/Framer.swift",
       "kind": "IntegerLiteral",
-      "offset": 9010,
+      "offset": 9061,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/Framer.swift",
       "kind": "IntegerLiteral",
-      "offset": 9088,
+      "offset": 9139,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/Framer.swift",
       "kind": "IntegerLiteral",
-      "offset": 9143,
+      "offset": 9194,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/Framer.swift",
       "kind": "IntegerLiteral",
-      "offset": 9201,
+      "offset": 9252,
       "length": 3,
       "value": "126"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/Framer.swift",
       "kind": "IntegerLiteral",
-      "offset": 9227,
+      "offset": 9278,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/Framer.swift",
       "kind": "IntegerLiteral",
-      "offset": 9326,
+      "offset": 9377,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/Framer.swift",
       "kind": "IntegerLiteral",
-      "offset": 9331,
+      "offset": 9382,
       "length": 3,
       "value": "126"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/Framer.swift",
       "kind": "IntegerLiteral",
-      "offset": 9500,
+      "offset": 9551,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/Framer.swift",
       "kind": "IntegerLiteral",
-      "offset": 9505,
+      "offset": 9556,
       "length": 3,
       "value": "127"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/Framer.swift",
       "kind": "IntegerLiteral",
-      "offset": 9794,
+      "offset": 9845,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/Framer.swift",
       "kind": "IntegerLiteral",
-      "offset": 9917,
+      "offset": 9968,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/Framer.swift",
       "kind": "IntegerLiteral",
-      "offset": 10173,
+      "offset": 10224,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/Framer.swift",
       "kind": "IntegerLiteral",
-      "offset": 10319,
+      "offset": 10370,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/Framer.swift",
       "kind": "IntegerLiteral",
-      "offset": 10373,
+      "offset": 10424,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/Framer.swift",
       "kind": "IntegerLiteral",
-      "offset": 10464,
+      "offset": 10515,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/Framer.swift",
       "kind": "IntegerLiteral",
-      "offset": 10518,
+      "offset": 10569,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/Framer.swift",
       "kind": "IntegerLiteral",
-      "offset": 11027,
+      "offset": 11078,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/Framer.swift",
       "kind": "IntegerLiteral",
-      "offset": 11034,
+      "offset": 11085,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/Framer.swift",
       "kind": "IntegerLiteral",
-      "offset": 11060,
+      "offset": 11111,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/Framer.swift",
       "kind": "IntegerLiteral",
-      "offset": 11353,
+      "offset": 11404,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/Framer.swift",
       "kind": "IntegerLiteral",
-      "offset": 11373,
+      "offset": 11424,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/Framer.swift",
       "kind": "IntegerLiteral",
-      "offset": 11377,
+      "offset": 11428,
       "length": 1,
       "value": "7"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/Framer.swift",
       "kind": "IntegerLiteral",
-      "offset": 11411,
+      "offset": 11462,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/Framer.swift",
       "kind": "IntegerLiteral",
-      "offset": 11602,
+      "offset": 11653,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/Framer.swift",
       "kind": "IntegerLiteral",
-      "offset": 11686,
+      "offset": 11737,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/Framer.swift",
       "kind": "IntegerLiteral",
-      "offset": 12197,
+      "offset": 12248,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/Framer.swift",
       "kind": "IntegerLiteral",
-      "offset": 12217,
+      "offset": 12268,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/Framer.swift",
       "kind": "IntegerLiteral",
-      "offset": 12240,
+      "offset": 12291,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/Framer.swift",
       "kind": "IntegerLiteral",
-      "offset": 12259,
+      "offset": 12310,
       "length": 4,
       "value": "0xff"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/Framer.swift",
       "kind": "IntegerLiteral",
-      "offset": 12615,
+      "offset": 12666,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/Framer.swift",
       "kind": "IntegerLiteral",
-      "offset": 12619,
+      "offset": 12670,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/Framer.swift",
       "kind": "IntegerLiteral",
-      "offset": 12669,
+      "offset": 12720,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/Framer.swift",
       "kind": "IntegerLiteral",
-      "offset": 12678,
+      "offset": 12729,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/Framer.swift",
       "kind": "IntegerLiteral",
-      "offset": 12689,
+      "offset": 12740,
       "length": 4,
       "value": "0xff"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/Framer.swift",
       "kind": "IntegerLiteral",
-      "offset": 13051,
+      "offset": 13102,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/Framer.swift",
       "kind": "IntegerLiteral",
-      "offset": 13055,
+      "offset": 13106,
       "length": 1,
       "value": "7"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/Framer.swift",
       "kind": "IntegerLiteral",
-      "offset": 13105,
+      "offset": 13156,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/Framer.swift",
       "kind": "IntegerLiteral",
-      "offset": 13114,
+      "offset": 13165,
       "length": 1,
       "value": "7"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/Framer.swift",
       "kind": "IntegerLiteral",
-      "offset": 13125,
+      "offset": 13176,
       "length": 4,
       "value": "0xff"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Engine\/WSEngine.swift",
       "kind": "BooleanLiteral",
-      "offset": 644,
+      "offset": 1404,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Engine\/WSEngine.swift",
       "kind": "StringLiteral",
-      "offset": 680,
+      "offset": 1440,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Engine\/WSEngine.swift",
       "kind": "StringLiteral",
-      "offset": 733,
+      "offset": 1493,
       "length": 33,
       "value": "\"com.vluxe.starscream.writequeue\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Engine\/WSEngine.swift",
       "kind": "IntegerLiteral",
-      "offset": 817,
+      "offset": 1577,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Engine\/WSEngine.swift",
       "kind": "BooleanLiteral",
-      "offset": 846,
+      "offset": 1606,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Engine\/WSEngine.swift",
       "kind": "BooleanLiteral",
-      "offset": 934,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Engine\/WSEngine.swift",
-      "kind": "IntegerLiteral",
-      "offset": 2414,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Engine\/WSEngine.swift",
-      "kind": "IntegerLiteral",
-      "offset": 2472,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Engine\/WSEngine.swift",
-      "kind": "BooleanLiteral",
-      "offset": 3347,
+      "offset": 1643,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Engine\/WSEngine.swift",
       "kind": "BooleanLiteral",
-      "offset": 3539,
+      "offset": 1731,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Engine\/WSEngine.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3046,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Engine\/WSEngine.swift",
       "kind": "IntegerLiteral",
-      "offset": 4800,
+      "offset": 3340,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Engine\/WSEngine.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3398,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Engine\/WSEngine.swift",
       "kind": "BooleanLiteral",
-      "offset": 5469,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Engine\/WSEngine.swift",
-      "kind": "BooleanLiteral",
-      "offset": 5496,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Engine\/WSEngine.swift",
-      "kind": "BooleanLiteral",
-      "offset": 7658,
+      "offset": 3725,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Engine\/WSEngine.swift",
       "kind": "BooleanLiteral",
-      "offset": 7685,
+      "offset": 4355,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Engine\/WSEngine.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4547,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Engine\/WSEngine.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5808,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Engine\/WSEngine.swift",
+      "kind": "BooleanLiteral",
+      "offset": 6046,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Engine\/WSEngine.swift",
+      "kind": "BooleanLiteral",
+      "offset": 6577,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Engine\/WSEngine.swift",
+      "kind": "BooleanLiteral",
+      "offset": 6608,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Engine\/WSEngine.swift",
+      "kind": "BooleanLiteral",
+      "offset": 6635,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Engine\/WSEngine.swift",
+      "kind": "BooleanLiteral",
+      "offset": 8802,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Engine\/WSEngine.swift",
+      "kind": "BooleanLiteral",
+      "offset": 8826,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Engine\/WSEngine.swift",
+      "kind": "BooleanLiteral",
+      "offset": 8853,
       "length": 5,
       "value": "false"
     },
@@ -2613,91 +2662,91 @@
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/StringHTTPHandler.swift",
       "kind": "BooleanLiteral",
-      "offset": 3923,
+      "offset": 3932,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/StringHTTPHandler.swift",
       "kind": "BooleanLiteral",
-      "offset": 4021,
+      "offset": 4030,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/StringHTTPHandler.swift",
       "kind": "StringLiteral",
-      "offset": 4221,
+      "offset": 4230,
       "length": 4,
       "value": "\"\r\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/StringHTTPHandler.swift",
       "kind": "StringLiteral",
-      "offset": 4241,
+      "offset": 4250,
       "length": 4,
       "value": "\"\n\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/StringHTTPHandler.swift",
       "kind": "StringLiteral",
-      "offset": 4261,
+      "offset": 4270,
       "length": 4,
       "value": "\"\r\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/StringHTTPHandler.swift",
       "kind": "StringLiteral",
-      "offset": 4281,
+      "offset": 4290,
       "length": 4,
       "value": "\"\n\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/StringHTTPHandler.swift",
       "kind": "IntegerLiteral",
-      "offset": 4400,
+      "offset": 4409,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/StringHTTPHandler.swift",
       "kind": "IntegerLiteral",
-      "offset": 4419,
+      "offset": 4428,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/StringHTTPHandler.swift",
       "kind": "IntegerLiteral",
-      "offset": 4500,
+      "offset": 4509,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/StringHTTPHandler.swift",
       "kind": "IntegerLiteral",
-      "offset": 4526,
+      "offset": 4535,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/StringHTTPHandler.swift",
       "kind": "IntegerLiteral",
-      "offset": 4561,
+      "offset": 4570,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/StringHTTPHandler.swift",
       "kind": "IntegerLiteral",
-      "offset": 4622,
+      "offset": 4631,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/StringHTTPHandler.swift",
       "kind": "IntegerLiteral",
-      "offset": 4663,
+      "offset": 4672,
       "length": 2,
       "value": "-1"
     },
@@ -2781,189 +2830,189 @@
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Transport\/TCPTransport.swift",
       "kind": "IntegerLiteral",
-      "offset": 1670,
+      "offset": 1711,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Transport\/TCPTransport.swift",
       "kind": "BooleanLiteral",
-      "offset": 2474,
+      "offset": 2515,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Transport\/TCPTransport.swift",
       "kind": "BooleanLiteral",
-      "offset": 2744,
+      "offset": 2785,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Transport\/TCPTransport.swift",
       "kind": "BooleanLiteral",
-      "offset": 2840,
+      "offset": 2881,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Transport\/TCPTransport.swift",
       "kind": "BooleanLiteral",
-      "offset": 3236,
+      "offset": 3277,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Transport\/TCPTransport.swift",
       "kind": "BooleanLiteral",
-      "offset": 4693,
+      "offset": 4759,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Transport\/TCPTransport.swift",
       "kind": "IntegerLiteral",
-      "offset": 4939,
+      "offset": 5005,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Transport\/TCPTransport.swift",
       "kind": "IntegerLiteral",
-      "offset": 4957,
+      "offset": 5023,
       "length": 4,
       "value": "4096"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/FoundationHTTPHandler.swift",
       "kind": "IntegerLiteral",
-      "offset": 2008,
+      "offset": 1996,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/FoundationHTTPHandler.swift",
       "kind": "IntegerLiteral",
-      "offset": 2055,
+      "offset": 2043,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/FoundationHTTPHandler.swift",
       "kind": "BooleanLiteral",
-      "offset": 2501,
+      "offset": 2489,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/FoundationHTTPHandler.swift",
       "kind": "BooleanLiteral",
-      "offset": 2617,
+      "offset": 2605,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/FoundationHTTPHandler.swift",
       "kind": "BooleanLiteral",
-      "offset": 2739,
+      "offset": 2727,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/FoundationHTTPHandler.swift",
       "kind": "BooleanLiteral",
-      "offset": 3024,
+      "offset": 3434,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/FoundationHTTPHandler.swift",
       "kind": "BooleanLiteral",
-      "offset": 3514,
+      "offset": 3548,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/FoundationHTTPHandler.swift",
       "kind": "BooleanLiteral",
-      "offset": 3633,
+      "offset": 3667,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/FoundationHTTPHandler.swift",
       "kind": "StringLiteral",
-      "offset": 3833,
+      "offset": 3867,
       "length": 4,
       "value": "\"\r\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/FoundationHTTPHandler.swift",
       "kind": "StringLiteral",
-      "offset": 3853,
+      "offset": 3887,
       "length": 4,
       "value": "\"\n\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/FoundationHTTPHandler.swift",
       "kind": "StringLiteral",
-      "offset": 3873,
+      "offset": 3907,
       "length": 4,
       "value": "\"\r\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/FoundationHTTPHandler.swift",
       "kind": "StringLiteral",
-      "offset": 3893,
+      "offset": 3927,
       "length": 4,
       "value": "\"\n\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/FoundationHTTPHandler.swift",
       "kind": "IntegerLiteral",
-      "offset": 4012,
+      "offset": 4046,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/FoundationHTTPHandler.swift",
       "kind": "IntegerLiteral",
-      "offset": 4031,
+      "offset": 4065,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/FoundationHTTPHandler.swift",
       "kind": "IntegerLiteral",
-      "offset": 4112,
+      "offset": 4146,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/FoundationHTTPHandler.swift",
       "kind": "IntegerLiteral",
-      "offset": 4138,
+      "offset": 4172,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/FoundationHTTPHandler.swift",
       "kind": "IntegerLiteral",
-      "offset": 4173,
+      "offset": 4207,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/FoundationHTTPHandler.swift",
       "kind": "IntegerLiteral",
-      "offset": 4234,
+      "offset": 4268,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/FoundationHTTPHandler.swift",
       "kind": "IntegerLiteral",
-      "offset": 4275,
+      "offset": 4309,
       "length": 2,
       "value": "-1"
     },
@@ -2998,77 +3047,77 @@
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Transport\/FoundationTransport.swift",
       "kind": "IntegerLiteral",
-      "offset": 1927,
+      "offset": 1875,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Transport\/FoundationTransport.swift",
       "kind": "BooleanLiteral",
-      "offset": 3146,
+      "offset": 3094,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Transport\/FoundationTransport.swift",
       "kind": "BooleanLiteral",
-      "offset": 3995,
+      "offset": 3943,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Transport\/FoundationTransport.swift",
       "kind": "IntegerLiteral",
-      "offset": 4398,
+      "offset": 4346,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Transport\/FoundationTransport.swift",
       "kind": "IntegerLiteral",
-      "offset": 4736,
+      "offset": 4684,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Transport\/FoundationTransport.swift",
       "kind": "IntegerLiteral",
-      "offset": 5586,
+      "offset": 5534,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Transport\/FoundationTransport.swift",
       "kind": "IntegerLiteral",
-      "offset": 5993,
+      "offset": 5941,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Transport\/FoundationTransport.swift",
       "kind": "IntegerLiteral",
-      "offset": 6239,
+      "offset": 6187,
       "length": 4,
       "value": "4096"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Transport\/FoundationTransport.swift",
       "kind": "IntegerLiteral",
-      "offset": 6483,
+      "offset": 6431,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Transport\/FoundationTransport.swift",
       "kind": "BooleanLiteral",
-      "offset": 7626,
+      "offset": 7506,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Transport\/FoundationTransport.swift",
       "kind": "BooleanLiteral",
-      "offset": 7974,
+      "offset": 7854,
       "length": 4,
       "value": "true"
     },
@@ -3165,337 +3214,330 @@
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Compression\/WSCompression.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1869,
+      "length": 2,
+      "value": "15"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Compression\/WSCompression.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1921,
+      "length": 2,
+      "value": "15"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Compression\/WSCompression.swift",
       "kind": "StringLiteral",
-      "offset": 1833,
+      "offset": 1994,
       "length": 3,
       "value": "\";\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Compression\/WSCompression.swift",
       "kind": "StringLiteral",
-      "offset": 1955,
+      "offset": 2116,
       "length": 25,
       "value": "\"server_max_window_bits=\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Compression\/WSCompression.swift",
       "kind": "StringLiteral",
-      "offset": 2045,
+      "offset": 2206,
       "length": 3,
       "value": "\"=\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Compression\/WSCompression.swift",
       "kind": "IntegerLiteral",
-      "offset": 2050,
+      "offset": 2211,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Compression\/WSCompression.swift",
       "kind": "StringLiteral",
-      "offset": 2256,
+      "offset": 2417,
       "length": 25,
       "value": "\"client_max_window_bits=\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Compression\/WSCompression.swift",
       "kind": "StringLiteral",
-      "offset": 2346,
+      "offset": 2507,
       "length": 3,
       "value": "\"=\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Compression\/WSCompression.swift",
       "kind": "IntegerLiteral",
-      "offset": 2351,
+      "offset": 2512,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Compression\/WSCompression.swift",
       "kind": "StringLiteral",
-      "offset": 2546,
+      "offset": 2707,
       "length": 28,
       "value": "\"client_no_context_takeover\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Compression\/WSCompression.swift",
       "kind": "BooleanLiteral",
-      "offset": 2614,
+      "offset": 2775,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Compression\/WSCompression.swift",
       "kind": "StringLiteral",
-      "offset": 2649,
+      "offset": 2810,
       "length": 28,
       "value": "\"server_no_context_takeover\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Compression\/WSCompression.swift",
       "kind": "BooleanLiteral",
-      "offset": 2719,
+      "offset": 2880,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Compression\/WSCompression.swift",
       "kind": "IntegerLiteral",
-      "offset": 3728,
+      "offset": 3889,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Compression\/WSCompression.swift",
       "kind": "IntegerLiteral",
-      "offset": 3738,
+      "offset": 3899,
       "length": 6,
       "value": "0x2000"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Compression\/WSCompression.swift",
       "kind": "BooleanLiteral",
-      "offset": 3783,
+      "offset": 3944,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Compression\/WSCompression.swift",
       "kind": "BooleanLiteral",
-      "offset": 4193,
+      "offset": 4346,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Compression\/WSCompression.swift",
       "kind": "BooleanLiteral",
-      "offset": 4217,
+      "offset": 4370,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Compression\/WSCompression.swift",
       "kind": "BooleanLiteral",
-      "offset": 4247,
+      "offset": 4400,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Compression\/WSCompression.swift",
       "kind": "StringLiteral",
-      "offset": 4395,
+      "offset": 4548,
       "length": 33,
       "value": "\"Error for decompressor on reset\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Compression\/WSCompression.swift",
       "kind": "IntegerLiteral",
-      "offset": 4436,
+      "offset": 4589,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Compression\/WSCompression.swift",
       "kind": "Array",
-      "offset": 4945,
+      "offset": 5098,
       "length": 24,
       "value": "[0x00, 0x00, 0xFF, 0xFF]"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Compression\/WSCompression.swift",
       "kind": "IntegerLiteral",
-      "offset": 5214,
+      "offset": 5367,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Compression\/WSCompression.swift",
       "kind": "IntegerLiteral",
-      "offset": 5587,
+      "offset": 5740,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Compression\/WSCompression.swift",
       "kind": "IntegerLiteral",
-      "offset": 5766,
+      "offset": 5919,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Compression\/WSCompression.swift",
       "kind": "IntegerLiteral",
-      "offset": 5816,
+      "offset": 5969,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Compression\/WSCompression.swift",
       "kind": "StringLiteral",
-      "offset": 5977,
+      "offset": 6130,
       "length": 24,
       "value": "\"Error on decompressing\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Compression\/WSCompression.swift",
       "kind": "IntegerLiteral",
-      "offset": 6009,
+      "offset": 6162,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Compression\/WSCompression.swift",
       "kind": "BooleanLiteral",
-      "offset": 6158,
+      "offset": 6311,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Compression\/WSCompression.swift",
       "kind": "IntegerLiteral",
-      "offset": 6326,
+      "offset": 6479,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Compression\/WSCompression.swift",
       "kind": "IntegerLiteral",
-      "offset": 6336,
+      "offset": 6489,
       "length": 6,
       "value": "0x2000"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Compression\/WSCompression.swift",
       "kind": "BooleanLiteral",
-      "offset": 6381,
+      "offset": 6534,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Compression\/WSCompression.swift",
       "kind": "IntegerLiteral",
-      "offset": 6737,
+      "offset": 6903,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Compression\/WSCompression.swift",
       "kind": "BooleanLiteral",
-      "offset": 6897,
+      "offset": 7068,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Compression\/WSCompression.swift",
       "kind": "BooleanLiteral",
-      "offset": 6921,
+      "offset": 7092,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Compression\/WSCompression.swift",
       "kind": "BooleanLiteral",
-      "offset": 6951,
+      "offset": 7122,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Compression\/WSCompression.swift",
       "kind": "StringLiteral",
-      "offset": 7099,
+      "offset": 7270,
       "length": 31,
       "value": "\"Error for compressor on reset\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Compression\/WSCompression.swift",
       "kind": "IntegerLiteral",
-      "offset": 7138,
+      "offset": 7309,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Compression\/WSCompression.swift",
       "kind": "IntegerLiteral",
-      "offset": 7255,
+      "offset": 7544,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Compression\/WSCompression.swift",
       "kind": "IntegerLiteral",
-      "offset": 7953,
+      "offset": 8242,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Compression\/WSCompression.swift",
       "kind": "IntegerLiteral",
-      "offset": 8013,
+      "offset": 8302,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Compression\/WSCompression.swift",
       "kind": "StringLiteral",
-      "offset": 8165,
+      "offset": 8454,
       "length": 22,
       "value": "\"Error on compressing\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Compression\/WSCompression.swift",
       "kind": "IntegerLiteral",
-      "offset": 8195,
+      "offset": 8484,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Compression\/WSCompression.swift",
       "kind": "IntegerLiteral",
-      "offset": 8239,
+      "offset": 8528,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Compression\/WSCompression.swift",
       "kind": "BooleanLiteral",
-      "offset": 8404,
+      "offset": 8693,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Starscream\/WebSocket.swift",
       "kind": "BooleanLiteral",
-      "offset": 3187,
+      "offset": 3225,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Starscream\/WebSocket.swift",
-      "kind": "StringLiteral",
-      "offset": 3367,
-      "length": 33,
-      "value": "\"com.vluxe.starscream.writequeue\""
-    },
-    {
-      "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Starscream\/WebSocket.swift",
       "kind": "BooleanLiteral",
-      "offset": 3428,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Starscream\/WebSocket.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3483,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Starscream\/WebSocket.swift",
-      "kind": "BooleanLiteral",
-      "offset": 3812,
+      "offset": 3617,
       "length": 4,
       "value": "true"
     },
@@ -3866,238 +3908,238 @@
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Engine\/NativeEngine.swift",
       "kind": "StringLiteral",
-      "offset": 2679,
+      "offset": 3462,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Engine\/NativeEngine.swift",
       "kind": "StringLiteral",
-      "offset": 2937,
+      "offset": 3720,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Engine\/NativeEngine.swift",
       "kind": "StringLiteral",
-      "offset": 3020,
+      "offset": 3803,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Server\/WebSocketServer.swift",
       "kind": "StringLiteral",
-      "offset": 1369,
+      "offset": 1376,
       "length": 43,
       "value": "\"com.vluxe.starscream.server.networkstream\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Server\/WebSocketServer.swift",
       "kind": "Array",
-      "offset": 1426,
+      "offset": 1433,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Server\/WebSocketServer.swift",
       "kind": "StringLiteral",
-      "offset": 1958,
+      "offset": 1965,
       "length": 53,
       "value": "\"unable to start the listener at: \""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Server\/WebSocketServer.swift",
       "kind": "StringLiteral",
-      "offset": 2002,
+      "offset": 2009,
       "length": 1,
       "value": "\":\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Server\/WebSocketServer.swift",
       "kind": "StringLiteral",
-      "offset": 2010,
+      "offset": 2017,
       "length": 11,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Server\/WebSocketServer.swift",
       "kind": "IntegerLiteral",
-      "offset": 2019,
+      "offset": 2026,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Server\/WebSocketServer.swift",
       "kind": "BooleanLiteral",
-      "offset": 3634,
+      "offset": 3641,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Server\/WebSocketServer.swift",
       "kind": "BooleanLiteral",
-      "offset": 3717,
+      "offset": 3724,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Server\/WebSocketServer.swift",
       "kind": "BooleanLiteral",
-      "offset": 4314,
+      "offset": 4336,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Server\/WebSocketServer.swift",
       "kind": "StringLiteral",
-      "offset": 4643,
+      "offset": 4665,
       "length": 118,
       "value": "\"server connection error: \""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Server\/WebSocketServer.swift",
       "kind": "StringLiteral",
-      "offset": 4719,
+      "offset": 4741,
       "length": 30,
       "value": "\"default error, no extra data\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Server\/WebSocketServer.swift",
       "kind": "IntegerLiteral",
-      "offset": 4757,
+      "offset": 4779,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Server\/WebSocketServer.swift",
       "kind": "StringLiteral",
-      "offset": 4760,
+      "offset": 4782,
       "length": 23,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Server\/WebSocketServer.swift",
       "kind": "StringLiteral",
-      "offset": 5106,
+      "offset": 5128,
       "length": 30,
       "value": "\"server connection cancelled!\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Server\/WebSocketServer.swift",
       "kind": "StringLiteral",
-      "offset": 5267,
+      "offset": 5289,
       "length": 27,
       "value": "\"Connection closed by peer\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Server\/WebSocketServer.swift",
       "kind": "BooleanLiteral",
-      "offset": 5528,
+      "offset": 5550,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Server\/WebSocketServer.swift",
       "kind": "Dictionary",
-      "offset": 5596,
+      "offset": 5618,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/FrameCollector.swift",
       "kind": "IntegerLiteral",
-      "offset": 1373,
+      "offset": 1380,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/FrameCollector.swift",
       "kind": "BooleanLiteral",
-      "offset": 1392,
+      "offset": 1399,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/FrameCollector.swift",
       "kind": "BooleanLiteral",
-      "offset": 1481,
+      "offset": 1488,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/FrameCollector.swift",
       "kind": "StringLiteral",
-      "offset": 1691,
+      "offset": 1698,
       "length": 29,
       "value": "\"connection closed by server\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/FrameCollector.swift",
       "kind": "IntegerLiteral",
-      "offset": 2326,
+      "offset": 2333,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/FrameCollector.swift",
       "kind": "StringLiteral",
-      "offset": 2472,
+      "offset": 2479,
       "length": 39,
       "value": "\"first frame can't be a continue frame\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/FrameCollector.swift",
       "kind": "IntegerLiteral",
-      "offset": 2600,
+      "offset": 2607,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/FrameCollector.swift",
       "kind": "StringLiteral",
-      "offset": 2813,
+      "offset": 2874,
       "length": 64,
       "value": "\"second and beyond of fragment message must be a continue frame\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/FrameCollector.swift",
       "kind": "IntegerLiteral",
-      "offset": 2999,
+      "offset": 3106,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/FrameCollector.swift",
       "kind": "IntegerLiteral",
-      "offset": 3405,
+      "offset": 3512,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/FrameCollector.swift",
       "kind": "StringLiteral",
-      "offset": 3772,
+      "offset": 3879,
       "length": 22,
       "value": "\"not valid UTF-8 data\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Framer\/FrameCollector.swift",
       "kind": "IntegerLiteral",
-      "offset": 4029,
+      "offset": 4136,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/DataBytes\/Data+Extensions.swift",
       "kind": "IntegerLiteral",
-      "offset": 1284,
+      "offset": 1298,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/DataBytes\/Data+Extensions.swift",
       "kind": "IntegerLiteral",
-      "offset": 1792,
+      "offset": 1798,
       "length": 1,
       "value": "0"
     }
