@@ -3544,364 +3544,364 @@
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/Source\/SocketClientLogger.swift",
       "kind": "StringLiteral",
-      "offset": 689,
+      "offset": 688,
       "length": 26,
       "value": "\"com.zendesk.SocketClient\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/Source\/SocketClientLogger.swift",
       "kind": "StringLiteral",
-      "offset": 746,
+      "offset": 744,
       "length": 4,
       "value": "\"WS\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/Source\/SocketClientLogger.swift",
       "kind": "StringLiteral",
-      "offset": 841,
+      "offset": 839,
       "length": 104,
       "value": "\"Socket Status Updated: \""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/Source\/SocketClientLogger.swift",
       "kind": "StringLiteral",
-      "offset": 903,
+      "offset": 901,
       "length": 1,
       "value": "\" (with event: \""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/Source\/SocketClientLogger.swift",
       "kind": "StringLiteral",
-      "offset": 943,
+      "offset": 941,
       "length": 1,
       "value": "\")\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/Source\/SocketClientLogger.swift",
       "kind": "StringLiteral",
-      "offset": 1074,
+      "offset": 1072,
       "length": 24,
       "value": "\"Socket receive event: \""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/Source\/SocketClientLogger.swift",
       "kind": "StringLiteral",
-      "offset": 1122,
+      "offset": 1120,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/Source\/SocketClientLogger.swift",
       "kind": "StringLiteral",
-      "offset": 1148,
+      "offset": 1146,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/Source\/SocketClientLogger.swift",
       "kind": "StringLiteral",
-      "offset": 1246,
+      "offset": 1244,
       "length": 39,
       "value": "\"reconnection suggested (\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/Source\/SocketClientLogger.swift",
       "kind": "StringLiteral",
-      "offset": 1283,
+      "offset": 1281,
       "length": 1,
       "value": "\")\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/Source\/SocketClientLogger.swift",
       "kind": "StringLiteral",
-      "offset": 1334,
+      "offset": 1332,
       "length": 22,
       "value": "\"connection cancelled\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/Source\/SocketClientLogger.swift",
       "kind": "StringLiteral",
-      "offset": 1412,
+      "offset": 1410,
       "length": 15,
       "value": "\"data received\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/Source\/SocketClientLogger.swift",
       "kind": "StringLiteral",
-      "offset": 1566,
+      "offset": 1564,
       "length": 11,
       "value": "\" (\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/Source\/SocketClientLogger.swift",
       "kind": "StringLiteral",
-      "offset": 1576,
+      "offset": 1574,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/Source\/SocketClientLogger.swift",
       "kind": "StringLiteral",
-      "offset": 1652,
+      "offset": 1650,
       "length": 31,
       "value": "\"connected (header: \""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/Source\/SocketClientLogger.swift",
       "kind": "StringLiteral",
-      "offset": 1681,
+      "offset": 1679,
       "length": 1,
       "value": "\")\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/Source\/SocketClientLogger.swift",
       "kind": "StringLiteral",
-      "offset": 1739,
+      "offset": 1737,
       "length": 46,
       "value": "\"error (\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/Source\/SocketClientLogger.swift",
       "kind": "StringLiteral",
-      "offset": 1780,
+      "offset": 1778,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/Source\/SocketClientLogger.swift",
       "kind": "StringLiteral",
-      "offset": 1783,
+      "offset": 1781,
       "length": 1,
       "value": "\")\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/Source\/SocketClientLogger.swift",
       "kind": "StringLiteral",
-      "offset": 1839,
+      "offset": 1837,
       "length": 25,
       "value": "\"text received (\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/Source\/SocketClientLogger.swift",
       "kind": "StringLiteral",
-      "offset": 1862,
+      "offset": 1860,
       "length": 1,
       "value": "\")\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/Source\/SocketClientLogger.swift",
       "kind": "StringLiteral",
-      "offset": 1908,
+      "offset": 1906,
       "length": 15,
       "value": "\"ping received\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/Source\/SocketClientLogger.swift",
       "kind": "StringLiteral",
-      "offset": 1967,
+      "offset": 1965,
       "length": 15,
       "value": "\"pong received\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/Source\/SocketClientLogger.swift",
       "kind": "StringLiteral",
-      "offset": 2056,
+      "offset": 2054,
       "length": 33,
       "value": "\"disconnect (\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/Source\/SocketClientLogger.swift",
       "kind": "StringLiteral",
-      "offset": 2078,
+      "offset": 2076,
       "length": 1,
       "value": "\", \""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/Source\/SocketClientLogger.swift",
       "kind": "StringLiteral",
-      "offset": 2087,
+      "offset": 2085,
       "length": 1,
       "value": "\")\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/Source\/SocketClientLogger.swift",
       "kind": "StringLiteral",
-      "offset": 2160,
+      "offset": 2158,
       "length": 34,
       "value": "\"viability changed (\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/Source\/SocketClientLogger.swift",
       "kind": "StringLiteral",
-      "offset": 2192,
+      "offset": 2190,
       "length": 1,
       "value": "\")\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/Source\/SocketClientLogger.swift",
       "kind": "StringLiteral",
-      "offset": 2244,
+      "offset": 2242,
       "length": 24,
       "value": "\"Peer closed connection\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/Source\/SocketClientLogger.swift",
       "kind": "StringLiteral",
-      "offset": 2333,
+      "offset": 2331,
       "length": 24,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/Source\/SocketClientLogger.swift",
       "kind": "StringLiteral",
-      "offset": 2345,
+      "offset": 2343,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/Source\/SocketClientLogger.swift",
       "kind": "StringLiteral",
-      "offset": 2356,
+      "offset": 2354,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/Source\/SocketClientLogger.swift",
       "kind": "StringLiteral",
-      "offset": 2422,
+      "offset": 2420,
       "length": 24,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/Source\/SocketClientLogger.swift",
       "kind": "StringLiteral",
-      "offset": 2434,
+      "offset": 2432,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/Source\/SocketClientLogger.swift",
       "kind": "StringLiteral",
-      "offset": 2445,
+      "offset": 2443,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/Source\/SocketClientLogger.swift",
       "kind": "StringLiteral",
-      "offset": 2520,
+      "offset": 2518,
       "length": 27,
       "value": "\"Socket send text: \""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/Source\/SocketClientLogger.swift",
       "kind": "StringLiteral",
-      "offset": 2546,
+      "offset": 2544,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/Source\/SocketClientLogger.swift",
       "kind": "StringLiteral",
-      "offset": 2679,
+      "offset": 2677,
       "length": 7,
       "value": "\"Error\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/Source\/SocketClientLogger.swift",
       "kind": "StringLiteral",
-      "offset": 2727,
+      "offset": 2725,
       "length": 8,
       "value": "\"At end\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/Source\/SocketClientLogger.swift",
       "kind": "StringLiteral",
-      "offset": 2777,
+      "offset": 2775,
       "length": 8,
       "value": "\"Closed\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/Source\/SocketClientLogger.swift",
       "kind": "StringLiteral",
-      "offset": 2828,
+      "offset": 2826,
       "length": 10,
       "value": "\"Not open\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/Source\/SocketClientLogger.swift",
       "kind": "StringLiteral",
-      "offset": 2878,
+      "offset": 2876,
       "length": 6,
       "value": "\"Open\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/Source\/SocketClientLogger.swift",
       "kind": "StringLiteral",
-      "offset": 2927,
+      "offset": 2925,
       "length": 9,
       "value": "\"Opening\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/Source\/SocketClientLogger.swift",
       "kind": "StringLiteral",
-      "offset": 2979,
+      "offset": 2977,
       "length": 9,
       "value": "\"Reading\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/Source\/SocketClientLogger.swift",
       "kind": "StringLiteral",
-      "offset": 3031,
+      "offset": 3029,
       "length": 9,
       "value": "\"Writing\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/Source\/SocketClientLogger.swift",
       "kind": "StringLiteral",
-      "offset": 3086,
+      "offset": 3084,
       "length": 16,
       "value": "\"Unknown status\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/Source\/SocketClientLogger.swift",
       "kind": "StringLiteral",
-      "offset": 3250,
+      "offset": 3248,
       "length": 17,
       "value": "\"End encountered\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/Source\/SocketClientLogger.swift",
       "kind": "StringLiteral",
-      "offset": 3316,
+      "offset": 3314,
       "length": 15,
       "value": "\"Error occured\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/Source\/SocketClientLogger.swift",
       "kind": "StringLiteral",
-      "offset": 3380,
+      "offset": 3378,
       "length": 16,
       "value": "\"Open completed\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/Source\/SocketClientLogger.swift",
       "kind": "StringLiteral",
-      "offset": 3449,
+      "offset": 3447,
       "length": 21,
       "value": "\"Has bytes available\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/Source\/SocketClientLogger.swift",
       "kind": "StringLiteral",
-      "offset": 3523,
+      "offset": 3521,
       "length": 21,
       "value": "\"Has space available\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/Source\/SocketClientLogger.swift",
       "kind": "StringLiteral",
-      "offset": 3581,
+      "offset": 3579,
       "length": 15,
       "value": "\"Unknown event\""
     },
