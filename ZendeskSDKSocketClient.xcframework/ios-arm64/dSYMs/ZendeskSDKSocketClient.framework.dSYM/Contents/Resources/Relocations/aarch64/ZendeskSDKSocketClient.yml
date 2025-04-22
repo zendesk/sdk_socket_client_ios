@@ -2,539 +2,448 @@
 triple:          'arm64-apple-darwin'
 binary-path:     '/Users/admin/Library/Developer/Xcode/DerivedData/NativeMessagingSDK-ejdedffsnypjggfzsqrvylswyzdo/Build/Intermediates.noindex/ArchiveIntermediates/SocketClient-Release/InstallationBuildProductsLocation/Library/Frameworks/ZendeskSDKSocketClient.framework/ZendeskSDKSocketClient'
 relocations:
-  - { offsetInCU: 0x34, offset: 0x31869, size: 0x8, addend: 0x0, symName: _ZendeskSDKSocketClientVersionString, symObjAddr: 0x0, symBinAddr: 0x1D690, symSize: 0x0 }
-  - { offsetInCU: 0x69, offset: 0x3189E, size: 0x8, addend: 0x0, symName: _ZendeskSDKSocketClientVersionNumber, symObjAddr: 0x40, symBinAddr: 0x1D6D0, symSize: 0x0 }
-  - { offsetInCU: 0x4B, offset: 0x318FF, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12HTTPWSHeaderV11upgradeNameSSvpZ', symObjAddr: 0x7AD0, symBinAddr: 0x2DCE8, symSize: 0x0 }
-  - { offsetInCU: 0x65, offset: 0x31919, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12HTTPWSHeaderV12upgradeValueSSvpZ', symObjAddr: 0x7AE0, symBinAddr: 0x2DCF8, symSize: 0x0 }
-  - { offsetInCU: 0x7F, offset: 0x31933, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12HTTPWSHeaderV8hostNameSSvpZ', symObjAddr: 0x7AF0, symBinAddr: 0x2DD08, symSize: 0x0 }
-  - { offsetInCU: 0x99, offset: 0x3194D, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12HTTPWSHeaderV14connectionNameSSvpZ', symObjAddr: 0x7B00, symBinAddr: 0x2DD18, symSize: 0x0 }
-  - { offsetInCU: 0xB3, offset: 0x31967, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12HTTPWSHeaderV15connectionValueSSvpZ', symObjAddr: 0x7B10, symBinAddr: 0x2DD28, symSize: 0x0 }
-  - { offsetInCU: 0xCD, offset: 0x31981, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12HTTPWSHeaderV12versionValueSSvpZ', symObjAddr: 0x7B20, symBinAddr: 0x2DD38, symSize: 0x0 }
-  - { offsetInCU: 0xE7, offset: 0x3199B, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12HTTPWSHeaderV10originNameSSvpZ', symObjAddr: 0x7B30, symBinAddr: 0x2DD48, symSize: 0x0 }
-  - { offsetInCU: 0x101, offset: 0x319B5, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12HTTPWSHeaderV17defaultSSLSchemesSaySSGvpZ', symObjAddr: 0x7B40, symBinAddr: 0x2DD58, symSize: 0x0 }
-  - { offsetInCU: 0x10F, offset: 0x319C3, size: 0x8, addend: 0x0, symName: '_$sSo10z_stream_sVwCP', symObjAddr: 0x34, symBinAddr: 0x4000, symSize: 0x30 }
-  - { offsetInCU: 0x123, offset: 0x319D7, size: 0x8, addend: 0x0, symName: ___swift_noop_void_return, symObjAddr: 0x64, symBinAddr: 0x4030, symSize: 0x4 }
-  - { offsetInCU: 0x137, offset: 0x319EB, size: 0x8, addend: 0x0, symName: ___swift_memcpy112_8, symObjAddr: 0x68, symBinAddr: 0x4034, symSize: 0x24 }
-  - { offsetInCU: 0x14B, offset: 0x319FF, size: 0x8, addend: 0x0, symName: '_$sSo10z_stream_sVwet', symObjAddr: 0x8C, symBinAddr: 0x4058, symSize: 0x5C }
-  - { offsetInCU: 0x15F, offset: 0x31A13, size: 0x8, addend: 0x0, symName: '_$sSo10z_stream_sVwst', symObjAddr: 0xE8, symBinAddr: 0x40B4, symSize: 0x70 }
-  - { offsetInCU: 0x173, offset: 0x31A27, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12HTTPWSHeaderV11upgradeName_WZ', symObjAddr: 0x17C, symBinAddr: 0x4148, symSize: 0x24 }
-  - { offsetInCU: 0x18D, offset: 0x31A41, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12HTTPWSHeaderV12upgradeValue_WZ', symObjAddr: 0x1A0, symBinAddr: 0x416C, symSize: 0x28 }
-  - { offsetInCU: 0x1A7, offset: 0x31A5B, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12HTTPWSHeaderV8hostName_WZ', symObjAddr: 0x1C8, symBinAddr: 0x4194, symSize: 0x1C }
-  - { offsetInCU: 0x1C1, offset: 0x31A75, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12HTTPWSHeaderV14connectionName_WZ', symObjAddr: 0x1E4, symBinAddr: 0x41B0, symSize: 0x28 }
-  - { offsetInCU: 0x1DB, offset: 0x31A8F, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12HTTPWSHeaderV15connectionValue_WZ', symObjAddr: 0x20C, symBinAddr: 0x41D8, symSize: 0x24 }
-  - { offsetInCU: 0x1F5, offset: 0x31AA9, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12HTTPWSHeaderV12versionValue_WZ', symObjAddr: 0x230, symBinAddr: 0x41FC, symSize: 0x18 }
-  - { offsetInCU: 0x20F, offset: 0x31AC3, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12HTTPWSHeaderV10originName_WZ', symObjAddr: 0x248, symBinAddr: 0x4214, symSize: 0x20 }
-  - { offsetInCU: 0x24A, offset: 0x31AFE, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12HTTPWSHeaderV17defaultSSLSchemes_WZ', symObjAddr: 0x268, symBinAddr: 0x4234, symSize: 0x60 }
-  - { offsetInCU: 0x3A5, offset: 0x31C59, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12HTTPWSHeaderV13createUpgrade7request19supportsCompression11secKeyValue10Foundation10URLRequestVAJ_SbSStFZ', symObjAddr: 0x2C8, symBinAddr: 0x4294, symSize: 0x968 }
-  - { offsetInCU: 0x6F5, offset: 0x31FA9, size: 0x8, addend: 0x0, symName: '_$s10Foundation3URLV22ZendeskSDKSocketClientE8getPartsAD8URLPartsVSgyF', symObjAddr: 0xC30, symBinAddr: 0x4BFC, symSize: 0xD8 }
-  - { offsetInCU: 0x790, offset: 0x32044, size: 0x8, addend: 0x0, symName: ___swift_instantiateConcreteTypeFromMangledName, symObjAddr: 0xD6C, symBinAddr: 0x4CD4, symSize: 0x40 }
-  - { offsetInCU: 0x7A4, offset: 0x32058, size: 0x8, addend: 0x0, symName: '_$s10Foundation3URLVSgWOh', symObjAddr: 0xDAC, symBinAddr: 0x4D14, symSize: 0x40 }
-  - { offsetInCU: 0x7B8, offset: 0x3206C, size: 0x8, addend: 0x0, symName: '_$sSo12NSHTTPCookieCMa', symObjAddr: 0xDEC, symBinAddr: 0x4D54, symSize: 0x3C }
-  - { offsetInCU: 0x7CC, offset: 0x32080, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient16HTTPUpgradeErrorOwCP', symObjAddr: 0xE28, symBinAddr: 0x4D90, symSize: 0x2C }
-  - { offsetInCU: 0x7E0, offset: 0x32094, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient16HTTPUpgradeErrorOwxx', symObjAddr: 0xE54, symBinAddr: 0x4DBC, symSize: 0x8 }
-  - { offsetInCU: 0x7F4, offset: 0x320A8, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient16HTTPUpgradeErrorOwcp', symObjAddr: 0xE5C, symBinAddr: 0x4DC4, symSize: 0x2C }
-  - { offsetInCU: 0x808, offset: 0x320BC, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient16HTTPUpgradeErrorOwca', symObjAddr: 0xE88, symBinAddr: 0x4DF0, symSize: 0x40 }
-  - { offsetInCU: 0x81C, offset: 0x320D0, size: 0x8, addend: 0x0, symName: ___swift_memcpy16_8, symObjAddr: 0xEC8, symBinAddr: 0x4E30, symSize: 0xC }
-  - { offsetInCU: 0x830, offset: 0x320E4, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient16HTTPUpgradeErrorOwta', symObjAddr: 0xED4, symBinAddr: 0x4E3C, symSize: 0x30 }
-  - { offsetInCU: 0x844, offset: 0x320F8, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient16HTTPUpgradeErrorOwet', symObjAddr: 0xF04, symBinAddr: 0x4E6C, symSize: 0x50 }
-  - { offsetInCU: 0x858, offset: 0x3210C, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient16HTTPUpgradeErrorOwst', symObjAddr: 0xF54, symBinAddr: 0x4EBC, symSize: 0x54 }
-  - { offsetInCU: 0x86C, offset: 0x32120, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient16HTTPUpgradeErrorOwug', symObjAddr: 0xFA8, symBinAddr: 0x4F10, symSize: 0x18 }
-  - { offsetInCU: 0x880, offset: 0x32134, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient16HTTPUpgradeErrorOwup', symObjAddr: 0xFC0, symBinAddr: 0x4F28, symSize: 0x4 }
-  - { offsetInCU: 0x894, offset: 0x32148, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient16HTTPUpgradeErrorOwui', symObjAddr: 0xFC4, symBinAddr: 0x4F2C, symSize: 0x20 }
-  - { offsetInCU: 0x8A8, offset: 0x3215C, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient16HTTPUpgradeErrorOMa', symObjAddr: 0xFE4, symBinAddr: 0x4F4C, symSize: 0x10 }
-  - { offsetInCU: 0x8FE, offset: 0x321B2, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient16HTTPUpgradeErrorOs0E0AAsADP7_domainSSvgTW', symObjAddr: 0x16C, symBinAddr: 0x4138, symSize: 0x4 }
-  - { offsetInCU: 0x91A, offset: 0x321CE, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient16HTTPUpgradeErrorOs0E0AAsADP5_codeSivgTW', symObjAddr: 0x170, symBinAddr: 0x413C, symSize: 0x4 }
-  - { offsetInCU: 0x936, offset: 0x321EA, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient16HTTPUpgradeErrorOs0E0AAsADP9_userInfoyXlSgvgTW', symObjAddr: 0x174, symBinAddr: 0x4140, symSize: 0x4 }
-  - { offsetInCU: 0x952, offset: 0x32206, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient16HTTPUpgradeErrorOs0E0AAsADP19_getEmbeddedNSErroryXlSgyFTW', symObjAddr: 0x178, symBinAddr: 0x4144, symSize: 0x4 }
-  - { offsetInCU: 0x2B, offset: 0x3248C, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient18FoundationSecurityCfD', symObjAddr: 0x0, symBinAddr: 0x5044, symSize: 0x10 }
-  - { offsetInCU: 0x4F, offset: 0x324B0, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient18FoundationSecurityCfD', symObjAddr: 0x0, symBinAddr: 0x5044, symSize: 0x10 }
-  - { offsetInCU: 0x7F, offset: 0x324E0, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient18FoundationSecurityCMa', symObjAddr: 0x10, symBinAddr: 0x5054, symSize: 0x20 }
-  - { offsetInCU: 0xCA, offset: 0x3252B, size: 0x8, addend: 0x0, symName: '_$sSS22ZendeskSDKSocketClientE10sha1Base6433_843BB418AA5389B558449A8B2285C394LLSSyFSays5UInt8VGSWXEfU_', symObjAddr: 0x30, symBinAddr: 0x5074, symSize: 0xD8 }
-  - { offsetInCU: 0x235, offset: 0x32696, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient18FoundationSecurityC13evaluateTrust5trust6domain10completionySo03SecG3Refa_SSSgyAA12PinningStateOXEtF04$s22ab147Client12TCPTransportC7connect3url7timeout18certificatePinningy10Foundation3URLV_SdAA011CertificateI0_pSgtFySo24OS_sec_protocol_metadata_p_So0m1_N6_h17_pySbctcfU_yAA0I5N6OXEfU_SbIegy_Tf1nncn_nTf4nnng_n', symObjAddr: 0x118, symBinAddr: 0x515C, symSize: 0x110 }
-  - { offsetInCU: 0x349, offset: 0x327AA, size: 0x8, addend: 0x0, symName: '_$s10Foundation4DataV06InlineB0V15withUnsafeBytesyxxSWKXEKlFSays5UInt8VG_Tg5087$sSS22ZendeskSDKSocketClientE10sha1Base6433_843BB418AA5389B558449A8B2285C394LLSSyFSays5G9VGSWXEfU_ACTf1cn_nTf4ng_n', symObjAddr: 0x228, symBinAddr: 0x526C, symSize: 0xD0 }
-  - { offsetInCU: 0x3A6, offset: 0x32807, size: 0x8, addend: 0x0, symName: '_$s10Foundation13__DataStorageC15withUnsafeBytes2in5applyxSnySiG_xSWKXEtKlFSays5UInt8VG_Tg5087$sSS22ZendeskSDKSocketClientE10sha1Base6433_843BB418AA5389B558449A8B2285C394LLSSyFSays5I9VGSWXEfU_AA0B0VTf1ncn_nTf4nng_n', symObjAddr: 0x2F8, symBinAddr: 0x533C, symSize: 0xB0 }
-  - { offsetInCU: 0x536, offset: 0x32997, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient18FoundationSecurityC8validate7headers3keys5Error_pSgSDyS2SG_SStFTf4nnd_n', symObjAddr: 0x3A8, symBinAddr: 0x53EC, symSize: 0x388 }
-  - { offsetInCU: 0x810, offset: 0x32C71, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient18FoundationSecurityC13evaluateTrust5trust6domain10completionySo03SecG3Refa_SSSgyAA12PinningStateOXEtF04$s22ab8Client19d57TransportC6stream_6handleySo8NSStreamC_So0H5EventVtFyAA12mN6OXEfU_AA0dQ0CSgXwz_XxTf1nncn_nTf4nnng_n', symObjAddr: 0x740, symBinAddr: 0x5784, symSize: 0x1B8 }
-  - { offsetInCU: 0x8FA, offset: 0x32D5B, size: 0x8, addend: 0x0, symName: '_$sS2SSysWl', symObjAddr: 0x8F8, symBinAddr: 0x593C, symSize: 0x44 }
-  - { offsetInCU: 0x90E, offset: 0x32D6F, size: 0x8, addend: 0x0, symName: '_$s10Foundation4DataV15_RepresentationOWOy', symObjAddr: 0x93C, symBinAddr: 0x5980, symSize: 0x50 }
-  - { offsetInCU: 0x922, offset: 0x32D83, size: 0x8, addend: 0x0, symName: '_$s10Foundation4DataVSgWOe', symObjAddr: 0x98C, symBinAddr: 0x59D0, symSize: 0x14 }
-  - { offsetInCU: 0x936, offset: 0x32D97, size: 0x8, addend: 0x0, symName: '_$s10Foundation4DataV15_RepresentationOWOe', symObjAddr: 0x9A0, symBinAddr: 0x59E4, symSize: 0x44 }
-  - { offsetInCU: 0x94A, offset: 0x32DAB, size: 0x8, addend: 0x0, symName: '_$sSays5UInt8VGSayxG10Foundation15ContiguousBytesAeBRszlWl', symObjAddr: 0xA24, symBinAddr: 0x5A28, symSize: 0x48 }
-  - { offsetInCU: 0x95E, offset: 0x32DBF, size: 0x8, addend: 0x0, symName: '_$sSays5UInt8VGMa', symObjAddr: 0xA6C, symBinAddr: 0x5A70, symSize: 0x54 }
-  - { offsetInCU: 0x972, offset: 0x32DD3, size: 0x8, addend: 0x0, symName: ___swift_project_boxed_opaque_existential_1, symObjAddr: 0xAC0, symBinAddr: 0x5AC4, symSize: 0x24 }
-  - { offsetInCU: 0x986, offset: 0x32DE7, size: 0x8, addend: 0x0, symName: ___swift_destroy_boxed_opaque_existential_1, symObjAddr: 0xAE4, symBinAddr: 0x5AE8, symSize: 0x20 }
-  - { offsetInCU: 0x99A, offset: 0x32DFB, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient7WSErrorVACs5ErrorAAWl', symObjAddr: 0xB04, symBinAddr: 0x5B08, symSize: 0x44 }
-  - { offsetInCU: 0x92, offset: 0x3318B, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient11FrameOpCodeOSYAASY8rawValuexSg03RawH0Qz_tcfCTW', symObjAddr: 0x180, symBinAddr: 0x5C70, symSize: 0x70 }
-  - { offsetInCU: 0xBB, offset: 0x331B4, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient11FrameOpCodeOSYAASY8rawValue03RawH0QzvgTW', symObjAddr: 0x1F0, symBinAddr: 0x5CE0, symSize: 0x24 }
-  - { offsetInCU: 0x112, offset: 0x3320B, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSFramerC8isServerACSb_tcfc', symObjAddr: 0x214, symBinAddr: 0x5D04, symSize: 0x1C8 }
-  - { offsetInCU: 0x184, offset: 0x3327D, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSFramerC3add4datay10Foundation4DataV_tF', symObjAddr: 0x3DC, symBinAddr: 0x5ECC, symSize: 0x220 }
-  - { offsetInCU: 0x1E4, offset: 0x332DD, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSFramerC3add4datay10Foundation4DataV_tFyyYbcfU_', symObjAddr: 0x5FC, symBinAddr: 0x60EC, symSize: 0x3A8 }
-  - { offsetInCU: 0x2A6, offset: 0x3339F, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSFramerC7process33_5A3FC2D4CFAEB4D5DACB31D0CD4B5F86LLAC12ProcessEventOyF', symObjAddr: 0x9B4, symBinAddr: 0x64A4, symSize: 0x8F4 }
-  - { offsetInCU: 0x946, offset: 0x33A3F, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSFramerC16createWriteFrame6opcode7payload12isCompressed10Foundation4DataVAA0G6OpCodeO_AJSbtF', symObjAddr: 0x1504, symBinAddr: 0x6FF4, symSize: 0x800 }
-  - { offsetInCU: 0x125A, offset: 0x34353, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSFramerCfD', symObjAddr: 0x1DC0, symBinAddr: 0x78B0, symSize: 0x34 }
-  - { offsetInCU: 0x1462, offset: 0x3455B, size: 0x8, addend: 0x0, symName: '_$sSa22ZendeskSDKSocketClientSURzAA13MyWSArrayTypeRzlE10unmaskData9maskStart6offset6length10Foundation0H0VSi_S2itFs5UInt8V_Tg5', symObjAddr: 0x1388, symBinAddr: 0x6E78, symSize: 0x17C }
-  - { offsetInCU: 0x18DB, offset: 0x349D4, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient11writeUint16_6offset5valueySays5UInt8VGz_Sis6UInt16VtF', symObjAddr: 0x1D34, symBinAddr: 0x7824, symSize: 0x8C }
-  - { offsetInCU: 0x1A13, offset: 0x34B0C, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSFramerCMa', symObjAddr: 0x1DF4, symBinAddr: 0x78E4, symSize: 0x20 }
-  - { offsetInCU: 0x1A27, offset: 0x34B20, size: 0x8, addend: 0x0, symName: '_$sSo17OS_dispatch_queueCMa', symObjAddr: 0x1E14, symBinAddr: 0x7904, symSize: 0x3C }
-  - { offsetInCU: 0x1A5F, offset: 0x34B58, size: 0x8, addend: 0x0, symName: '_$s10Foundation4DataV06InlineB0V15withUnsafeBytesyxxSWKXEKlFyt_Tg5108$s22ZendeskSDKSocketClient8WSFramerC7process33_5A3FC2D4CFAEB4D5DACB31D0CD4B5F86LLAC12ProcessEventOyFySWXEfU_Says5UInt8VGTf1ncn_n', symObjAddr: 0x1ED0, symBinAddr: 0x7980, symSize: 0xD4 }
-  - { offsetInCU: 0x1AD1, offset: 0x34BCA, size: 0x8, addend: 0x0, symName: '_$s10Foundation13__DataStorageC15withUnsafeBytes2in5applyxSnySiG_xSWKXEtKlFyt_Tg5108$s22ZendeskSDKSocketClient8WSFramerC7process33_5A3FC2D4CFAEB4D5DACB31D0CD4B5F86LLAC12ProcessEventOyFySWXEfU_Says5UInt8VGTf1nncn_n', symObjAddr: 0x1FA4, symBinAddr: 0x7A54, symSize: 0x90 }
-  - { offsetInCU: 0x1B25, offset: 0x34C1E, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSFramerC3add4datay10Foundation4DataV_tFyyYbcfU_TA', symObjAddr: 0x2340, symBinAddr: 0x7CD4, symSize: 0xC }
-  - { offsetInCU: 0x1B39, offset: 0x34C32, size: 0x8, addend: 0x0, symName: _block_copy_helper, symObjAddr: 0x234C, symBinAddr: 0x7CE0, symSize: 0x10 }
-  - { offsetInCU: 0x1B4D, offset: 0x34C46, size: 0x8, addend: 0x0, symName: _block_destroy_helper, symObjAddr: 0x235C, symBinAddr: 0x7CF0, symSize: 0x8 }
-  - { offsetInCU: 0x1B68, offset: 0x34C61, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSFramerC12ProcessEventOWOb', symObjAddr: 0x23F0, symBinAddr: 0x7D84, symSize: 0x18 }
-  - { offsetInCU: 0x1B80, offset: 0x34C79, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSFramerC12ProcessEventOWOb', symObjAddr: 0x23F0, symBinAddr: 0x7D84, symSize: 0x18 }
-  - { offsetInCU: 0x1B91, offset: 0x34C8A, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSFramerC12ProcessEventOWOs', symObjAddr: 0x2408, symBinAddr: 0x7D9C, symSize: 0x34 }
-  - { offsetInCU: 0x1BA5, offset: 0x34C9E, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSFramerC12ProcessEventOWOe', symObjAddr: 0x243C, symBinAddr: 0x7DD0, symSize: 0x24 }
-  - { offsetInCU: 0x1BB9, offset: 0x34CB2, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient011FramerEventC0_pSgXwWOh', symObjAddr: 0x2460, symBinAddr: 0x7DF4, symSize: 0x24 }
-  - { offsetInCU: 0x1BCD, offset: 0x34CC6, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSFramerC12ProcessEventOWOy', symObjAddr: 0x2484, symBinAddr: 0x7E18, symSize: 0x24 }
-  - { offsetInCU: 0x1BE1, offset: 0x34CDA, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSFramerC12ProcessEventOwxx', symObjAddr: 0x24A8, symBinAddr: 0x7E3C, symSize: 0x14 }
-  - { offsetInCU: 0x1BF5, offset: 0x34CEE, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSFramerC12ProcessEventOwcp', symObjAddr: 0x24BC, symBinAddr: 0x7E50, symSize: 0x6C }
-  - { offsetInCU: 0x1C09, offset: 0x34D02, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSFramerC12ProcessEventOwca', symObjAddr: 0x2528, symBinAddr: 0x7EBC, symSize: 0x7C }
-  - { offsetInCU: 0x1C1D, offset: 0x34D16, size: 0x8, addend: 0x0, symName: ___swift_memcpy48_8, symObjAddr: 0x25A4, symBinAddr: 0x7F38, symSize: 0x14 }
-  - { offsetInCU: 0x1C31, offset: 0x34D2A, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSFramerC12ProcessEventOwta', symObjAddr: 0x25B8, symBinAddr: 0x7F4C, symSize: 0x48 }
-  - { offsetInCU: 0x1C45, offset: 0x34D3E, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSFramerC12ProcessEventOwet', symObjAddr: 0x2600, symBinAddr: 0x7F94, symSize: 0x74 }
-  - { offsetInCU: 0x1C59, offset: 0x34D52, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSFramerC12ProcessEventOwst', symObjAddr: 0x2674, symBinAddr: 0x8008, symSize: 0x70 }
-  - { offsetInCU: 0x1C6D, offset: 0x34D66, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSFramerC12ProcessEventOwug', symObjAddr: 0x26E4, symBinAddr: 0x8078, symSize: 0x24 }
-  - { offsetInCU: 0x1C81, offset: 0x34D7A, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSFramerC12ProcessEventOwup', symObjAddr: 0x2708, symBinAddr: 0x809C, symSize: 0x10 }
-  - { offsetInCU: 0x1C95, offset: 0x34D8E, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSFramerC12ProcessEventOwui', symObjAddr: 0x2718, symBinAddr: 0x80AC, symSize: 0x54 }
-  - { offsetInCU: 0x1CA9, offset: 0x34DA2, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSFramerC12ProcessEventOMa', symObjAddr: 0x276C, symBinAddr: 0x8100, symSize: 0x10 }
-  - { offsetInCU: 0x1CBD, offset: 0x34DB6, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient10FrameEventOwCP', symObjAddr: 0x277C, symBinAddr: 0x8110, symSize: 0x30 }
-  - { offsetInCU: 0x1CD1, offset: 0x34DCA, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient10FrameEventOWOy', symObjAddr: 0x27AC, symBinAddr: 0x8140, symSize: 0x14 }
-  - { offsetInCU: 0x1CE5, offset: 0x34DDE, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient10FrameEventOwxx', symObjAddr: 0x27C0, symBinAddr: 0x8154, symSize: 0x14 }
-  - { offsetInCU: 0x1CF9, offset: 0x34DF2, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient10FrameEventOWOe', symObjAddr: 0x27D4, symBinAddr: 0x8168, symSize: 0x14 }
-  - { offsetInCU: 0x1D0D, offset: 0x34E06, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient10FrameEventOwcp', symObjAddr: 0x27E8, symBinAddr: 0x817C, symSize: 0x60 }
-  - { offsetInCU: 0x1D21, offset: 0x34E1A, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient10FrameEventOwca', symObjAddr: 0x2848, symBinAddr: 0x81DC, symSize: 0x70 }
-  - { offsetInCU: 0x1D35, offset: 0x34E2E, size: 0x8, addend: 0x0, symName: ___swift_memcpy34_8, symObjAddr: 0x28B8, symBinAddr: 0x824C, symSize: 0x14 }
-  - { offsetInCU: 0x1D49, offset: 0x34E42, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient10FrameEventOwta', symObjAddr: 0x28CC, symBinAddr: 0x8260, symSize: 0x48 }
-  - { offsetInCU: 0x1D5D, offset: 0x34E56, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient10FrameEventOwet', symObjAddr: 0x2914, symBinAddr: 0x82A8, symSize: 0x6C }
-  - { offsetInCU: 0x1D71, offset: 0x34E6A, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient10FrameEventOwst', symObjAddr: 0x2980, symBinAddr: 0x8314, symSize: 0x70 }
-  - { offsetInCU: 0x1D85, offset: 0x34E7E, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient10FrameEventOwug', symObjAddr: 0x29F0, symBinAddr: 0x8384, symSize: 0xC }
-  - { offsetInCU: 0x1D99, offset: 0x34E92, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient10FrameEventOwup', symObjAddr: 0x29FC, symBinAddr: 0x8390, symSize: 0x10 }
-  - { offsetInCU: 0x1DAD, offset: 0x34EA6, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient10FrameEventOwui', symObjAddr: 0x2A0C, symBinAddr: 0x83A0, symSize: 0x28 }
-  - { offsetInCU: 0x1DC1, offset: 0x34EBA, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient10FrameEventOMa', symObjAddr: 0x2A34, symBinAddr: 0x83C8, symSize: 0x10 }
-  - { offsetInCU: 0x1DD5, offset: 0x34ECE, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient5FrameVwxx', symObjAddr: 0x2A44, symBinAddr: 0x83D8, symSize: 0xC }
-  - { offsetInCU: 0x1DE9, offset: 0x34EE2, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient5FrameVwcp', symObjAddr: 0x2A50, symBinAddr: 0x83E4, symSize: 0x58 }
-  - { offsetInCU: 0x1DFD, offset: 0x34EF6, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient5FrameVwca', symObjAddr: 0x2AA8, symBinAddr: 0x843C, symSize: 0x78 }
-  - { offsetInCU: 0x1E11, offset: 0x34F0A, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient5FrameVwta', symObjAddr: 0x2B20, symBinAddr: 0x84B4, symSize: 0x68 }
-  - { offsetInCU: 0x1E25, offset: 0x34F1E, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient5FrameVwet', symObjAddr: 0x2B88, symBinAddr: 0x851C, symSize: 0x54 }
-  - { offsetInCU: 0x1E39, offset: 0x34F32, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient5FrameVwst', symObjAddr: 0x2BDC, symBinAddr: 0x8570, symSize: 0x48 }
-  - { offsetInCU: 0x1E4D, offset: 0x34F46, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient5FrameVMa', symObjAddr: 0x2C24, symBinAddr: 0x85B8, symSize: 0x10 }
-  - { offsetInCU: 0x1E61, offset: 0x34F5A, size: 0x8, addend: 0x0, symName: ___swift_memcpy1_1, symObjAddr: 0x2C34, symBinAddr: 0x85C8, symSize: 0xC }
-  - { offsetInCU: 0x1E75, offset: 0x34F6E, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient11FrameOpCodeOwet', symObjAddr: 0x2C44, symBinAddr: 0x85D4, symSize: 0x90 }
-  - { offsetInCU: 0x1E89, offset: 0x34F82, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient11FrameOpCodeOwst', symObjAddr: 0x2CD4, symBinAddr: 0x8664, symSize: 0xBC }
-  - { offsetInCU: 0x1E9D, offset: 0x34F96, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient11FrameOpCodeOwug', symObjAddr: 0x2D90, symBinAddr: 0x8720, symSize: 0x8 }
-  - { offsetInCU: 0x1EB1, offset: 0x34FAA, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient11FrameOpCodeOwup', symObjAddr: 0x2D98, symBinAddr: 0x8728, symSize: 0x4 }
-  - { offsetInCU: 0x1EC5, offset: 0x34FBE, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient11FrameOpCodeOwui', symObjAddr: 0x2D9C, symBinAddr: 0x872C, symSize: 0x8 }
-  - { offsetInCU: 0x1ED9, offset: 0x34FD2, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient11FrameOpCodeOMa', symObjAddr: 0x2DA4, symBinAddr: 0x8734, symSize: 0x10 }
-  - { offsetInCU: 0x1EED, offset: 0x34FE6, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient11FrameOpCodeOSHAASQWb', symObjAddr: 0x2DB4, symBinAddr: 0x8744, symSize: 0x4 }
-  - { offsetInCU: 0x1F01, offset: 0x34FFA, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient11FrameOpCodeOACSQAAWl', symObjAddr: 0x2DB8, symBinAddr: 0x8748, symSize: 0x44 }
-  - { offsetInCU: 0x1F4D, offset: 0x35046, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient11FrameOpCodeOSQAASQ2eeoiySbx_xtFZTW', symObjAddr: 0x5C, symBinAddr: 0x5B4C, symSize: 0x38 }
-  - { offsetInCU: 0x1FFF, offset: 0x350F8, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient11FrameOpCodeOSHAASH9hashValueSivgTW', symObjAddr: 0x94, symBinAddr: 0x5B84, symSize: 0x58 }
-  - { offsetInCU: 0x20D7, offset: 0x351D0, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient11FrameOpCodeOSHAASH4hash4intoys6HasherVz_tFTW', symObjAddr: 0xEC, symBinAddr: 0x5BDC, symSize: 0x40 }
-  - { offsetInCU: 0x2153, offset: 0x3524C, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient11FrameOpCodeOSHAASH13_rawHashValue4seedS2i_tFTW', symObjAddr: 0x12C, symBinAddr: 0x5C1C, symSize: 0x54 }
-  - { offsetInCU: 0x23C5, offset: 0x354BE, size: 0x8, addend: 0x0, symName: '_$s10Foundation4DataVyACxcSTRzs5UInt8V7ElementRtzlufCs10ArraySliceVyAEG_Tg5Tf4gd_n', symObjAddr: 0x2034, symBinAddr: 0x7AE4, symSize: 0xF4 }
-  - { offsetInCU: 0xFB, offset: 0x35806, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSEngineC5start7requesty10Foundation10URLRequestV_tF', symObjAddr: 0x0, symBinAddr: 0x8794, symSize: 0x2D8 }
-  - { offsetInCU: 0x1A5, offset: 0x358B0, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSEngineC4stop9closeCodeys6UInt16V_tF', symObjAddr: 0x2D8, symBinAddr: 0x8A6C, symSize: 0xE0 }
-  - { offsetInCU: 0x2F5, offset: 0x35A00, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSEngineC4stop9closeCodeys6UInt16V_tFyycfU_', symObjAddr: 0x3B8, symBinAddr: 0x8B4C, symSize: 0xFC }
-  - { offsetInCU: 0x39B, offset: 0x35AA6, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSEngineC5write4data6opcode10completiony10Foundation4DataV_AA11FrameOpCodeOyycSgtF', symObjAddr: 0x4B4, symBinAddr: 0x8C48, symSize: 0x22C }
-  - { offsetInCU: 0x41B, offset: 0x35B26, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSEngineC5write4data6opcode10completiony10Foundation4DataV_AA11FrameOpCodeOyycSgtFyyYbcfU_', symObjAddr: 0x6E0, symBinAddr: 0x8E74, symSize: 0x230 }
-  - { offsetInCU: 0x56F, offset: 0x35C7A, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSEngineC17connectionChanged5stateyAA15ConnectionStateO_tF', symObjAddr: 0x910, symBinAddr: 0x90A4, symSize: 0x674 }
-  - { offsetInCU: 0xA14, offset: 0x3611F, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSEngineC17connectionChanged5stateyAA15ConnectionStateO_tFys5Error_pSgcfU_', symObjAddr: 0xFB8, symBinAddr: 0x974C, symSize: 0x4 }
-  - { offsetInCU: 0xA3E, offset: 0x36149, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSEngineC14didReceiveHTTP5eventyAA9HTTPEventO_tF', symObjAddr: 0xFBC, symBinAddr: 0x9750, symSize: 0x5D0 }
-  - { offsetInCU: 0xCD0, offset: 0x363DB, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSEngineC14frameProcessed5eventyAA10FrameEventO_tF', symObjAddr: 0x158C, symBinAddr: 0x9D20, symSize: 0x110 }
-  - { offsetInCU: 0xD64, offset: 0x3646F, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSEngineC10decompress4data7isFinal10Foundation4DataVSgAI_SbtF', symObjAddr: 0x169C, symBinAddr: 0x9E30, symSize: 0x114 }
-  - { offsetInCU: 0xE17, offset: 0x36522, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSEngineC7didForm5eventyAA14FrameCollectorC5EventO_tF', symObjAddr: 0x17B0, symBinAddr: 0x9F44, symSize: 0x30C }
-  - { offsetInCU: 0xFFD, offset: 0x36708, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSEngineCfd', symObjAddr: 0x1ABC, symBinAddr: 0xA250, symSize: 0xB8 }
-  - { offsetInCU: 0x102A, offset: 0x36735, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSEngineCfD', symObjAddr: 0x1B74, symBinAddr: 0xA308, symSize: 0x20 }
-  - { offsetInCU: 0x1081, offset: 0x3678C, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSEngineCAA6EngineA2aDP8register8delegateyAA0E8Delegate_p_tFTW', symObjAddr: 0x1CBC, symBinAddr: 0xA450, symSize: 0x20 }
-  - { offsetInCU: 0x10BE, offset: 0x367C9, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSEngineCAA6EngineA2aDP5start7requesty10Foundation10URLRequestV_tFTW', symObjAddr: 0x1CDC, symBinAddr: 0xA470, symSize: 0x20 }
-  - { offsetInCU: 0x10DA, offset: 0x367E5, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSEngineCAA6EngineA2aDP4stop9closeCodeys6UInt16V_tFTW', symObjAddr: 0x1CFC, symBinAddr: 0xA490, symSize: 0x20 }
-  - { offsetInCU: 0x113B, offset: 0x36846, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSEngineCAA6EngineA2aDP5write6string10completionySS_yycSgtFTW', symObjAddr: 0x1D1C, symBinAddr: 0xA4B0, symSize: 0xF8 }
-  - { offsetInCU: 0x11A8, offset: 0x368B3, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSEngineCAA014TransportEventC0A2aDP17connectionChanged5stateyAA15ConnectionStateO_tFTW', symObjAddr: 0x1E14, symBinAddr: 0xA5A8, symSize: 0x8 }
-  - { offsetInCU: 0x11C4, offset: 0x368CF, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSEngineCAA011FramerEventC0A2aDP14frameProcessed5eventyAA05FrameF0O_tFTW', symObjAddr: 0x1E1C, symBinAddr: 0xA5B0, symSize: 0x4 }
-  - { offsetInCU: 0x11E0, offset: 0x368EB, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSEngineCAA22FrameCollectorDelegateA2aDP7didForm5eventyAA0eF0C5EventO_tFTW', symObjAddr: 0x1E20, symBinAddr: 0xA5B4, symSize: 0x8 }
-  - { offsetInCU: 0x11FC, offset: 0x36907, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSEngineCAA22FrameCollectorDelegateA2aDP10decompress4data7isFinal10Foundation4DataVSgAK_SbtFTW', symObjAddr: 0x1E28, symBinAddr: 0xA5BC, symSize: 0x4 }
-  - { offsetInCU: 0x154F, offset: 0x36C5A, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSEngineCMU', symObjAddr: 0x1B94, symBinAddr: 0xA328, symSize: 0x8 }
-  - { offsetInCU: 0x1563, offset: 0x36C6E, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSEngineCMa', symObjAddr: 0x1B9C, symBinAddr: 0xA330, symSize: 0x3C }
-  - { offsetInCU: 0x1577, offset: 0x36C82, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSEngineCMr', symObjAddr: 0x1BD8, symBinAddr: 0xA36C, symSize: 0xE4 }
-  - { offsetInCU: 0x1597, offset: 0x36CA2, size: 0x8, addend: 0x0, symName: '_$s10Foundation4DataVSgWOy', symObjAddr: 0x1F58, symBinAddr: 0xA5C0, symSize: 0x14 }
-  - { offsetInCU: 0x15AB, offset: 0x36CB6, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient10FrameEventOWOb', symObjAddr: 0x1FB0, symBinAddr: 0xA5D4, symSize: 0x3C }
-  - { offsetInCU: 0x15BF, offset: 0x36CCA, size: 0x8, addend: 0x0, symName: '_$ss15ContiguousArrayV16_createNewBuffer14bufferIsUnique15minimumCapacity13growForAppendySb_SiSbtFs5UInt8V_Tg5', symObjAddr: 0x1FEC, symBinAddr: 0xA610, symSize: 0x1C }
-  - { offsetInCU: 0x160E, offset: 0x36D19, size: 0x8, addend: 0x0, symName: '_$ss22_ContiguousArrayBufferV20_consumeAndCreateNew14bufferIsUnique15minimumCapacity13growForAppendAByxGSb_SiSbtFs5UInt8V_Tg5', symObjAddr: 0x2008, symBinAddr: 0xA62C, symSize: 0xB4 }
-  - { offsetInCU: 0x16F2, offset: 0x36DFD, size: 0x8, addend: 0x0, symName: '_$ss12_ArrayBufferV19_getElementSlowPathyyXlSiFSo12NSHTTPCookieC_Tg5', symObjAddr: 0x20BC, symBinAddr: 0xA6E0, symSize: 0x200 }
-  - { offsetInCU: 0x1744, offset: 0x36E4F, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSEngineC5write4data6opcode10completiony10Foundation4DataV_AA11FrameOpCodeOyycSgtFyyYbcfU_TA', symObjAddr: 0x23F0, symBinAddr: 0xA984, symSize: 0x14 }
-  - { offsetInCU: 0x1758, offset: 0x36E63, size: 0x8, addend: 0x0, symName: _block_copy_helper, symObjAddr: 0x2404, symBinAddr: 0xA998, symSize: 0x10 }
-  - { offsetInCU: 0x176C, offset: 0x36E77, size: 0x8, addend: 0x0, symName: _block_destroy_helper, symObjAddr: 0x2414, symBinAddr: 0xA9A8, symSize: 0x8 }
-  - { offsetInCU: 0x1780, offset: 0x36E8B, size: 0x8, addend: 0x0, symName: '_$sIeg_SgWOy', symObjAddr: 0x241C, symBinAddr: 0xA9B0, symSize: 0x10 }
-  - { offsetInCU: 0x1794, offset: 0x36E9F, size: 0x8, addend: 0x0, symName: '_$sSay8Dispatch0A13WorkItemFlagsVGSayxGSTsWl', symObjAddr: 0x246C, symBinAddr: 0xAA00, symSize: 0x60 }
-  - { offsetInCU: 0x17A8, offset: 0x36EB3, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSEngineC5write4data6opcode10completiony10Foundation4DataV_AA11FrameOpCodeOyycSgtFyyYbcfU_ys5Error_pSgcfU_TA', symObjAddr: 0x2550, symBinAddr: 0xAAE4, symSize: 0x28 }
-  - { offsetInCU: 0x17D4, offset: 0x36EDF, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSEngineC4stop9closeCodeys6UInt16V_tFyycfU_TA', symObjAddr: 0x2578, symBinAddr: 0xAB0C, symSize: 0x8 }
-  - { offsetInCU: 0x17E8, offset: 0x36EF3, size: 0x8, addend: 0x0, symName: '_$s10Foundation10URLRequestVSgWOf', symObjAddr: 0x2580, symBinAddr: 0xAB14, symSize: 0x48 }
-  - { offsetInCU: 0x17FC, offset: 0x36F07, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient14EngineDelegate_pSgXwWOh', symObjAddr: 0x2604, symBinAddr: 0xAB98, symSize: 0x24 }
-  - { offsetInCU: 0x27, offset: 0x372E6, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient15ConnectionEventOwCP', symObjAddr: 0x18, symBinAddr: 0xABBC, symSize: 0x5C }
-  - { offsetInCU: 0x3F, offset: 0x372FE, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient15ConnectionEventOwCP', symObjAddr: 0x18, symBinAddr: 0xABBC, symSize: 0x5C }
-  - { offsetInCU: 0x53, offset: 0x37312, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient15ConnectionEventOWOy', symObjAddr: 0x74, symBinAddr: 0xAC18, symSize: 0x44 }
-  - { offsetInCU: 0x67, offset: 0x37326, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient15ConnectionEventOwxx', symObjAddr: 0x11C, symBinAddr: 0xAC5C, symSize: 0x14 }
-  - { offsetInCU: 0x7B, offset: 0x3733A, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient15ConnectionEventOWOe', symObjAddr: 0x130, symBinAddr: 0xAC70, symSize: 0x44 }
-  - { offsetInCU: 0x8F, offset: 0x3734E, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient15ConnectionEventOwcp', symObjAddr: 0x1CC, symBinAddr: 0xACB4, symSize: 0x5C }
-  - { offsetInCU: 0xA3, offset: 0x37362, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient15ConnectionEventOwca', symObjAddr: 0x228, symBinAddr: 0xAD10, symSize: 0x6C }
-  - { offsetInCU: 0xB7, offset: 0x37376, size: 0x8, addend: 0x0, symName: ___swift_memcpy19_8, symObjAddr: 0x294, symBinAddr: 0xAD7C, symSize: 0x14 }
-  - { offsetInCU: 0xCB, offset: 0x3738A, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient15ConnectionEventOwta', symObjAddr: 0x2A8, symBinAddr: 0xAD90, symSize: 0x50 }
-  - { offsetInCU: 0xDF, offset: 0x3739E, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient15ConnectionEventOwet', symObjAddr: 0x2F8, symBinAddr: 0xADE0, symSize: 0x48 }
-  - { offsetInCU: 0xF3, offset: 0x373B2, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient15ConnectionEventOwst', symObjAddr: 0x340, symBinAddr: 0xAE28, symSize: 0x48 }
-  - { offsetInCU: 0x107, offset: 0x373C6, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient15ConnectionEventOwug', symObjAddr: 0x388, symBinAddr: 0xAE70, symSize: 0x8 }
-  - { offsetInCU: 0x11B, offset: 0x373DA, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient15ConnectionEventOwup', symObjAddr: 0x390, symBinAddr: 0xAE78, symSize: 0x4 }
-  - { offsetInCU: 0x12F, offset: 0x373EE, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient15ConnectionEventOwui', symObjAddr: 0x394, symBinAddr: 0xAE7C, symSize: 0x8 }
-  - { offsetInCU: 0x143, offset: 0x37402, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient15ConnectionEventOMa', symObjAddr: 0x39C, symBinAddr: 0xAE84, symSize: 0x10 }
-  - { offsetInCU: 0x157, offset: 0x37416, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient11ServerEventOwCP', symObjAddr: 0x3AC, symBinAddr: 0xAE94, symSize: 0x30 }
-  - { offsetInCU: 0x16B, offset: 0x3742A, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient11ServerEventOwxx', symObjAddr: 0x3DC, symBinAddr: 0xAEC4, symSize: 0xAC }
-  - { offsetInCU: 0x17F, offset: 0x3743E, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient11ServerEventOwcp', symObjAddr: 0x4A8, symBinAddr: 0xAF70, symSize: 0x1E8 }
-  - { offsetInCU: 0x193, offset: 0x37452, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient11ServerEventOwca', symObjAddr: 0x690, symBinAddr: 0xB158, symSize: 0x2B8 }
-  - { offsetInCU: 0x1A7, offset: 0x37466, size: 0x8, addend: 0x0, symName: ___swift_memcpy59_8, symObjAddr: 0x948, symBinAddr: 0xB410, symSize: 0x1C }
-  - { offsetInCU: 0x1BB, offset: 0x3747A, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient11ServerEventOwta', symObjAddr: 0x964, symBinAddr: 0xB42C, symSize: 0x19C }
-  - { offsetInCU: 0x1CF, offset: 0x3748E, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient11ServerEventOwet', symObjAddr: 0xB00, symBinAddr: 0xB5C8, symSize: 0x3C }
-  - { offsetInCU: 0x1E3, offset: 0x374A2, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient11ServerEventOwst', symObjAddr: 0xB3C, symBinAddr: 0xB604, symSize: 0x50 }
-  - { offsetInCU: 0x1F7, offset: 0x374B6, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient11ServerEventOwug', symObjAddr: 0xB8C, symBinAddr: 0xB654, symSize: 0x1C }
-  - { offsetInCU: 0x20B, offset: 0x374CA, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient11ServerEventOwup', symObjAddr: 0xBA8, symBinAddr: 0xB670, symSize: 0x4 }
-  - { offsetInCU: 0x21F, offset: 0x374DE, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient11ServerEventOwui', symObjAddr: 0xBAC, symBinAddr: 0xB674, symSize: 0x34 }
-  - { offsetInCU: 0x233, offset: 0x374F2, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient11ServerEventOMa', symObjAddr: 0xBE0, symBinAddr: 0xB6A8, symSize: 0x10 }
-  - { offsetInCU: 0x5E, offset: 0x37601, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient17StringHTTPHandlerC5parse4dataSi10Foundation4DataV_tF', symObjAddr: 0x0, symBinAddr: 0xB6B8, symSize: 0x118 }
-  - { offsetInCU: 0xC9, offset: 0x3766C, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient17StringHTTPHandlerC12parseContent4dataSb10Foundation4DataV_tF', symObjAddr: 0x118, symBinAddr: 0xB7D0, symSize: 0x84C }
-  - { offsetInCU: 0x5A3, offset: 0x37B46, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient17StringHTTPHandlerCfD', symObjAddr: 0xA4C, symBinAddr: 0xC104, symSize: 0x2C }
-  - { offsetInCU: 0x610, offset: 0x37BB3, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient17StringHTTPHandlerCAA0E0A2aDP8register8delegateyAA0E8Delegate_p_tFTW', symObjAddr: 0xA98, symBinAddr: 0xC150, symSize: 0x18 }
-  - { offsetInCU: 0x664, offset: 0x37C07, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient17StringHTTPHandlerCAA0E0A2aDP7convert7request10Foundation4DataVAH10URLRequestV_tFTW', symObjAddr: 0xAB0, symBinAddr: 0xC168, symSize: 0x4 }
-  - { offsetInCU: 0x684, offset: 0x37C27, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient17StringHTTPHandlerCAA0E0A2aDP7convert7request10Foundation4DataVAH10URLRequestV_tFTW', symObjAddr: 0xAB0, symBinAddr: 0xC168, symSize: 0x4 }
-  - { offsetInCU: 0x696, offset: 0x37C39, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient17StringHTTPHandlerCAA0E0A2aDP5parse4dataSi10Foundation4DataV_tFTW', symObjAddr: 0xAB4, symBinAddr: 0xC16C, symSize: 0x20 }
-  - { offsetInCU: 0x6DE, offset: 0x37C81, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient17StringHTTPHandlerC7convert7request10Foundation4DataVAF10URLRequestV_tFTf4nd_n', symObjAddr: 0xC38, symBinAddr: 0xC2F0, symSize: 0x788 }
-  - { offsetInCU: 0xB65, offset: 0x38108, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient17StringHTTPHandlerC13findEndOfHTTP33_68F52AB8528753BE515AC3A7A19E8237LL4dataSi10Foundation4DataV_tFTf4nd_n', symObjAddr: 0x15B0, symBinAddr: 0xCB3C, symSize: 0x1D0 }
-  - { offsetInCU: 0xF77, offset: 0x3851A, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient17StringHTTPHandlerCMa', symObjAddr: 0xA78, symBinAddr: 0xC130, symSize: 0x20 }
-  - { offsetInCU: 0xFBB, offset: 0x3855E, size: 0x8, addend: 0x0, symName: '_$s10Foundation4DataV06InlineB0V15withUnsafeBytesyxxSWKXEKlFyt_Tg50118$s22ZendeskSDKSocketClient17StringHTTPHandlerC13findEndOfHTTP33_68F52AB8528753BE515AC3A7A19E8237LL4dataSi10Foundation4B12V_tFySWXEfU_Says5UInt8VGTf1ncn_n', symObjAddr: 0xAD4, symBinAddr: 0xC18C, symSize: 0xD4 }
-  - { offsetInCU: 0x1023, offset: 0x385C6, size: 0x8, addend: 0x0, symName: '_$s10Foundation13__DataStorageC15withUnsafeBytes2in5applyxSnySiG_xSWKXEtKlFyt_Tg50118$s22ZendeskSDKSocketClient17StringHTTPHandlerC13findEndOfHTTP33_68F52AB8528753BE515AC3A7A19E8237LL4dataSi10Foundation4B12V_tFySWXEfU_Says5UInt8VGTf1nncn_n', symObjAddr: 0xBA8, symBinAddr: 0xC260, symSize: 0x90 }
-  - { offsetInCU: 0x10E5, offset: 0x38688, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient16HTTPUpgradeErrorOACs0E0AAWl', symObjAddr: 0x1528, symBinAddr: 0xCAB4, symSize: 0x44 }
-  - { offsetInCU: 0x10F9, offset: 0x3869C, size: 0x8, addend: 0x0, symName: '_$sS2sSysWl', symObjAddr: 0x156C, symBinAddr: 0xCAF8, symSize: 0x44 }
-  - { offsetInCU: 0x11A2, offset: 0x38745, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient19HTTPHandlerDelegate_pSgXwWOh', symObjAddr: 0x17DC, symBinAddr: 0xCD68, symSize: 0x24 }
-  - { offsetInCU: 0x1277, offset: 0x3881A, size: 0x8, addend: 0x0, symName: '_$sSlsSQ7ElementRpzrlE10firstIndex2of0C0QzSgAB_tFSS_Tg5', symObjAddr: 0x964, symBinAddr: 0xC01C, symSize: 0xE8 }
-  - { offsetInCU: 0x1424, offset: 0x389C7, size: 0x8, addend: 0x0, symName: '_$sSlsE6suffix4from11SubSequenceQz5IndexQz_tFSS_Tg5Tf4ng_n', symObjAddr: 0x1790, symBinAddr: 0xCD1C, symSize: 0x4C }
-  - { offsetInCU: 0x27, offset: 0x38C2F, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient27FoundationHTTPServerHandlerC12parseContent4dataSb0D04DataV_tF', symObjAddr: 0x0, symBinAddr: 0xCD8C, symSize: 0x680 }
-  - { offsetInCU: 0x93, offset: 0x38C9B, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient27FoundationHTTPServerHandlerC12parseContent4dataSb0D04DataV_tF', symObjAddr: 0x0, symBinAddr: 0xCD8C, symSize: 0x680 }
-  - { offsetInCU: 0x497, offset: 0x3909F, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient27FoundationHTTPServerHandlerCfD', symObjAddr: 0x6A0, symBinAddr: 0xD42C, symSize: 0x34 }
-  - { offsetInCU: 0x4DA, offset: 0x390E2, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient27FoundationHTTPServerHandlerC14createResponse7headers0D04DataVSDyS2SG_tFTf4nd_n', symObjAddr: 0x858, symBinAddr: 0xD5E4, symSize: 0x248 }
-  - { offsetInCU: 0x6FE, offset: 0x39306, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient27FoundationHTTPServerHandlerCMa', symObjAddr: 0x6D4, symBinAddr: 0xD460, symSize: 0x20 }
-  - { offsetInCU: 0x712, offset: 0x3931A, size: 0x8, addend: 0x0, symName: '_$s10Foundation4DataV06InlineB0V15withUnsafeBytesyxxSWKXEKlFyt_Tg5028$s22ZendeskSDKSocketClient27a43HTTPServerHandlerC12parseContent4dataSb0D04B12V_tFySWXEfU_Says5UInt8VGTf1ncn_n', symObjAddr: 0x6F4, symBinAddr: 0xD480, symSize: 0xD4 }
-  - { offsetInCU: 0x77A, offset: 0x39382, size: 0x8, addend: 0x0, symName: '_$s10Foundation13__DataStorageC15withUnsafeBytes2in5applyxSnySiG_xSWKXEtKlFyt_Tg5028$s22ZendeskSDKSocketClient27a43HTTPServerHandlerC12parseContent4dataSb0D04B12V_tFySWXEfU_Says5UInt8VGTf1nncn_n', symObjAddr: 0x7C8, symBinAddr: 0xD554, symSize: 0x90 }
-  - { offsetInCU: 0x7E4, offset: 0x393EC, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient15ConnectionEventOIegg_SgWOe', symObjAddr: 0xB34, symBinAddr: 0xD82C, symSize: 0x10 }
-  - { offsetInCU: 0x7F8, offset: 0x39400, size: 0x8, addend: 0x0, symName: '_$syp3key_yp5valuetSgWOb', symObjAddr: 0xB44, symBinAddr: 0xD83C, symSize: 0x48 }
-  - { offsetInCU: 0x80C, offset: 0x39414, size: 0x8, addend: 0x0, symName: '_$sypWOb', symObjAddr: 0xBCC, symBinAddr: 0xD884, symSize: 0x10 }
-  - { offsetInCU: 0x820, offset: 0x39428, size: 0x8, addend: 0x0, symName: ___swift_destroy_boxed_opaque_existential_0, symObjAddr: 0xBDC, symBinAddr: 0xD894, symSize: 0x20 }
-  - { offsetInCU: 0x834, offset: 0x3943C, size: 0x8, addend: 0x0, symName: '_$sypWOc', symObjAddr: 0xBFC, symBinAddr: 0xD8B4, symSize: 0x3C }
-  - { offsetInCU: 0x848, offset: 0x39450, size: 0x8, addend: 0x0, symName: '_$sSo8NSStringCMa', symObjAddr: 0xC38, symBinAddr: 0xD8F0, symSize: 0x3C }
-  - { offsetInCU: 0x85C, offset: 0x39464, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient18HTTPServerDelegate_pSgXwWOh', symObjAddr: 0xCB8, symBinAddr: 0xD92C, symSize: 0x24 }
-  - { offsetInCU: 0x4A, offset: 0x396FF, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient17TCPTransportErrorOSQAASQ2eeoiySbx_xtFZTW', symObjAddr: 0x0, symBinAddr: 0xD950, symSize: 0x8 }
-  - { offsetInCU: 0x9E, offset: 0x39753, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient17TCPTransportErrorOSHAASH9hashValueSivgTW', symObjAddr: 0x8, symBinAddr: 0xD958, symSize: 0x40 }
-  - { offsetInCU: 0x181, offset: 0x39836, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient17TCPTransportErrorOSHAASH4hash4intoys6HasherVz_tFTW', symObjAddr: 0x48, symBinAddr: 0xD998, symSize: 0x24 }
-  - { offsetInCU: 0x251, offset: 0x39906, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12TCPTransportCfD', symObjAddr: 0xB8, symBinAddr: 0xDA08, symSize: 0x74 }
-  - { offsetInCU: 0x2AC, offset: 0x39961, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12TCPTransportCACycfc', symObjAddr: 0x14C, symBinAddr: 0xDA9C, symSize: 0x1B8 }
-  - { offsetInCU: 0x312, offset: 0x399C7, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12TCPTransportC7connect3url7timeout18certificatePinningy10Foundation3URLV_SdAA011CertificateI0_pSgtF', symObjAddr: 0x304, symBinAddr: 0xDC54, symSize: 0x4C8 }
-  - { offsetInCU: 0x50F, offset: 0x39BC4, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12TCPTransportC7connect3url7timeout18certificatePinningy10Foundation3URLV_SdAA011CertificateI0_pSgtFySo24OS_sec_protocol_metadata_p_So0m1_N6_trust_pySbctcfU_', symObjAddr: 0x7CC, symBinAddr: 0xE11C, symSize: 0x9C }
-  - { offsetInCU: 0x5C6, offset: 0x39C7B, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12TCPTransportC10disconnectyyF', symObjAddr: 0x910, symBinAddr: 0xE260, symSize: 0x4C }
-  - { offsetInCU: 0x5E5, offset: 0x39C9A, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12TCPTransportC5write4data10completiony10Foundation4DataV_ys5Error_pSgctF', symObjAddr: 0x95C, symBinAddr: 0xE2AC, symSize: 0x11C }
-  - { offsetInCU: 0x640, offset: 0x39CF5, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12TCPTransportC5write4data10completiony10Foundation4DataV_ys5Error_pSgctFy7Network7NWErrorOSgYbcfU_04$s22ab63Client16ServerConnectionC10didReceive5eventyAA9HTTPEventO_tFys5J8_pSgcfU_Tf3npf_n', symObjAddr: 0xA78, symBinAddr: 0xE3C8, symSize: 0xE4 }
-  - { offsetInCU: 0x66B, offset: 0x39D20, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12TCPTransportC5write4data10completiony10Foundation4DataV_ys5Error_pSgctFy7Network7NWErrorOSgYbcfU_', symObjAddr: 0xB5C, symBinAddr: 0xE4AC, symSize: 0x100 }
-  - { offsetInCU: 0x6C5, offset: 0x39D7A, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12TCPTransportC5start33_91F5340B6616588A9D88055F961D5447LLyyF', symObjAddr: 0xC5C, symBinAddr: 0xE5AC, symSize: 0x1E4 }
-  - { offsetInCU: 0x720, offset: 0x39DD5, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12TCPTransportC5start33_91F5340B6616588A9D88055F961D5447LLyyFy7Network12NWConnectionC5StateOcfU_', symObjAddr: 0xE40, symBinAddr: 0xE790, symSize: 0x37C }
-  - { offsetInCU: 0x773, offset: 0x39E28, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12TCPTransportC8readLoop33_91F5340B6616588A9D88055F961D5447LLyyFy10Foundation4DataVSg_7Network12NWConnectionC14ContentContextCSgSbAJ7NWErrorOSgtYbcfU_', symObjAddr: 0x1268, symBinAddr: 0xEBB8, symSize: 0x244 }
-  - { offsetInCU: 0x8A0, offset: 0x39F55, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12TCPTransportCAA9TransportA2aDP8register8delegateyAA0e5EventC0_p_tFTW', symObjAddr: 0x14AC, symBinAddr: 0xEDFC, symSize: 0x14 }
-  - { offsetInCU: 0x8E5, offset: 0x39F9A, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12TCPTransportCAA9TransportA2aDP7connect3url7timeout18certificatePinningy10Foundation3URLV_SdAA011CertificateJ0_pSgtFTW', symObjAddr: 0x14C0, symBinAddr: 0xEE10, symSize: 0x4 }
-  - { offsetInCU: 0x901, offset: 0x39FB6, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12TCPTransportCAA9TransportA2aDP10disconnectyyFTW', symObjAddr: 0x14C4, symBinAddr: 0xEE14, symSize: 0x4 }
-  - { offsetInCU: 0x91D, offset: 0x39FD2, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12TCPTransportCAA9TransportA2aDP5write4data10completiony10Foundation4DataV_ys5Error_pSgctFTW', symObjAddr: 0x14C8, symBinAddr: 0xEE18, symSize: 0x4 }
-  - { offsetInCU: 0x93A, offset: 0x39FEF, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12TCPTransportCMa', symObjAddr: 0x12C, symBinAddr: 0xDA7C, symSize: 0x20 }
-  - { offsetInCU: 0x9E2, offset: 0x3A097, size: 0x8, addend: 0x0, symName: '_$sSo24OS_sec_protocol_metadata_pSo0a1_B6_trust_pSbIegy_Iegggg_SoAA_pSoAB_pSbIeyBy_IeyByyy_TR', symObjAddr: 0x868, symBinAddr: 0xE1B8, symSize: 0xA8 }
-  - { offsetInCU: 0xA06, offset: 0x3A0BB, size: 0x8, addend: 0x0, symName: '_$sSaySo17OS_dispatch_queueC8DispatchE10AttributesVGMa', symObjAddr: 0x1548, symBinAddr: 0xEE1C, symSize: 0x54 }
-  - { offsetInCU: 0xA1A, offset: 0x3A0CF, size: 0x8, addend: 0x0, symName: '_$s7Network7NWErrorOSgWOc', symObjAddr: 0x159C, symBinAddr: 0xEE70, symSize: 0x48 }
-  - { offsetInCU: 0xA2E, offset: 0x3A0E3, size: 0x8, addend: 0x0, symName: '_$s7Network7NWErrorOSgWOh', symObjAddr: 0x15E4, symBinAddr: 0xEEB8, symSize: 0x40 }
-  - { offsetInCU: 0xA42, offset: 0x3A0F7, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12TCPTransportC5start33_91F5340B6616588A9D88055F961D5447LLyyFy7Network12NWConnectionC5StateOcfU_TA', symObjAddr: 0x1688, symBinAddr: 0xEF5C, symSize: 0x8 }
-  - { offsetInCU: 0xA56, offset: 0x3A10B, size: 0x8, addend: 0x0, symName: '_$s7Network12NWConnectionC5StateOIeghn_SgWOy', symObjAddr: 0x1690, symBinAddr: 0xEF64, symSize: 0x10 }
-  - { offsetInCU: 0xA6A, offset: 0x3A11F, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12TCPTransportC5start33_91F5340B6616588A9D88055F961D5447LLyyFySbcfU0_TA', symObjAddr: 0x16A0, symBinAddr: 0xEF74, symSize: 0x1C }
-  - { offsetInCU: 0xA7E, offset: 0x3A133, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12TCPTransportC5start33_91F5340B6616588A9D88055F961D5447LLyyFySbcfU1_TA', symObjAddr: 0x16BC, symBinAddr: 0xEF90, symSize: 0x1C }
-  - { offsetInCU: 0xA92, offset: 0x3A147, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12TCPTransportC8readLoop33_91F5340B6616588A9D88055F961D5447LLyyFy10Foundation4DataVSg_7Network12NWConnectionC14ContentContextCSgSbAJ7NWErrorOSgtYbcfU_TA', symObjAddr: 0x16D8, symBinAddr: 0xEFAC, symSize: 0x8 }
-  - { offsetInCU: 0xAA6, offset: 0x3A15B, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12TCPTransportC8readLoop33_91F5340B6616588A9D88055F961D5447LLyyFy10Foundation4DataVSg_7Network12NWConnectionC14ContentContextCSgSbAJ7NWErrorOSgtYbcfU_TA.5', symObjAddr: 0x16E0, symBinAddr: 0xEFB4, symSize: 0x8 }
-  - { offsetInCU: 0xABA, offset: 0x3A16F, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12TCPTransportC5write4data10completiony10Foundation4DataV_ys5Error_pSgctFy7Network7NWErrorOSgYbcfU_TA', symObjAddr: 0x170C, symBinAddr: 0xEFE0, symSize: 0x8 }
-  - { offsetInCU: 0xACE, offset: 0x3A183, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient17TCPTransportErrorOACs0E0AAWl', symObjAddr: 0x1714, symBinAddr: 0xEFE8, symSize: 0x44 }
-  - { offsetInCU: 0xAE2, offset: 0x3A197, size: 0x8, addend: 0x0, symName: '_$s7Network11NWInterfaceVSgWOb', symObjAddr: 0x1758, symBinAddr: 0xF02C, symSize: 0x48 }
-  - { offsetInCU: 0xAF6, offset: 0x3A1AB, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12TCPTransportC7connect3url7timeout18certificatePinningy10Foundation3URLV_SdAA011CertificateI0_pSgtFySo24OS_sec_protocol_metadata_p_So0m1_N6_trust_pySbctcfU_TA', symObjAddr: 0x17CC, symBinAddr: 0xF0A0, symSize: 0x34 }
-  - { offsetInCU: 0xB0A, offset: 0x3A1BF, size: 0x8, addend: 0x0, symName: _block_copy_helper, symObjAddr: 0x1800, symBinAddr: 0xF0D4, symSize: 0x10 }
-  - { offsetInCU: 0xB1E, offset: 0x3A1D3, size: 0x8, addend: 0x0, symName: _block_destroy_helper, symObjAddr: 0x1810, symBinAddr: 0xF0E4, symSize: 0x8 }
-  - { offsetInCU: 0xB3D, offset: 0x3A1F2, size: 0x8, addend: 0x0, symName: '_$sSbIeyBy_SbIegy_TRTA', symObjAddr: 0x183C, symBinAddr: 0xF110, symSize: 0x14 }
-  - { offsetInCU: 0xB66, offset: 0x3A21B, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient014TransportEventC0_pSgXwWOh', symObjAddr: 0x1850, symBinAddr: 0xF124, symSize: 0x24 }
-  - { offsetInCU: 0xB7A, offset: 0x3A22F, size: 0x8, addend: 0x0, symName: ___swift_memcpy0_1, symObjAddr: 0x1874, symBinAddr: 0xF148, symSize: 0x4 }
-  - { offsetInCU: 0xB8E, offset: 0x3A243, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient17TCPTransportErrorOwet', symObjAddr: 0x187C, symBinAddr: 0xF14C, symSize: 0x50 }
-  - { offsetInCU: 0xBA2, offset: 0x3A257, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient17TCPTransportErrorOwst', symObjAddr: 0x18CC, symBinAddr: 0xF19C, symSize: 0x8C }
-  - { offsetInCU: 0xBB6, offset: 0x3A26B, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient17TCPTransportErrorOwug', symObjAddr: 0x1958, symBinAddr: 0xF228, symSize: 0x8 }
-  - { offsetInCU: 0xBCA, offset: 0x3A27F, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient17TCPTransportErrorOwup', symObjAddr: 0x1960, symBinAddr: 0xF230, symSize: 0x4 }
-  - { offsetInCU: 0xBDE, offset: 0x3A293, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient17TCPTransportErrorOwui', symObjAddr: 0x1964, symBinAddr: 0xF234, symSize: 0x4 }
-  - { offsetInCU: 0xBF2, offset: 0x3A2A7, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient17TCPTransportErrorOMa', symObjAddr: 0x1968, symBinAddr: 0xF238, symSize: 0x10 }
-  - { offsetInCU: 0xC06, offset: 0x3A2BB, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient17TCPTransportErrorOSHAASQWb', symObjAddr: 0x1978, symBinAddr: 0xF248, symSize: 0x4 }
-  - { offsetInCU: 0xC1A, offset: 0x3A2CF, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient17TCPTransportErrorOACSQAAWl', symObjAddr: 0x197C, symBinAddr: 0xF24C, symSize: 0x44 }
-  - { offsetInCU: 0xC94, offset: 0x3A349, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient17TCPTransportErrorOSHAASH13_rawHashValue4seedS2i_tFTW', symObjAddr: 0x6C, symBinAddr: 0xD9BC, symSize: 0x3C }
-  - { offsetInCU: 0xD30, offset: 0x3A3E5, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient17TCPTransportErrorOs0E0AAsADP7_domainSSvgTW', symObjAddr: 0xA8, symBinAddr: 0xD9F8, symSize: 0x4 }
-  - { offsetInCU: 0xD4C, offset: 0x3A401, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient17TCPTransportErrorOs0E0AAsADP5_codeSivgTW', symObjAddr: 0xAC, symBinAddr: 0xD9FC, symSize: 0x4 }
-  - { offsetInCU: 0xD68, offset: 0x3A41D, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient17TCPTransportErrorOs0E0AAsADP9_userInfoyXlSgvgTW', symObjAddr: 0xB0, symBinAddr: 0xDA00, symSize: 0x4 }
-  - { offsetInCU: 0xD84, offset: 0x3A439, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient17TCPTransportErrorOs0E0AAsADP19_getEmbeddedNSErroryXlSgyFTW', symObjAddr: 0xB4, symBinAddr: 0xDA04, symSize: 0x4 }
-  - { offsetInCU: 0x27, offset: 0x3A7E0, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient06SocketC7BuilderVACycfC', symObjAddr: 0x0, symBinAddr: 0xF290, symSize: 0x4 }
-  - { offsetInCU: 0x46, offset: 0x3A7FF, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient06SocketC7BuilderVACycfC', symObjAddr: 0x0, symBinAddr: 0xF290, symSize: 0x4 }
-  - { offsetInCU: 0x64, offset: 0x3A81D, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient06SocketC7BuilderV5buildAA0dC0_pyF', symObjAddr: 0x4, symBinAddr: 0xF294, symSize: 0x64 }
-  - { offsetInCU: 0xF4, offset: 0x3A8AD, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient06SocketC7BuilderVMa', symObjAddr: 0x68, symBinAddr: 0xF2F8, symSize: 0x10 }
-  - { offsetInCU: 0x150, offset: 0x3AAB9, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient21FoundationHTTPHandlerC5parse4dataSi0D04DataV_tF', symObjAddr: 0x22C, symBinAddr: 0xF534, symSize: 0x134 }
-  - { offsetInCU: 0x1BB, offset: 0x3AB24, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient21FoundationHTTPHandlerC12parseContent4dataSb0D04DataV_tF', symObjAddr: 0x360, symBinAddr: 0xF668, symSize: 0x73C }
-  - { offsetInCU: 0x5EB, offset: 0x3AF54, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient21FoundationHTTPHandlerCfD', symObjAddr: 0xABC, symBinAddr: 0xFDC4, symSize: 0x2C }
-  - { offsetInCU: 0x658, offset: 0x3AFC1, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient21FoundationHTTPHandlerCAA0E0A2aDP8register8delegateyAA0E8Delegate_p_tFTW', symObjAddr: 0xB08, symBinAddr: 0xFE10, symSize: 0x18 }
-  - { offsetInCU: 0x6AC, offset: 0x3B015, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient21FoundationHTTPHandlerCAA0E0A2aDP7convert7request0D04DataVAH10URLRequestV_tFTW', symObjAddr: 0xB20, symBinAddr: 0xFE28, symSize: 0x4 }
-  - { offsetInCU: 0x6CC, offset: 0x3B035, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient21FoundationHTTPHandlerCAA0E0A2aDP7convert7request0D04DataVAH10URLRequestV_tFTW', symObjAddr: 0xB20, symBinAddr: 0xFE28, symSize: 0x4 }
-  - { offsetInCU: 0x6DE, offset: 0x3B047, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient21FoundationHTTPHandlerCAA0E0A2aDP5parse4dataSi0D04DataV_tFTW', symObjAddr: 0xB24, symBinAddr: 0xFE2C, symSize: 0x20 }
-  - { offsetInCU: 0x6FA, offset: 0x3B063, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient21FoundationHTTPHandlerC7convert7request0D04DataVAF10URLRequestV_tFTf4nd_n', symObjAddr: 0x112C, symBinAddr: 0x10434, symSize: 0x360 }
-  - { offsetInCU: 0x893, offset: 0x3B1FC, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient21FoundationHTTPHandlerC13findEndOfHTTP33_D7233D98DCA4F481F9F3475BBE62CFD1LL4dataSi0D04DataV_tFTf4nd_n', symObjAddr: 0x166C, symBinAddr: 0x10794, symSize: 0x1D0 }
-  - { offsetInCU: 0xC1E, offset: 0x3B587, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient21FoundationHTTPHandlerCMa', symObjAddr: 0xAE8, symBinAddr: 0xFDF0, symSize: 0x20 }
-  - { offsetInCU: 0xC32, offset: 0x3B59B, size: 0x8, addend: 0x0, symName: '_$ss17_NativeDictionaryV12mutatingFind_8isUniques10_HashTableV6BucketV6bucket_Sb5foundtx_SbtFSS_SSTg5', symObjAddr: 0xCA8, symBinAddr: 0xFFB0, symSize: 0xD8 }
-  - { offsetInCU: 0xCBB, offset: 0x3B624, size: 0x8, addend: 0x0, symName: '_$ss17_NativeDictionaryV20_copyOrMoveAndResize8capacity12moveElementsySi_SbtFSS_SSTg5', symObjAddr: 0xD80, symBinAddr: 0x10088, symSize: 0x3AC }
-  - { offsetInCU: 0xE20, offset: 0x3B789, size: 0x8, addend: 0x0, symName: '_$sSa6append10contentsOfyqd__n_t7ElementQyd__RszSTRd__lFs5UInt8V_SWTg5', symObjAddr: 0x0, symBinAddr: 0xF308, symSize: 0x22C }
-  - { offsetInCU: 0x12D, offset: 0x3BD5B, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient24FoundationTransportErrorOSQAASQ2eeoiySbx_xtFZTW', symObjAddr: 0xC4, symBinAddr: 0x10A38, symSize: 0x14 }
-  - { offsetInCU: 0x1BC, offset: 0x3BDEA, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient24FoundationTransportErrorOSHAASH9hashValueSivgTW', symObjAddr: 0xD8, symBinAddr: 0x10A4C, symSize: 0x44 }
-  - { offsetInCU: 0x29F, offset: 0x3BECD, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient24FoundationTransportErrorOSHAASH4hash4intoys6HasherVz_tFTW', symObjAddr: 0x11C, symBinAddr: 0x10A90, symSize: 0x28 }
-  - { offsetInCU: 0x334, offset: 0x3BF62, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient19FoundationTransportCfD', symObjAddr: 0x194, symBinAddr: 0x10B08, symSize: 0x74 }
-  - { offsetInCU: 0x363, offset: 0x3BF91, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient19FoundationTransportCfDTo', symObjAddr: 0x208, symBinAddr: 0x10B7C, symSize: 0x24 }
-  - { offsetInCU: 0x4E7, offset: 0x3C115, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient19FoundationTransportC7connect3url7timeout18certificatePinningy0D03URLV_SdAA011CertificateJ0_pSgtF', symObjAddr: 0x2A8, symBinAddr: 0x10C1C, symSize: 0x648 }
-  - { offsetInCU: 0x7D4, offset: 0x3C402, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient19FoundationTransportC7connect3url7timeout18certificatePinningy0D03URLV_SdAA011CertificateJ0_pSgtFyyYbcfU_', symObjAddr: 0x8F0, symBinAddr: 0x11264, symSize: 0xF4 }
-  - { offsetInCU: 0x86B, offset: 0x3C499, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient19FoundationTransportC10disconnectyyF', symObjAddr: 0x9E4, symBinAddr: 0x11358, symSize: 0xF8 }
-  - { offsetInCU: 0x96F, offset: 0x3C59D, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient19FoundationTransportC5write4data10completiony0D04DataV_ys5Error_pSgctF', symObjAddr: 0xADC, symBinAddr: 0x11450, symSize: 0x20C }
-  - { offsetInCU: 0xA7D, offset: 0x3C6AB, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient19FoundationTransportC15getSecurityData33_6B7C4CC5D28A604579C05C546865A2D0LLSo11SecTrustRefaSg_SSSgtyF', symObjAddr: 0xCF8, symBinAddr: 0x1166C, symSize: 0x410 }
-  - { offsetInCU: 0xCA1, offset: 0x3C8CF, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient19FoundationTransportC4read33_6B7C4CC5D28A604579C05C546865A2D0LLyyF', symObjAddr: 0x1108, symBinAddr: 0x11A7C, symSize: 0x1AC }
-  - { offsetInCU: 0xE07, offset: 0x3CA35, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient19FoundationTransportC6stream_6handleySo8NSStreamC_So0H5EventVtF', symObjAddr: 0x12B4, symBinAddr: 0x11C28, symSize: 0x374 }
-  - { offsetInCU: 0xFAB, offset: 0x3CBD9, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient19FoundationTransportC6stream_6handleySo8NSStreamC_So0H5EventVtFyAA12PinningStateOXEfU_', symObjAddr: 0x1668, symBinAddr: 0x11FDC, symSize: 0x1CC }
-  - { offsetInCU: 0x1068, offset: 0x3CC96, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient19FoundationTransportC6stream_6handleySo8NSStreamC_So0H5EventVtFTo', symObjAddr: 0x1834, symBinAddr: 0x121A8, symSize: 0x64 }
-  - { offsetInCU: 0x10A2, offset: 0x3CCD0, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient19FoundationTransportCACycfcTo', symObjAddr: 0x1898, symBinAddr: 0x1220C, symSize: 0x2C }
-  - { offsetInCU: 0x115D, offset: 0x3CD8B, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient19FoundationTransportCAA0E0A2aDP8register8delegateyAA0e5EventC0_p_tFTW', symObjAddr: 0x18E4, symBinAddr: 0x12258, symSize: 0x1C }
-  - { offsetInCU: 0x11CA, offset: 0x3CDF8, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient19FoundationTransportCAA0E0A2aDP7connect3url7timeout18certificatePinningy0D03URLV_SdAA011CertificateJ0_pSgtFTW', symObjAddr: 0x1900, symBinAddr: 0x12274, symSize: 0x4 }
-  - { offsetInCU: 0x11E6, offset: 0x3CE14, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient19FoundationTransportCAA0E0A2aDP10disconnectyyFTW', symObjAddr: 0x1904, symBinAddr: 0x12278, symSize: 0x4 }
-  - { offsetInCU: 0x1202, offset: 0x3CE30, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient19FoundationTransportCAA0E0A2aDP5write4data10completiony0D04DataV_ys5Error_pSgctFTW', symObjAddr: 0x1908, symBinAddr: 0x1227C, symSize: 0x4 }
-  - { offsetInCU: 0x121F, offset: 0x3CE4D, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient19FoundationTransportCfETo', symObjAddr: 0x22C, symBinAddr: 0x10BA0, symSize: 0x7C }
-  - { offsetInCU: 0x1350, offset: 0x3CF7E, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient19FoundationTransportCMa', symObjAddr: 0x18C4, symBinAddr: 0x12238, symSize: 0x20 }
-  - { offsetInCU: 0x1364, offset: 0x3CF92, size: 0x8, addend: 0x0, symName: '_$sSo8NSStreamCMa', symObjAddr: 0x190C, symBinAddr: 0x12280, symSize: 0x3C }
-  - { offsetInCU: 0x13D7, offset: 0x3D005, size: 0x8, addend: 0x0, symName: '_$s10Foundation13__DataStorageC22withUnsafeMutableBytes2in5applyxSnySiG_xSwKXEtKlFs5Int32V_Tg5015$s10Foundation4b32V22ZendeskSDKSocketClientE22withef34BytesyxxSpyq_GKXEKr0_lFxSwKXEfU_s5J12V_s4Int8VTG5SpyxGq_s5Error_pr0_lys0Z0VAIIsgyrzo_Tf1ncn_n', symObjAddr: 0x196C, symBinAddr: 0x122E0, symSize: 0xE0 }
-  - { offsetInCU: 0x1479, offset: 0x3D0A7, size: 0x8, addend: 0x0, symName: '_$s10Foundation4DataV06InlineB0VyAESWcfCTf4nd_n', symObjAddr: 0x1A4C, symBinAddr: 0x123C0, symSize: 0xC4 }
-  - { offsetInCU: 0x14EF, offset: 0x3D11D, size: 0x8, addend: 0x0, symName: '_$s10Foundation4DataV10LargeSliceVyAESWcfCTf4nd_n', symObjAddr: 0x1B10, symBinAddr: 0x12484, symSize: 0x78 }
-  - { offsetInCU: 0x151C, offset: 0x3D14A, size: 0x8, addend: 0x0, symName: '_$s10Foundation4DataV11InlineSliceVyAESWcfCTf4nd_n', symObjAddr: 0x1B88, symBinAddr: 0x124FC, symSize: 0x80 }
-  - { offsetInCU: 0x1592, offset: 0x3D1C0, size: 0x8, addend: 0x0, symName: '_$s10Foundation4DataV15_RepresentationOyAESWcfCTf4nd_n', symObjAddr: 0x1C08, symBinAddr: 0x1257C, symSize: 0x68 }
-  - { offsetInCU: 0x15E7, offset: 0x3D215, size: 0x8, addend: 0x0, symName: '_$sypSgWOb', symObjAddr: 0x1D04, symBinAddr: 0x125E4, symSize: 0x48 }
-  - { offsetInCU: 0x15FB, offset: 0x3D229, size: 0x8, addend: 0x0, symName: '_$sypSgWOh', symObjAddr: 0x1D8C, symBinAddr: 0x1262C, symSize: 0x40 }
-  - { offsetInCU: 0x160F, offset: 0x3D23D, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient19FoundationTransportC15getSecurityData33_6B7C4CC5D28A604579C05C546865A2D0LLSo11SecTrustRefaSg_SSSgtyFs5Int32VSpys4Int8VGXEfU_TA', symObjAddr: 0x1DCC, symBinAddr: 0x1266C, symSize: 0x34 }
-  - { offsetInCU: 0x16FA, offset: 0x3D328, size: 0x8, addend: 0x0, symName: '_$s10Foundation4DataV15_RepresentationO22withUnsafeMutableBytesyxxSwKXEKlFs5Int32V_Tg5015$s10Foundation4b32V22ZendeskSDKSocketClientE22withef34BytesyxxSpyq_GKXEKr0_lFxSwKXEfU_s5H12V_s4Int8VTG5SpyxGq_s5Error_pr0_lys0X0VAHIsgyrzo_Tf1cn_nTf4ng_n', symObjAddr: 0x1E00, symBinAddr: 0x126A0, symSize: 0x3C8 }
-  - { offsetInCU: 0x181C, offset: 0x3D44A, size: 0x8, addend: 0x0, symName: '_$s10Foundation4DataVACSTAAWl', symObjAddr: 0x21D8, symBinAddr: 0x12A78, symSize: 0x44 }
-  - { offsetInCU: 0x1830, offset: 0x3D45E, size: 0x8, addend: 0x0, symName: '_$s10Foundation4DataV22ZendeskSDKSocketClientE9ByteErrorVAFs0G0ADWl', symObjAddr: 0x222C, symBinAddr: 0x12ABC, symSize: 0x44 }
-  - { offsetInCU: 0x1844, offset: 0x3D472, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient24FoundationTransportErrorOACs0F0AAWl', symObjAddr: 0x2270, symBinAddr: 0x12B00, symSize: 0x44 }
-  - { offsetInCU: 0x1858, offset: 0x3D486, size: 0x8, addend: 0x0, symName: '_$sSo13NSInputStreamCSo08NSOutputB0CIeggg_SgWOe', symObjAddr: 0x22B4, symBinAddr: 0x12B44, symSize: 0x10 }
-  - { offsetInCU: 0x186C, offset: 0x3D49A, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient19FoundationTransportC7connect3url7timeout18certificatePinningy0D03URLV_SdAA011CertificateJ0_pSgtFyyYbcfU_TA', symObjAddr: 0x22C4, symBinAddr: 0x12B54, symSize: 0x8 }
-  - { offsetInCU: 0x1880, offset: 0x3D4AE, size: 0x8, addend: 0x0, symName: _block_copy_helper, symObjAddr: 0x22CC, symBinAddr: 0x12B5C, symSize: 0x10 }
-  - { offsetInCU: 0x1894, offset: 0x3D4C2, size: 0x8, addend: 0x0, symName: _block_destroy_helper, symObjAddr: 0x22DC, symBinAddr: 0x12B6C, symSize: 0x8 }
-  - { offsetInCU: 0x18A8, offset: 0x3D4D6, size: 0x8, addend: 0x0, symName: '_$sSay8Dispatch0A13WorkItemFlagsVGMa', symObjAddr: 0x2324, symBinAddr: 0x12BB4, symSize: 0x54 }
-  - { offsetInCU: 0x18BC, offset: 0x3D4EA, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient24FoundationTransportErrorOwet', symObjAddr: 0x23AC, symBinAddr: 0x12C08, symSize: 0x90 }
-  - { offsetInCU: 0x18D0, offset: 0x3D4FE, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient24FoundationTransportErrorOwst', symObjAddr: 0x243C, symBinAddr: 0x12C98, symSize: 0xBC }
-  - { offsetInCU: 0x18E4, offset: 0x3D512, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient24FoundationTransportErrorOwug', symObjAddr: 0x24F8, symBinAddr: 0x12D54, symSize: 0x8 }
-  - { offsetInCU: 0x18F8, offset: 0x3D526, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient24FoundationTransportErrorOwup', symObjAddr: 0x2500, symBinAddr: 0x12D5C, symSize: 0x4 }
-  - { offsetInCU: 0x190C, offset: 0x3D53A, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient24FoundationTransportErrorOwui', symObjAddr: 0x2504, symBinAddr: 0x12D60, symSize: 0x8 }
-  - { offsetInCU: 0x1920, offset: 0x3D54E, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient24FoundationTransportErrorOMa', symObjAddr: 0x250C, symBinAddr: 0x12D68, symSize: 0x10 }
-  - { offsetInCU: 0x1934, offset: 0x3D562, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient24FoundationTransportErrorOSHAASQWb', symObjAddr: 0x251C, symBinAddr: 0x12D78, symSize: 0x4 }
-  - { offsetInCU: 0x1948, offset: 0x3D576, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient24FoundationTransportErrorOACSQAAWl', symObjAddr: 0x2520, symBinAddr: 0x12D7C, symSize: 0x44 }
-  - { offsetInCU: 0x199D, offset: 0x3D5CB, size: 0x8, addend: 0x0, symName: '_$sSTsSQ7ElementRpzrlE8containsySbABFSaySSG_Tg5', symObjAddr: 0x0, symBinAddr: 0x10974, symSize: 0xC4 }
-  - { offsetInCU: 0x1B15, offset: 0x3D743, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient24FoundationTransportErrorOSHAASH13_rawHashValue4seedS2i_tFTW', symObjAddr: 0x144, symBinAddr: 0x10AB8, symSize: 0x40 }
-  - { offsetInCU: 0x1BB1, offset: 0x3D7DF, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient24FoundationTransportErrorOs0F0AAsADP7_domainSSvgTW', symObjAddr: 0x184, symBinAddr: 0x10AF8, symSize: 0x4 }
-  - { offsetInCU: 0x1BCD, offset: 0x3D7FB, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient24FoundationTransportErrorOs0F0AAsADP5_codeSivgTW', symObjAddr: 0x188, symBinAddr: 0x10AFC, symSize: 0x4 }
-  - { offsetInCU: 0x1BE9, offset: 0x3D817, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient24FoundationTransportErrorOs0F0AAsADP9_userInfoyXlSgvgTW', symObjAddr: 0x18C, symBinAddr: 0x10B00, symSize: 0x4 }
-  - { offsetInCU: 0x1C05, offset: 0x3D833, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient24FoundationTransportErrorOs0F0AAsADP19_getEmbeddedNSErroryXlSgyFTW', symObjAddr: 0x190, symBinAddr: 0x10B04, symSize: 0x4 }
-  - { offsetInCU: 0x2B, offset: 0x3DD6E, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient013DefaultSocketC0C7connect3urly10Foundation3URLV_tF', symObjAddr: 0x0, symBinAddr: 0x12DC0, symSize: 0x1D0 }
-  - { offsetInCU: 0x19B, offset: 0x3DEDE, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient013DefaultSocketC0C7connect3urly10Foundation3URLV_tF', symObjAddr: 0x0, symBinAddr: 0x12DC0, symSize: 0x1D0 }
-  - { offsetInCU: 0x28C, offset: 0x3DFCF, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient013DefaultSocketC0C10disconnectyyF', symObjAddr: 0x1D0, symBinAddr: 0x12F90, symSize: 0xFC }
-  - { offsetInCU: 0x31F, offset: 0x3E062, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient013DefaultSocketC0CfD', symObjAddr: 0x2CC, symBinAddr: 0x1308C, symSize: 0x2C }
-  - { offsetInCU: 0x379, offset: 0x3E0BC, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient013DefaultSocketC0CAA0eC0A2aDP8delegateAA0eC8Delegate_pSgvgTW', symObjAddr: 0x318, symBinAddr: 0x130D8, symSize: 0x48 }
-  - { offsetInCU: 0x3BA, offset: 0x3E0FD, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient013DefaultSocketC0CAA0eC0A2aDP8delegateAA0eC8Delegate_pSgvsTW', symObjAddr: 0x360, symBinAddr: 0x13120, symSize: 0x64 }
-  - { offsetInCU: 0x3FB, offset: 0x3E13E, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient013DefaultSocketC0CAA0eC0A2aDP8delegateAA0eC8Delegate_pSgvMTW', symObjAddr: 0x3C4, symBinAddr: 0x13184, symSize: 0x70 }
-  - { offsetInCU: 0x42D, offset: 0x3E170, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient013DefaultSocketC0CAA0eC0A2aDP8delegateAA0eC8Delegate_pSgvMTW.resume.0', symObjAddr: 0x434, symBinAddr: 0x131F4, symSize: 0x70 }
-  - { offsetInCU: 0x457, offset: 0x3E19A, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient013DefaultSocketC0CAA0eC0A2aDP7connect3urly10Foundation3URLV_tFTW', symObjAddr: 0x4A4, symBinAddr: 0x13264, symSize: 0x20 }
-  - { offsetInCU: 0x473, offset: 0x3E1B6, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient013DefaultSocketC0CAA0eC0A2aDP10disconnectyyFTW', symObjAddr: 0x4C4, symBinAddr: 0x13284, symSize: 0x20 }
-  - { offsetInCU: 0x4B9, offset: 0x3E1FC, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient013DefaultSocketC0CAA0eC0A2aDP11sendMessage4textySS_tFTW', symObjAddr: 0x4E4, symBinAddr: 0x132A4, symSize: 0xA0 }
-  - { offsetInCU: 0x56E, offset: 0x3E2B1, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient013DefaultSocketC0CMa', symObjAddr: 0x2F8, symBinAddr: 0x130B8, symSize: 0x20 }
-  - { offsetInCU: 0x5C3, offset: 0x3E306, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient06SocketC8Delegate_pSgXwWOh', symObjAddr: 0x5A8, symBinAddr: 0x13344, symSize: 0x24 }
-  - { offsetInCU: 0xD4, offset: 0x3E522, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient10CompressorC11initDeflate33_B54EA1A902C4428F08EEA22B60766315LLSbyF', symObjAddr: 0x102C, symBinAddr: 0x14394, symSize: 0xB8 }
-  - { offsetInCU: 0x13E, offset: 0x3E58C, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient10CompressorC8compressy10Foundation4DataVAGKF', symObjAddr: 0x11F0, symBinAddr: 0x14558, symSize: 0x230 }
-  - { offsetInCU: 0x2D6, offset: 0x3E724, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient10CompressorC8compressy10Foundation4DataVAGKFySPys5UInt8VGXEfU_', symObjAddr: 0x1430, symBinAddr: 0x14798, symSize: 0x1AC }
-  - { offsetInCU: 0x541, offset: 0x3E98F, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12DecompressorC11initInflate33_B54EA1A902C4428F08EEA22B60766315LLSbyF', symObjAddr: 0xB50, symBinAddr: 0x13EB8, symSize: 0xA8 }
-  - { offsetInCU: 0x5AB, offset: 0x3E9F9, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12DecompressorC10decompress_6finish10Foundation4DataVAH_SbtKF', symObjAddr: 0xC34, symBinAddr: 0x13F9C, symSize: 0xE8 }
-  - { offsetInCU: 0x665, offset: 0x3EAB3, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12DecompressorC10decompress_6finish10Foundation4DataVAH_SbtKFAHSPys5UInt8VGKXEfU_', symObjAddr: 0xD2C, symBinAddr: 0x14094, symSize: 0x118 }
-  - { offsetInCU: 0x7D8, offset: 0x3EC26, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12DecompressorC10decompress33_B54EA1A902C4428F08EEA22B60766315LL5bytes5count3outySPys5UInt8VG_Si10Foundation4DataVztKF', symObjAddr: 0xE54, symBinAddr: 0x141BC, symSize: 0x1AC }
-  - { offsetInCU: 0xB47, offset: 0x3EF95, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient13WSCompressionC4load7headersySDyS2SG_tF', symObjAddr: 0x70, symBinAddr: 0x133D8, symSize: 0x9C4 }
-  - { offsetInCU: 0x1291, offset: 0x3F6DF, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient13WSCompressionC8compress4data10Foundation4DataVSgAH_tF', symObjAddr: 0xA34, symBinAddr: 0x13D9C, symSize: 0xC8 }
-  - { offsetInCU: 0x1324, offset: 0x3F772, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient13WSCompressionCfD', symObjAddr: 0xAFC, symBinAddr: 0x13E64, symSize: 0x34 }
-  - { offsetInCU: 0x1368, offset: 0x3F7B6, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient13WSCompressionCMa', symObjAddr: 0xB30, symBinAddr: 0x13E98, symSize: 0x20 }
-  - { offsetInCU: 0x148A, offset: 0x3F8D8, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12DecompressorCMa', symObjAddr: 0x100C, symBinAddr: 0x14374, symSize: 0x20 }
-  - { offsetInCU: 0x155C, offset: 0x3F9AA, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient10CompressorCMa', symObjAddr: 0x177C, symBinAddr: 0x14AE4, symSize: 0x20 }
-  - { offsetInCU: 0x1570, offset: 0x3F9BE, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient10CompressorC8compressy10Foundation4DataVAGKFySPys5UInt8VGXEfU_TA', symObjAddr: 0x179C, symBinAddr: 0x14B04, symSize: 0x20 }
-  - { offsetInCU: 0x15F2, offset: 0x3FA40, size: 0x8, addend: 0x0, symName: '_$s10Foundation4DataV06InlineB0V15withUnsafeBytesyxxSWKXEKlFyt_Tg5015$s10Foundation4b32V22ZendeskSDKSocketClientE15withE46BytesyxxSPyq_GKXEKr0_lFxSWKXEfU_yt_s5UInt8VTg5SPyxGq_s5Error_pr0_lys0U0VytIsgyrzo_Tf1ncn_n', symObjAddr: 0x17BC, symBinAddr: 0x14B24, symSize: 0xFC }
-  - { offsetInCU: 0x16BD, offset: 0x3FB0B, size: 0x8, addend: 0x0, symName: '_$s10Foundation4DataV06InlineB0V15withUnsafeBytesyxxSWKXEKlFAC_Tg5015$s10Foundation4b32V22ZendeskSDKSocketClientE15withE46BytesyxxSPyq_GKXEKr0_lFxSWKXEfU_AC_s5UInt8VTg5SPyxGq_s5Error_pr0_lys0U0VACIsgyrzo_Tf1ncn_n', symObjAddr: 0x18B8, symBinAddr: 0x14C20, symSize: 0xFC }
-  - { offsetInCU: 0x171A, offset: 0x3FB68, size: 0x8, addend: 0x0, symName: '_$s10Foundation13__DataStorageC15withUnsafeBytes2in5applyxSnySiG_xSWKXEtKlFyt_Tg5015$s10Foundation4b32V22ZendeskSDKSocketClientE15withE46BytesyxxSPyq_GKXEKr0_lFxSWKXEfU_yt_s5UInt8VTg5SPyxGq_s5Error_pr0_lys0W0VytIsgyrzo_Tf1nncn_n', symObjAddr: 0x19B4, symBinAddr: 0x14D1C, symSize: 0xD8 }
-  - { offsetInCU: 0x1785, offset: 0x3FBD3, size: 0x8, addend: 0x0, symName: '_$s10Foundation13__DataStorageC15withUnsafeBytes2in5applyxSnySiG_xSWKXEtKlFAA0B0V_Tg5015$s10Foundation4b32V22ZendeskSDKSocketClientE15withE46BytesyxxSPyq_GKXEKr0_lFxSWKXEfU_AC_s5UInt8VTg5SPyxGq_s5Error_pr0_lys0W0VAIIsgyrzo_Tf1nncn_n', symObjAddr: 0x1B64, symBinAddr: 0x14DF4, symSize: 0xD8 }
-  - { offsetInCU: 0x1848, offset: 0x3FC96, size: 0x8, addend: 0x0, symName: '_$ss12_ArrayBufferV20_consumeAndCreateNew14bufferIsUnique15minimumCapacity13growForAppendAByxGSb_SiSbtFs5UInt8V_Tg5', symObjAddr: 0x1C3C, symBinAddr: 0x14ECC, symSize: 0xB4 }
-  - { offsetInCU: 0x1940, offset: 0x3FD8E, size: 0x8, addend: 0x0, symName: '_$ss12_ArrayBufferV20_consumeAndCreateNewAByxGyFs5UInt8V_Tg5', symObjAddr: 0x1CF0, symBinAddr: 0x14F80, symSize: 0x14 }
-  - { offsetInCU: 0x19A3, offset: 0x3FDF1, size: 0x8, addend: 0x0, symName: '_$ss13_parseInteger5ascii5radixq_Sgx_SitSyRzs010FixedWidthB0R_r0_lFSS_SiTg5', symObjAddr: 0x1D04, symBinAddr: 0x14F94, symSize: 0xE0 }
-  - { offsetInCU: 0x1ABE, offset: 0x3FF0C, size: 0x8, addend: 0x0, symName: '_$ss13_parseInteger5ascii5radixxSgSRys5UInt8VG_Sits010FixedWidthB0RzlFSi_Tg5', symObjAddr: 0x1DE4, symBinAddr: 0x15074, symSize: 0x298 }
-  - { offsetInCU: 0x1B35, offset: 0x3FF83, size: 0x8, addend: 0x0, symName: '_$sSS8_copyingyS2SFZ', symObjAddr: 0x207C, symBinAddr: 0x1530C, symSize: 0x8C }
-  - { offsetInCU: 0x1B4D, offset: 0x3FF9B, size: 0x8, addend: 0x0, symName: '_$sSlsEy11SubSequenceQzqd__cSXRd__5BoundQyd__5IndexRtzluigSS_s16PartialRangeFromVySSAEVGTgq5', symObjAddr: 0x2108, symBinAddr: 0x15398, symSize: 0x4C }
-  - { offsetInCU: 0x1B8C, offset: 0x3FFDA, size: 0x8, addend: 0x0, symName: '_$sSS8_copyingySSSsFZ', symObjAddr: 0x2154, symBinAddr: 0x153E4, symSize: 0x100 }
-  - { offsetInCU: 0x1BDB, offset: 0x40029, size: 0x8, addend: 0x0, symName: '_$ss32_copyCollectionToContiguousArrayys0dE0Vy7ElementQzGxSlRzlFSs8UTF8ViewV_Tgq5', symObjAddr: 0x2254, symBinAddr: 0x154E4, symSize: 0xB0 }
-  - { offsetInCU: 0x1C30, offset: 0x4007E, size: 0x8, addend: 0x0, symName: '_$sSlsE5countSivgSs8UTF8ViewV_Tgq5', symObjAddr: 0x2304, symBinAddr: 0x15594, symSize: 0xF0 }
-  - { offsetInCU: 0x1C55, offset: 0x400A3, size: 0x8, addend: 0x0, symName: '_$sSTsE21_copySequenceContents12initializing8IteratorQz_SitSry7ElementQzG_tFSs8UTF8ViewV_Tgq5', symObjAddr: 0x23F4, symBinAddr: 0x15684, symSize: 0x214 }
-  - { offsetInCU: 0x1C8E, offset: 0x400DC, size: 0x8, addend: 0x0, symName: '_$ss11_StringGutsV27_slowEnsureMatchingEncodingySS5IndexVAEF', symObjAddr: 0x2608, symBinAddr: 0x15898, symSize: 0x78 }
-  - { offsetInCU: 0x1CA6, offset: 0x400F4, size: 0x8, addend: 0x0, symName: '_$sSmsSKRz11SubSequenceSlQzRszrlE17_customRemoveLastySbSiF10Foundation4DataV_Tgq5', symObjAddr: 0x2680, symBinAddr: 0x15910, symSize: 0x14C }
-  - { offsetInCU: 0x1CF3, offset: 0x40141, size: 0x8, addend: 0x0, symName: '_$sSksSx5IndexRpzSnyABG7IndicesRtzSiAA_6StrideRTzrlE8distance4from2toSiAB_ABtF10Foundation4DataV_Tgq5', symObjAddr: 0x27EC, symBinAddr: 0x15A7C, symSize: 0xB8 }
-  - { offsetInCU: 0x1D2C, offset: 0x4017A, size: 0x8, addend: 0x0, symName: '_$sSksSx5IndexRpzSnyABG7IndicesRtzSiAA_6StrideRTzrlE5index_8offsetByA2B_SitF10Foundation4DataV_Tgq5', symObjAddr: 0x28C4, symBinAddr: 0x15B54, symSize: 0x64 }
-  - { offsetInCU: 0x1D83, offset: 0x401D1, size: 0x8, addend: 0x0, symName: '_$ss22_ContiguousArrayBufferV19_uninitializedCount15minimumCapacityAByxGSi_SitcfCs5UInt8V_Tg5Tf4nnd_n', symObjAddr: 0x297C, symBinAddr: 0x15BC8, symSize: 0x68 }
-  - { offsetInCU: 0x1DE1, offset: 0x4022F, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12DecompressorC10decompress_6finish10Foundation4DataVAH_SbtKFAHSPys5UInt8VGKXEfU_TA', symObjAddr: 0x2A24, symBinAddr: 0x15C30, symSize: 0x20 }
-  - { offsetInCU: 0x1E0C, offset: 0x4025A, size: 0x8, addend: 0x0, symName: '_$sSa9repeating5countSayxGx_SitcfCs5UInt8V_Tg5', symObjAddr: 0x0, symBinAddr: 0x13368, symSize: 0x70 }
-  - { offsetInCU: 0x1F75, offset: 0x403C3, size: 0x8, addend: 0x0, symName: '_$sSmsSKRz11SubSequenceSlQzRszrlE10removeLastyySiF10Foundation4DataV_Tg5', symObjAddr: 0x15EC, symBinAddr: 0x14954, symSize: 0xF0 }
-  - { offsetInCU: 0x43, offset: 0x407B2, size: 0x8, addend: 0x0, symName: '_$sIegh_IeyBh_TR', symObjAddr: 0x0, symBinAddr: 0x15C50, symSize: 0x2C }
-  - { offsetInCU: 0x8B, offset: 0x407FA, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient9ErrorTypeOSQAASQ2eeoiySbx_xtFZTW', symObjAddr: 0x2C, symBinAddr: 0x15C7C, symSize: 0x14 }
-  - { offsetInCU: 0x11A, offset: 0x40889, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient9ErrorTypeOSHAASH9hashValueSivgTW', symObjAddr: 0x40, symBinAddr: 0x15C90, symSize: 0x44 }
-  - { offsetInCU: 0x1FD, offset: 0x4096C, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient9ErrorTypeOSHAASH4hash4intoys6HasherVz_tFTW', symObjAddr: 0x84, symBinAddr: 0x15CD4, symSize: 0x28 }
-  - { offsetInCU: 0x2B0, offset: 0x40A1F, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient9WebSocketC10didReceive5eventyAA0dE5EventO_tF', symObjAddr: 0x10C, symBinAddr: 0x15D5C, symSize: 0x250 }
-  - { offsetInCU: 0x32E, offset: 0x40A9D, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient9WebSocketC10didReceive5eventyAA0dE5EventO_tFyyYbcfU_', symObjAddr: 0x35C, symBinAddr: 0x15FAC, symSize: 0xD0 }
-  - { offsetInCU: 0x432, offset: 0x40BA1, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient9WebSocketCfd', symObjAddr: 0x42C, symBinAddr: 0x1607C, symSize: 0x6C }
-  - { offsetInCU: 0x46F, offset: 0x40BDE, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient9WebSocketCfD', symObjAddr: 0x4EC, symBinAddr: 0x1611C, symSize: 0x78 }
-  - { offsetInCU: 0x4B4, offset: 0x40C23, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient9WebSocketCAA14EngineDelegateA2aDP10didReceive5eventyAA0dE5EventO_tFTW', symObjAddr: 0x564, symBinAddr: 0x16194, symSize: 0x8 }
-  - { offsetInCU: 0x537, offset: 0x40CA6, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient9WebSocketC7request10certPinner18compressionHandler15useCustomEngineAC10Foundation10URLRequestV_AA18CertificatePinning_pSgAA011CompressionJ0_pSgSbtcfCTf4nnnnd_n', symObjAddr: 0xDFC, symBinAddr: 0x16918, symSize: 0x3BC }
-  - { offsetInCU: 0x7BA, offset: 0x40F29, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient17WebSocketDelegate_pSgXwWOh', symObjAddr: 0x4B8, symBinAddr: 0x160E8, symSize: 0x24 }
-  - { offsetInCU: 0x7CE, offset: 0x40F3D, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient14WebSocketEventOIegg_SgWOe', symObjAddr: 0x4DC, symBinAddr: 0x1610C, symSize: 0x10 }
-  - { offsetInCU: 0x7E2, offset: 0x40F51, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient9WebSocketCMU', symObjAddr: 0x5B0, symBinAddr: 0x1619C, symSize: 0x8 }
-  - { offsetInCU: 0x7F6, offset: 0x40F65, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient9WebSocketCMa', symObjAddr: 0x5B8, symBinAddr: 0x161A4, symSize: 0x3C }
-  - { offsetInCU: 0x80A, offset: 0x40F79, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient9WebSocketCMr', symObjAddr: 0x5F4, symBinAddr: 0x161E0, symSize: 0x98 }
-  - { offsetInCU: 0x81E, offset: 0x40F8D, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient14WebSocketEventOwCP', symObjAddr: 0x698, symBinAddr: 0x16284, symSize: 0x5C }
-  - { offsetInCU: 0x832, offset: 0x40FA1, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient14WebSocketEventOWOy', symObjAddr: 0x6F4, symBinAddr: 0x162E0, symSize: 0x44 }
-  - { offsetInCU: 0x846, offset: 0x40FB5, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient14WebSocketEventOwxx', symObjAddr: 0x79C, symBinAddr: 0x16324, symSize: 0x14 }
-  - { offsetInCU: 0x85A, offset: 0x40FC9, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient14WebSocketEventOWOe', symObjAddr: 0x7B0, symBinAddr: 0x16338, symSize: 0x44 }
-  - { offsetInCU: 0x86E, offset: 0x40FDD, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient14WebSocketEventOwcp', symObjAddr: 0x84C, symBinAddr: 0x1637C, symSize: 0x5C }
-  - { offsetInCU: 0x882, offset: 0x40FF1, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient14WebSocketEventOwca', symObjAddr: 0x8A8, symBinAddr: 0x163D8, symSize: 0x6C }
-  - { offsetInCU: 0x896, offset: 0x41005, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient14WebSocketEventOwta', symObjAddr: 0x928, symBinAddr: 0x16444, symSize: 0x50 }
-  - { offsetInCU: 0x8AA, offset: 0x41019, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient14WebSocketEventOwet', symObjAddr: 0x978, symBinAddr: 0x16494, symSize: 0x48 }
-  - { offsetInCU: 0x8BE, offset: 0x4102D, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient14WebSocketEventOwst', symObjAddr: 0x9C0, symBinAddr: 0x164DC, symSize: 0x48 }
-  - { offsetInCU: 0x8D2, offset: 0x41041, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient14WebSocketEventOwug', symObjAddr: 0xA08, symBinAddr: 0x16524, symSize: 0x18 }
-  - { offsetInCU: 0x8E6, offset: 0x41055, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient14WebSocketEventOwup', symObjAddr: 0xA20, symBinAddr: 0x1653C, symSize: 0x4 }
-  - { offsetInCU: 0x8FA, offset: 0x41069, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient14WebSocketEventOwui', symObjAddr: 0xA24, symBinAddr: 0x16540, symSize: 0x1C }
-  - { offsetInCU: 0x90E, offset: 0x4107D, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient14WebSocketEventOMa', symObjAddr: 0xA40, symBinAddr: 0x1655C, symSize: 0x10 }
-  - { offsetInCU: 0x9C1, offset: 0x41130, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSEngineC9transport10certPinner15headerValidator11httpHandler6framer011compressionK0AcA9Transport_p_AA18CertificatePinning_pSgAA06HeaderI0_pAA11HTTPHandler_pAA6Framer_pAA011CompressionK0_pSgtcfcTf4nnnnenn_nAA8WSFramerC_Tg5Tf4ennnnnn_nAA12TCPTransportC_Tg5Tf4nneennn_nAA18FoundationSecurityC_AA0wR0CTg5', symObjAddr: 0xA50, symBinAddr: 0x1656C, symSize: 0x3AC }
-  - { offsetInCU: 0xC5F, offset: 0x413CE, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient18CompressionHandler_pSgWOh', symObjAddr: 0x11F4, symBinAddr: 0x16CD4, symSize: 0x40 }
-  - { offsetInCU: 0xC73, offset: 0x413E2, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient18CompressionHandler_pSgWOc', symObjAddr: 0x1274, symBinAddr: 0x16D14, symSize: 0x48 }
-  - { offsetInCU: 0xC87, offset: 0x413F6, size: 0x8, addend: 0x0, symName: ___swift_mutable_project_boxed_opaque_existential_1, symObjAddr: 0x12BC, symBinAddr: 0x16D5C, symSize: 0x28 }
-  - { offsetInCU: 0xC9B, offset: 0x4140A, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient6Framer_pWOc', symObjAddr: 0x1324, symBinAddr: 0x16DC4, symSize: 0x44 }
-  - { offsetInCU: 0xCAF, offset: 0x4141E, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient11HTTPHandler_pWOb', symObjAddr: 0x1368, symBinAddr: 0x16E08, symSize: 0x18 }
-  - { offsetInCU: 0xCC3, offset: 0x41432, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient18CompressionHandler_pSgWOb', symObjAddr: 0x13A4, symBinAddr: 0x16E20, symSize: 0x48 }
-  - { offsetInCU: 0xCD7, offset: 0x41446, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient9WebSocketC10didReceive5eventyAA0dE5EventO_tFyyYbcfU_TA', symObjAddr: 0x1444, symBinAddr: 0x16EC0, symSize: 0x18 }
-  - { offsetInCU: 0xCEB, offset: 0x4145A, size: 0x8, addend: 0x0, symName: _block_copy_helper, symObjAddr: 0x145C, symBinAddr: 0x16ED8, symSize: 0x10 }
-  - { offsetInCU: 0xCFF, offset: 0x4146E, size: 0x8, addend: 0x0, symName: _block_destroy_helper, symObjAddr: 0x146C, symBinAddr: 0x16EE8, symSize: 0x8 }
-  - { offsetInCU: 0xD2A, offset: 0x41499, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient013DefaultSocketC0C10didReceive5event6clientyAA03WebE5EventO_AA0jeC0_ptFTf4nen_nAA0jE0C_Tg5Tf4ndn_n', symObjAddr: 0x1500, symBinAddr: 0x16F7C, symSize: 0x280 }
-  - { offsetInCU: 0xE25, offset: 0x41594, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient7WSErrorVwCP', symObjAddr: 0x1780, symBinAddr: 0x171FC, symSize: 0x30 }
-  - { offsetInCU: 0xE39, offset: 0x415A8, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient7WSErrorVwxx', symObjAddr: 0x17B0, symBinAddr: 0x1722C, symSize: 0x8 }
-  - { offsetInCU: 0xE4D, offset: 0x415BC, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient7WSErrorVwcp', symObjAddr: 0x17B8, symBinAddr: 0x17234, symSize: 0x3C }
-  - { offsetInCU: 0xE61, offset: 0x415D0, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient7WSErrorVwca', symObjAddr: 0x17F4, symBinAddr: 0x17270, symSize: 0x5C }
-  - { offsetInCU: 0xE75, offset: 0x415E4, size: 0x8, addend: 0x0, symName: ___swift_memcpy26_8, symObjAddr: 0x1850, symBinAddr: 0x172CC, symSize: 0x14 }
-  - { offsetInCU: 0xE89, offset: 0x415F8, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient7WSErrorVwta', symObjAddr: 0x1864, symBinAddr: 0x172E0, symSize: 0x44 }
-  - { offsetInCU: 0xE9D, offset: 0x4160C, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient7WSErrorVwet', symObjAddr: 0x18A8, symBinAddr: 0x17324, symSize: 0x48 }
-  - { offsetInCU: 0xEB1, offset: 0x41620, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient7WSErrorVwst', symObjAddr: 0x18F0, symBinAddr: 0x1736C, symSize: 0x44 }
-  - { offsetInCU: 0xEC5, offset: 0x41634, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient7WSErrorVMa', symObjAddr: 0x1934, symBinAddr: 0x173B0, symSize: 0x10 }
-  - { offsetInCU: 0xED9, offset: 0x41648, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient9ErrorTypeOwet', symObjAddr: 0x1954, symBinAddr: 0x173C0, symSize: 0x90 }
-  - { offsetInCU: 0xEED, offset: 0x4165C, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient9ErrorTypeOwst', symObjAddr: 0x19E4, symBinAddr: 0x17450, symSize: 0xBC }
-  - { offsetInCU: 0xF01, offset: 0x41670, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient9ErrorTypeOwug', symObjAddr: 0x1AA0, symBinAddr: 0x1750C, symSize: 0x8 }
-  - { offsetInCU: 0xF15, offset: 0x41684, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient9ErrorTypeOwup', symObjAddr: 0x1AA8, symBinAddr: 0x17514, symSize: 0x4 }
-  - { offsetInCU: 0xF29, offset: 0x41698, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient9ErrorTypeOwui', symObjAddr: 0x1AAC, symBinAddr: 0x17518, symSize: 0x8 }
-  - { offsetInCU: 0xF3D, offset: 0x416AC, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient9ErrorTypeOMa', symObjAddr: 0x1AB4, symBinAddr: 0x17520, symSize: 0x10 }
-  - { offsetInCU: 0xF51, offset: 0x416C0, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient9ErrorTypeOSHAASQWb', symObjAddr: 0x1AC4, symBinAddr: 0x17530, symSize: 0x4 }
-  - { offsetInCU: 0xF65, offset: 0x416D4, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient9ErrorTypeOACSQAAWl', symObjAddr: 0x1AC8, symBinAddr: 0x17534, symSize: 0x44 }
-  - { offsetInCU: 0xFC9, offset: 0x41738, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient9ErrorTypeOSHAASH13_rawHashValue4seedS2i_tFTW', symObjAddr: 0xAC, symBinAddr: 0x15CFC, symSize: 0x40 }
-  - { offsetInCU: 0x1065, offset: 0x417D4, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient9ErrorTypeOs0D0AAsADP7_domainSSvgTW', symObjAddr: 0xEC, symBinAddr: 0x15D3C, symSize: 0x4 }
-  - { offsetInCU: 0x1081, offset: 0x417F0, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient9ErrorTypeOs0D0AAsADP5_codeSivgTW', symObjAddr: 0xF0, symBinAddr: 0x15D40, symSize: 0x4 }
-  - { offsetInCU: 0x109D, offset: 0x4180C, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient9ErrorTypeOs0D0AAsADP9_userInfoyXlSgvgTW', symObjAddr: 0xF4, symBinAddr: 0x15D44, symSize: 0x4 }
-  - { offsetInCU: 0x10B9, offset: 0x41828, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient9ErrorTypeOs0D0AAsADP19_getEmbeddedNSErroryXlSgyFTW', symObjAddr: 0xF8, symBinAddr: 0x15D48, symSize: 0x4 }
-  - { offsetInCU: 0x10D5, offset: 0x41844, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient7WSErrorVs5ErrorAAsADP7_domainSSvgTW', symObjAddr: 0xFC, symBinAddr: 0x15D4C, symSize: 0x4 }
-  - { offsetInCU: 0x10F1, offset: 0x41860, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient7WSErrorVs5ErrorAAsADP5_codeSivgTW', symObjAddr: 0x100, symBinAddr: 0x15D50, symSize: 0x4 }
-  - { offsetInCU: 0x110D, offset: 0x4187C, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient7WSErrorVs5ErrorAAsADP9_userInfoyXlSgvgTW', symObjAddr: 0x104, symBinAddr: 0x15D54, symSize: 0x4 }
-  - { offsetInCU: 0x1129, offset: 0x41898, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient7WSErrorVs5ErrorAAsADP19_getEmbeddedNSErroryXlSgyFTW', symObjAddr: 0x108, symBinAddr: 0x15D58, symSize: 0x4 }
-  - { offsetInCU: 0x27, offset: 0x41B06, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient06SocketC6LoggerVMa', symObjAddr: 0x0, symBinAddr: 0x17578, symSize: 0x10 }
-  - { offsetInCU: 0x4B, offset: 0x41B2A, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient06SocketC6LoggerV11logCategorySSvpZ', symObjAddr: 0x4C10, symBinAddr: 0x2DD60, symSize: 0x0 }
-  - { offsetInCU: 0x59, offset: 0x41B38, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient06SocketC6LoggerVMa', symObjAddr: 0x0, symBinAddr: 0x17578, symSize: 0x10 }
-  - { offsetInCU: 0x6D, offset: 0x41B4C, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient06SocketC6LoggerV11logCategory_WZ', symObjAddr: 0x10, symBinAddr: 0x17588, symSize: 0x18 }
-  - { offsetInCU: 0x8E, offset: 0x41B6D, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient06SocketC6LoggerV0A9SDKLogger8LoggableAadEP12logNamespaceSSvgZTW', symObjAddr: 0x28, symBinAddr: 0x175A0, symSize: 0x1C }
-  - { offsetInCU: 0xB9, offset: 0x41B98, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient06SocketC6LoggerV0A9SDKLogger8LoggableAadEP11logCategorySSvgZTW', symObjAddr: 0x44, symBinAddr: 0x175BC, symSize: 0x5C }
-  - { offsetInCU: 0xF0, offset: 0x41BCF, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient06SocketC6LoggerV11sendMessage4textySS_tFTf4nd_n', symObjAddr: 0xA8, symBinAddr: 0x17620, symSize: 0x114 }
-  - { offsetInCU: 0x1C7, offset: 0x41CA6, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient06SocketC6LoggerV10didReceive5eventyAA03WebD5EventO_tFTf4nd_n', symObjAddr: 0x244, symBinAddr: 0x17778, symSize: 0x774 }
-  - { offsetInCU: 0x7AA, offset: 0x42289, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient06SocketC6LoggerVAC0A9SDKLogger8LoggableAAWl', symObjAddr: 0x1BC, symBinAddr: 0x17734, symSize: 0x44 }
-  - { offsetInCU: 0x90E, offset: 0x423ED, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient06SocketC6LoggerV0A9SDKLogger8LoggableAadEP3logAD3Log_pvgZTW', symObjAddr: 0xA0, symBinAddr: 0x17618, symSize: 0x4 }
-  - { offsetInCU: 0x92A, offset: 0x42409, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient06SocketC6LoggerV0A9SDKLogger8LoggableAadEP3logAD3Log_pvgTW', symObjAddr: 0xA4, symBinAddr: 0x1761C, symSize: 0x4 }
-  - { offsetInCU: 0x2B, offset: 0x424E2, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12NativeEngineC5start7requesty10Foundation10URLRequestV_tF', symObjAddr: 0x0, symBinAddr: 0x17F14, symSize: 0x168 }
-  - { offsetInCU: 0xB5, offset: 0x4256C, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12NativeEngineC5start7requesty10Foundation10URLRequestV_tF', symObjAddr: 0x0, symBinAddr: 0x17F14, symSize: 0x168 }
-  - { offsetInCU: 0x18D, offset: 0x42644, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12NativeEngineC5write6string10completionySS_yycSgtF', symObjAddr: 0x168, symBinAddr: 0x1807C, symSize: 0x11C }
-  - { offsetInCU: 0x268, offset: 0x4271F, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12NativeEngineC6doRead33_FFEF0E477B3BD80A1644E56F3D0A1AF2LLyyFys6ResultOySo25NSURLSessionWebSocketTaskC10FoundationE7MessageOs5Error_pGcfU_', symObjAddr: 0x284, symBinAddr: 0x18198, symSize: 0x47C }
-  - { offsetInCU: 0x3E4, offset: 0x4289B, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12NativeEngineC10urlSession_13webSocketTask19didOpenWithProtocolySo12NSURLSessionC_So0o3WebiJ0CSSSgtFTo', symObjAddr: 0x700, symBinAddr: 0x18614, symSize: 0xA0 }
-  - { offsetInCU: 0x425, offset: 0x428DC, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12NativeEngineC10urlSession_13webSocketTask12didCloseWith6reasonySo12NSURLSessionC_So0o3WebiJ0CSo0opiL4CodeV10Foundation4DataVSgtFTo', symObjAddr: 0x7A0, symBinAddr: 0x186B4, symSize: 0xD4 }
-  - { offsetInCU: 0x499, offset: 0x42950, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12NativeEngineC10urlSession_4task20didCompleteWithErrorySo12NSURLSessionC_So0M4TaskCs0L0_pSgtFTo', symObjAddr: 0x874, symBinAddr: 0x18788, symSize: 0xFC }
-  - { offsetInCU: 0x542, offset: 0x429F9, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12NativeEngineCACycfcTo', symObjAddr: 0x970, symBinAddr: 0x18884, symSize: 0x60 }
-  - { offsetInCU: 0x57D, offset: 0x42A34, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12NativeEngineCfD', symObjAddr: 0x9D0, symBinAddr: 0x188E4, symSize: 0x30 }
-  - { offsetInCU: 0x5FE, offset: 0x42AB5, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12NativeEngineCAA0E0A2aDP8register8delegateyAA0E8Delegate_p_tFTW', symObjAddr: 0xA58, symBinAddr: 0x1896C, symSize: 0x20 }
-  - { offsetInCU: 0x65B, offset: 0x42B12, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12NativeEngineCAA0E0A2aDP5start7requesty10Foundation10URLRequestV_tFTW', symObjAddr: 0xA78, symBinAddr: 0x1898C, symSize: 0x20 }
-  - { offsetInCU: 0x6B0, offset: 0x42B67, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12NativeEngineCAA0E0A2aDP4stop9closeCodeys6UInt16V_tFTW', symObjAddr: 0xA98, symBinAddr: 0x189AC, symSize: 0x30 }
-  - { offsetInCU: 0x748, offset: 0x42BFF, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12NativeEngineCAA0E0A2aDP5write6string10completionySS_yycSgtFTW', symObjAddr: 0xAC8, symBinAddr: 0x189DC, symSize: 0x20 }
-  - { offsetInCU: 0x764, offset: 0x42C1B, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12NativeEngineC10urlSession_13webSocketTask19didOpenWithProtocolySo12NSURLSessionC_So0o3WebiJ0CSSSgtFTf4ddnn_n', symObjAddr: 0xC9C, symBinAddr: 0x18ACC, symSize: 0x13C }
-  - { offsetInCU: 0x884, offset: 0x42D3B, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12NativeEngineC10urlSession_13webSocketTask12didCloseWith6reasonySo12NSURLSessionC_So0o3WebiJ0CSo0opiL4CodeV10Foundation4DataVSgtFTf4ddnnn_n', symObjAddr: 0xDD8, symBinAddr: 0x18C08, symSize: 0x134 }
-  - { offsetInCU: 0x982, offset: 0x42E39, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12NativeEngineCfETo', symObjAddr: 0xA00, symBinAddr: 0x18914, symSize: 0x38 }
-  - { offsetInCU: 0x9B1, offset: 0x42E68, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12NativeEngineCMa', symObjAddr: 0xA38, symBinAddr: 0x1894C, symSize: 0x20 }
-  - { offsetInCU: 0x9DB, offset: 0x42E92, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12NativeEngineC5write6string10completionySS_yycSgtFys5Error_pSgcfU_TA', symObjAddr: 0xB14, symBinAddr: 0x18A28, symSize: 0x28 }
-  - { offsetInCU: 0xA07, offset: 0x42EBE, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12NativeEngineC6doRead33_FFEF0E477B3BD80A1644E56F3D0A1AF2LLyyFys6ResultOySo25NSURLSessionWebSocketTaskC10FoundationE7MessageOs5Error_pGcfU_TA', symObjAddr: 0xB70, symBinAddr: 0x18A74, symSize: 0x8 }
-  - { offsetInCU: 0xA1B, offset: 0x42ED2, size: 0x8, addend: 0x0, symName: '_$ss6ResultOySo25NSURLSessionWebSocketTaskC10FoundationE7MessageOs5Error_pGWOc', symObjAddr: 0xBB8, symBinAddr: 0x18A7C, symSize: 0x48 }
-  - { offsetInCU: 0xA2F, offset: 0x42EE6, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12NativeEngineC6doRead33_FFEF0E477B3BD80A1644E56F3D0A1AF2LLyyFys6ResultOySo25NSURLSessionWebSocketTaskC10FoundationE7MessageOs5Error_pGcfU_TA.6', symObjAddr: 0xC00, symBinAddr: 0x18AC4, symSize: 0x8 }
-  - { offsetInCU: 0x2B, offset: 0x43247, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient15WebSocketServerC10didReceive5eventyAA0F5EventO_tF', symObjAddr: 0x0, symBinAddr: 0x18D3C, symSize: 0x13C }
-  - { offsetInCU: 0x6D, offset: 0x43289, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient16ServerConnectionC17connectionChanged5stateyAA0E5StateO_tF', symObjAddr: 0x198, symBinAddr: 0x18ED4, symSize: 0x340 }
-  - { offsetInCU: 0x218, offset: 0x43434, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient16ServerConnectionC10didReceive5eventyAA9HTTPEventO_tF', symObjAddr: 0x4D8, symBinAddr: 0x19214, symSize: 0x234 }
-  - { offsetInCU: 0x30A, offset: 0x43526, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient16ServerConnectionC7didForm5eventyAA14FrameCollectorC5EventO_tF', symObjAddr: 0x70C, symBinAddr: 0x19448, symSize: 0x3A4 }
-  - { offsetInCU: 0x46A, offset: 0x43686, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient16ServerConnectionCfD', symObjAddr: 0xAB0, symBinAddr: 0x197EC, symSize: 0x54 }
-  - { offsetInCU: 0x4F5, offset: 0x43711, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient16ServerConnectionCAA011FramerEventC0A2aDP14frameProcessed5eventyAA05FrameG0O_tFTW', symObjAddr: 0xB24, symBinAddr: 0x19860, symSize: 0x98 }
-  - { offsetInCU: 0x55B, offset: 0x43777, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient16ServerConnectionCAA22FrameCollectorDelegateA2aDP7didForm5eventyAA0fG0C5EventO_tFTW', symObjAddr: 0xBBC, symBinAddr: 0x198F8, symSize: 0x8 }
-  - { offsetInCU: 0x577, offset: 0x43793, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient16ServerConnectionCAA22FrameCollectorDelegateA2aDP10decompress4data7isFinal10Foundation4DataVSgAK_SbtFTW', symObjAddr: 0xBC4, symBinAddr: 0x19900, symSize: 0xC }
-  - { offsetInCU: 0x593, offset: 0x437AF, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient16ServerConnectionCAA014TransportEventC0A2aDP17connectionChanged5stateyAA0E5StateO_tFTW', symObjAddr: 0xBD0, symBinAddr: 0x1990C, symSize: 0x8 }
-  - { offsetInCU: 0x5BC, offset: 0x437D8, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient15WebSocketServerC10didReceive5eventyAA0F5EventO_tF', symObjAddr: 0x0, symBinAddr: 0x18D3C, symSize: 0x13C }
-  - { offsetInCU: 0x677, offset: 0x43893, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient15WebSocketServerCfD', symObjAddr: 0x13C, symBinAddr: 0x18E78, symSize: 0x3C }
-  - { offsetInCU: 0x6CA, offset: 0x438E6, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient15WebSocketServerCMa', symObjAddr: 0x178, symBinAddr: 0x18EB4, symSize: 0x20 }
-  - { offsetInCU: 0x792, offset: 0x439AE, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient16ServerConnectionCMa', symObjAddr: 0xB04, symBinAddr: 0x19840, symSize: 0x20 }
-  - { offsetInCU: 0x7A6, offset: 0x439C2, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient10Connection_pWOb', symObjAddr: 0xC14, symBinAddr: 0x19914, symSize: 0x18 }
-  - { offsetInCU: 0x7BA, offset: 0x439D6, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient14FrameCollectorC5EventOWOy', symObjAddr: 0xC2C, symBinAddr: 0x1992C, symSize: 0x40 }
-  - { offsetInCU: 0x7CE, offset: 0x439EA, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient11ServerEventOWOh', symObjAddr: 0xCD0, symBinAddr: 0x1996C, symSize: 0x34 }
-  - { offsetInCU: 0x7F8, offset: 0x43A14, size: 0x8, addend: 0x0, symName: '_$ss22__RawDictionaryStorageC4findys10_HashTableV6BucketV6bucket_Sb5foundtxSHRzlFSS_Tg5', symObjAddr: 0xD04, symBinAddr: 0x199A0, symSize: 0x64 }
-  - { offsetInCU: 0x850, offset: 0x43A6C, size: 0x8, addend: 0x0, symName: '_$ss22__RawDictionaryStorageC4find_9hashValues10_HashTableV6BucketV6bucket_Sb5foundtx_SitSHRzlFSS_Tg5', symObjAddr: 0xD68, symBinAddr: 0x19A04, symSize: 0xE0 }
-  - { offsetInCU: 0x8DC, offset: 0x43AF8, size: 0x8, addend: 0x0, symName: '_$sSD8_VariantV11removeValue6forKeyq_Sgx_tFSS_22ZendeskSDKSocketClient16ServerConnectionCTg5', symObjAddr: 0xE48, symBinAddr: 0x19AE4, symSize: 0xCC }
-  - { offsetInCU: 0x993, offset: 0x43BAF, size: 0x8, addend: 0x0, symName: '_$ss17_NativeDictionaryV7_insert2at3key5valueys10_HashTableV6BucketV_xnq_ntFSS_SSTg5', symObjAddr: 0xF14, symBinAddr: 0x19BB0, symSize: 0x54 }
-  - { offsetInCU: 0xA11, offset: 0x43C2D, size: 0x8, addend: 0x0, symName: '_$ss17_NativeDictionaryV4copyyyFSS_22ZendeskSDKSocketClient16ServerConnectionCTg5', symObjAddr: 0xF68, symBinAddr: 0x19C04, symSize: 0x1C4 }
-  - { offsetInCU: 0xA92, offset: 0x43CAE, size: 0x8, addend: 0x0, symName: '_$ss17_NativeDictionaryV4copyyyFSS_SSTg5', symObjAddr: 0x112C, symBinAddr: 0x19DC8, symSize: 0x1C8 }
-  - { offsetInCU: 0xB0D, offset: 0x43D29, size: 0x8, addend: 0x0, symName: '_$ss17_NativeDictionaryV7_delete2atys10_HashTableV6BucketV_tFSS_22ZendeskSDKSocketClient16ServerConnectionCTg5', symObjAddr: 0x12F4, symBinAddr: 0x19F90, symSize: 0x1E0 }
-  - { offsetInCU: 0xBCA, offset: 0x43DE6, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient9HTTPEventOWOy', symObjAddr: 0x15D8, symBinAddr: 0x1A274, symSize: 0xC }
-  - { offsetInCU: 0xBDE, offset: 0x43DFA, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient18ConnectionDelegate_pSgXwWOh', symObjAddr: 0x16AC, symBinAddr: 0x1A280, symSize: 0x24 }
-  - { offsetInCU: 0xBF2, offset: 0x43E0E, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient11ServerEventOIegn_SgWOe', symObjAddr: 0x16D0, symBinAddr: 0x1A2A4, symSize: 0x10 }
-  - { offsetInCU: 0xC06, offset: 0x43E22, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient11ServerEventOWOc', symObjAddr: 0x16E0, symBinAddr: 0x1A2B4, symSize: 0x3C }
-  - { offsetInCU: 0xC1A, offset: 0x43E36, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient10Connection_pWOc', symObjAddr: 0x171C, symBinAddr: 0x1A2F0, symSize: 0x44 }
-  - { offsetInCU: 0xD0A, offset: 0x43F26, size: 0x8, addend: 0x0, symName: '_$sSD17dictionaryLiteralSDyxq_Gx_q_td_tcfCSS_SSTg5Tf4gd_n', symObjAddr: 0x14D4, symBinAddr: 0x1A170, symSize: 0x104 }
-  - { offsetInCU: 0x27, offset: 0x441F6, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient14FrameCollectorC3add5frameyAA0D0V_tF', symObjAddr: 0x14, symBinAddr: 0x1A334, symSize: 0x5F4 }
-  - { offsetInCU: 0x69, offset: 0x44238, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient14FrameCollectorC3add5frameyAA0D0V_tF', symObjAddr: 0x14, symBinAddr: 0x1A334, symSize: 0x5F4 }
-  - { offsetInCU: 0x1BA, offset: 0x44389, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient14FrameCollectorCfD', symObjAddr: 0x624, symBinAddr: 0x1A944, symSize: 0x2C }
-  - { offsetInCU: 0x206, offset: 0x443D5, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient14FrameCollectorCMa', symObjAddr: 0x650, symBinAddr: 0x1A970, symSize: 0x20 }
-  - { offsetInCU: 0x21A, offset: 0x443E9, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient5FrameVWOr', symObjAddr: 0x670, symBinAddr: 0x1A990, symSize: 0x2C }
-  - { offsetInCU: 0x22E, offset: 0x443FD, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient22FrameCollectorDelegate_pSgXwWOh', symObjAddr: 0x774, symBinAddr: 0x1A9BC, symSize: 0x24 }
-  - { offsetInCU: 0x27, offset: 0x4450E, size: 0x8, addend: 0x0, symName: '_$s10Foundation4DataV22ZendeskSDKSocketClientE9ByteErrorVMa', symObjAddr: 0x0, symBinAddr: 0x1A9E0, symSize: 0x10 }
-  - { offsetInCU: 0x3F, offset: 0x44526, size: 0x8, addend: 0x0, symName: '_$s10Foundation4DataV22ZendeskSDKSocketClientE9ByteErrorVMa', symObjAddr: 0x0, symBinAddr: 0x1A9E0, symSize: 0x10 }
-  - { offsetInCU: 0x64, offset: 0x4454B, size: 0x8, addend: 0x0, symName: '_$s10Foundation4DataV22ZendeskSDKSocketClientE9ByteErrorVs0G0ADsAGP7_domainSSvgTW', symObjAddr: 0x10, symBinAddr: 0x1A9F0, symSize: 0x4 }
-  - { offsetInCU: 0x80, offset: 0x44567, size: 0x8, addend: 0x0, symName: '_$s10Foundation4DataV22ZendeskSDKSocketClientE9ByteErrorVs0G0ADsAGP5_codeSivgTW', symObjAddr: 0x14, symBinAddr: 0x1A9F4, symSize: 0x4 }
-  - { offsetInCU: 0x9C, offset: 0x44583, size: 0x8, addend: 0x0, symName: '_$s10Foundation4DataV22ZendeskSDKSocketClientE9ByteErrorVs0G0ADsAGP9_userInfoyXlSgvgTW', symObjAddr: 0x18, symBinAddr: 0x1A9F8, symSize: 0x4 }
-  - { offsetInCU: 0xB8, offset: 0x4459F, size: 0x8, addend: 0x0, symName: '_$s10Foundation4DataV22ZendeskSDKSocketClientE9ByteErrorVs0G0ADsAGP19_getEmbeddedNSErroryXlSgyFTW', symObjAddr: 0x1C, symBinAddr: 0x1A9FC, symSize: 0x4 }
+  - { offset: 0x35D51, size: 0x8, addend: 0x0, symName: _ZendeskSDKSocketClientVersionString, symObjAddr: 0x0, symBinAddr: 0x1E3B0, symSize: 0x0 }
+  - { offset: 0x35D85, size: 0x8, addend: 0x0, symName: _ZendeskSDKSocketClientVersionNumber, symObjAddr: 0x40, symBinAddr: 0x1E3F0, symSize: 0x0 }
+  - { offset: 0x35DE3, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12HTTPWSHeaderV17defaultSSLSchemesSaySSGvpZ', symObjAddr: 0x6940, symBinAddr: 0x2DD90, symSize: 0x0 }
+  - { offset: 0x35DF0, size: 0x8, addend: 0x0, symName: '_$sSo10z_stream_sVwCP', symObjAddr: 0x34, symBinAddr: 0x4000, symSize: 0x30 }
+  - { offset: 0x35E03, size: 0x8, addend: 0x0, symName: ___swift_noop_void_return, symObjAddr: 0x64, symBinAddr: 0x4030, symSize: 0x4 }
+  - { offset: 0x35E16, size: 0x8, addend: 0x0, symName: ___swift_memcpy112_8, symObjAddr: 0x68, symBinAddr: 0x4034, symSize: 0x24 }
+  - { offset: 0x35E29, size: 0x8, addend: 0x0, symName: '_$sSo10z_stream_sVwet', symObjAddr: 0x8C, symBinAddr: 0x4058, symSize: 0x5C }
+  - { offset: 0x35E3C, size: 0x8, addend: 0x0, symName: '_$sSo10z_stream_sVwst', symObjAddr: 0xE8, symBinAddr: 0x40B4, symSize: 0x70 }
+  - { offset: 0x35E4F, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12HTTPWSHeaderV17defaultSSLSchemes_WZ', symObjAddr: 0x17C, symBinAddr: 0x4148, symSize: 0x30 }
+  - { offset: 0x35F46, size: 0x8, addend: 0x0, symName: '_$s10Foundation3URLV22ZendeskSDKSocketClientE8getPartsAD8URLPartsVSgyF', symObjAddr: 0x9B0, symBinAddr: 0x497C, symSize: 0xD8 }
+  - { offset: 0x35FFB, size: 0x8, addend: 0x0, symName: ___swift_instantiateConcreteTypeFromMangledName, symObjAddr: 0xAEC, symBinAddr: 0x4A54, symSize: 0x40 }
+  - { offset: 0x3600E, size: 0x8, addend: 0x0, symName: '_$s10Foundation3URLVSgWOh', symObjAddr: 0xB2C, symBinAddr: 0x4A94, symSize: 0x40 }
+  - { offset: 0x36021, size: 0x8, addend: 0x0, symName: '_$sSo12NSHTTPCookieCMa', symObjAddr: 0xB6C, symBinAddr: 0x4AD4, symSize: 0x3C }
+  - { offset: 0x36034, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient16HTTPUpgradeErrorOwCP', symObjAddr: 0xBA8, symBinAddr: 0x4B10, symSize: 0x2C }
+  - { offset: 0x36047, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient16HTTPUpgradeErrorOwxx', symObjAddr: 0xBD4, symBinAddr: 0x4B3C, symSize: 0x8 }
+  - { offset: 0x3605A, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient16HTTPUpgradeErrorOwca', symObjAddr: 0xBDC, symBinAddr: 0x4B44, symSize: 0x40 }
+  - { offset: 0x3606D, size: 0x8, addend: 0x0, symName: ___swift_memcpy16_8, symObjAddr: 0xC1C, symBinAddr: 0x4B84, symSize: 0xC }
+  - { offset: 0x36080, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient16HTTPUpgradeErrorOwta', symObjAddr: 0xC28, symBinAddr: 0x4B90, symSize: 0x30 }
+  - { offset: 0x36093, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient16HTTPUpgradeErrorOwet', symObjAddr: 0xC58, symBinAddr: 0x4BC0, symSize: 0x50 }
+  - { offset: 0x360A6, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient16HTTPUpgradeErrorOwst', symObjAddr: 0xCA8, symBinAddr: 0x4C10, symSize: 0x54 }
+  - { offset: 0x360B9, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient16HTTPUpgradeErrorOwug', symObjAddr: 0xCFC, symBinAddr: 0x4C64, symSize: 0x18 }
+  - { offset: 0x360CC, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient16HTTPUpgradeErrorOwup', symObjAddr: 0xD14, symBinAddr: 0x4C7C, symSize: 0x4 }
+  - { offset: 0x360DF, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient16HTTPUpgradeErrorOwui', symObjAddr: 0xD18, symBinAddr: 0x4C80, symSize: 0x20 }
+  - { offset: 0x360F2, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient16HTTPUpgradeErrorOMa', symObjAddr: 0xD38, symBinAddr: 0x4CA0, symSize: 0x10 }
+  - { offset: 0x36147, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient16HTTPUpgradeErrorOs0E0AAsADP7_domainSSvgTW', symObjAddr: 0x16C, symBinAddr: 0x4138, symSize: 0x4 }
+  - { offset: 0x36163, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient16HTTPUpgradeErrorOs0E0AAsADP5_codeSivgTW', symObjAddr: 0x170, symBinAddr: 0x413C, symSize: 0x4 }
+  - { offset: 0x3617F, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient16HTTPUpgradeErrorOs0E0AAsADP9_userInfoyXlSgvgTW', symObjAddr: 0x174, symBinAddr: 0x4140, symSize: 0x4 }
+  - { offset: 0x3619B, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient16HTTPUpgradeErrorOs0E0AAsADP19_getEmbeddedNSErroryXlSgyFTW', symObjAddr: 0x178, symBinAddr: 0x4144, symSize: 0x4 }
+  - { offset: 0x36329, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12HTTPWSHeaderV13createUpgrade7request19supportsCompression11secKeyValue10Foundation10URLRequestVAJ_SbSStFZ', symObjAddr: 0x1AC, symBinAddr: 0x4178, symSize: 0x804 }
+  - { offset: 0x36713, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient18FoundationSecurityCMa', symObjAddr: 0x10, symBinAddr: 0x4DAC, symSize: 0x20 }
+  - { offset: 0x36748, size: 0x8, addend: 0x0, symName: '_$sSS22ZendeskSDKSocketClientE10sha1Base6433_843BB418AA5389B558449A8B2285C394LLSSyFSays5UInt8VGSWXEfU_', symObjAddr: 0x30, symBinAddr: 0x4DCC, symSize: 0xE4 }
+  - { offset: 0x36869, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient18FoundationSecurityC13evaluateTrust5trust6domain10completionySo03SecG3Refa_SSSgyAA12PinningStateOXEtF04$s22ab147Client12TCPTransportC7connect3url7timeout18certificatePinningy10Foundation3URLV_SdAA011CertificateI0_pSgtFySo24OS_sec_protocol_metadata_p_So0m1_N6_h17_pySbctcfU_yAA0I5N6OXEfU_SbIegy_Tf1nncn_nTf4nnng_n', symObjAddr: 0x124, symBinAddr: 0x4EC0, symSize: 0x110 }
+  - { offset: 0x36946, size: 0x8, addend: 0x0, symName: '_$s10Foundation13__DataStorageC15withUnsafeBytes2in5applyxSnySiG_xSWKXEtKlFSays5UInt8VG_Tg5087$sSS22ZendeskSDKSocketClientE10sha1Base6433_843BB418AA5389B558449A8B2285C394LLSSyFSays5I9VGSWXEfU_AA0B0VTf1ncn_nTf4nng_n', symObjAddr: 0x234, symBinAddr: 0x4FD0, symSize: 0xB0 }
+  - { offset: 0x36B76, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient18FoundationSecurityC8validate7headers3keys5Error_pSgSDyS2SG_SStFTf4nnd_n', symObjAddr: 0x2E4, symBinAddr: 0x5080, symSize: 0x4C0 }
+  - { offset: 0x37075, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient18FoundationSecurityC13evaluateTrust5trust6domain10completionySo03SecG3Refa_SSSgyAA12PinningStateOXEtF04$s22ab8Client19d57TransportC6stream_6handleySo8NSStreamC_So0H5EventVtFyAA12mN6OXEfU_AA0dQ0CSgXwz_XxTf1nncn_nTf4nnng_n', symObjAddr: 0x7B4, symBinAddr: 0x5550, symSize: 0x2B4 }
+  - { offset: 0x3718B, size: 0x8, addend: 0x0, symName: '_$sS2SSysWl', symObjAddr: 0xA68, symBinAddr: 0x5804, symSize: 0x44 }
+  - { offset: 0x3719E, size: 0x8, addend: 0x0, symName: '_$s10Foundation4DataVSgWOy', symObjAddr: 0xAAC, symBinAddr: 0x5848, symSize: 0x14 }
+  - { offset: 0x371B1, size: 0x8, addend: 0x0, symName: '_$s10Foundation4DataV15_RepresentationOWOy', symObjAddr: 0xAC0, symBinAddr: 0x585C, symSize: 0x44 }
+  - { offset: 0x371C4, size: 0x8, addend: 0x0, symName: '_$s10Foundation4DataVSgWOe', symObjAddr: 0xB04, symBinAddr: 0x58A0, symSize: 0x14 }
+  - { offset: 0x371D7, size: 0x8, addend: 0x0, symName: '_$s10Foundation4DataV15_RepresentationOWOe', symObjAddr: 0xB18, symBinAddr: 0x58B4, symSize: 0x44 }
+  - { offset: 0x371EA, size: 0x8, addend: 0x0, symName: '_$sSays5UInt8VGMa', symObjAddr: 0xBDC, symBinAddr: 0x5938, symSize: 0x54 }
+  - { offset: 0x371FD, size: 0x8, addend: 0x0, symName: ___swift_project_boxed_opaque_existential_1, symObjAddr: 0xC30, symBinAddr: 0x598C, symSize: 0x24 }
+  - { offset: 0x37210, size: 0x8, addend: 0x0, symName: ___swift_destroy_boxed_opaque_existential_1, symObjAddr: 0xC54, symBinAddr: 0x59B0, symSize: 0x20 }
+  - { offset: 0x37223, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient7WSErrorVACs5ErrorAAWl', symObjAddr: 0xC74, symBinAddr: 0x59D0, symSize: 0x44 }
+  - { offset: 0x3723E, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient18FoundationSecurityCfD', symObjAddr: 0x0, symBinAddr: 0x4D9C, symSize: 0x10 }
+  - { offset: 0x379FE, size: 0x8, addend: 0x0, symName: '_$sSa22ZendeskSDKSocketClientSURzAA13MyWSArrayTypeRzlE10unmaskData9maskStart6offset6length10Foundation0H0VSi_S2itFs5UInt8V_Tg5', symObjAddr: 0x13D4, symBinAddr: 0x6D8C, symSize: 0x17C }
+  - { offset: 0x37ECD, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient11writeUint16_6offset5valueySays5UInt8VGz_Sis6UInt16VtF', symObjAddr: 0x1D90, symBinAddr: 0x7748, symSize: 0x88 }
+  - { offset: 0x38004, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSFramerCMa', symObjAddr: 0x1E4C, symBinAddr: 0x7804, symSize: 0x20 }
+  - { offset: 0x38017, size: 0x8, addend: 0x0, symName: '_$sSo17OS_dispatch_queueCMa', symObjAddr: 0x1E6C, symBinAddr: 0x7824, symSize: 0x3C }
+  - { offset: 0x3802B, size: 0x8, addend: 0x0, symName: '_$s10Foundation13__DataStorageC15withUnsafeBytes2in5applyxSnySiG_xSWKXEtKlFyt_Tg5108$s22ZendeskSDKSocketClient8WSFramerC7process33_5A3FC2D4CFAEB4D5DACB31D0CD4B5F86LLAC12ProcessEventOyFySWXEfU_Says5UInt8VGTf1nncn_n', symObjAddr: 0x1F28, symBinAddr: 0x78A0, symSize: 0x90 }
+  - { offset: 0x3807F, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSFramerC3add4datay10Foundation4DataV_tFyyYbcfU_TA', symObjAddr: 0x2314, symBinAddr: 0x7B7C, symSize: 0xC }
+  - { offset: 0x38093, size: 0x8, addend: 0x0, symName: _block_copy_helper, symObjAddr: 0x2320, symBinAddr: 0x7B88, symSize: 0x10 }
+  - { offset: 0x380A7, size: 0x8, addend: 0x0, symName: _block_destroy_helper, symObjAddr: 0x2330, symBinAddr: 0x7B98, symSize: 0x8 }
+  - { offset: 0x380C2, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSFramerC12ProcessEventOWOb', symObjAddr: 0x23C4, symBinAddr: 0x7BEC, symSize: 0x18 }
+  - { offset: 0x380DA, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSFramerC12ProcessEventOWOb', symObjAddr: 0x23C4, symBinAddr: 0x7BEC, symSize: 0x18 }
+  - { offset: 0x380EA, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSFramerC12ProcessEventOWOy', symObjAddr: 0x23DC, symBinAddr: 0x7C04, symSize: 0x24 }
+  - { offset: 0x380FD, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSFramerC12ProcessEventOWOe', symObjAddr: 0x2438, symBinAddr: 0x7C60, symSize: 0x24 }
+  - { offset: 0x38110, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient011FramerEventC0_pSgXwWOh', symObjAddr: 0x245C, symBinAddr: 0x7C84, symSize: 0x24 }
+  - { offset: 0x38123, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSFramerC12ProcessEventOwxx', symObjAddr: 0x2480, symBinAddr: 0x7CA8, symSize: 0x14 }
+  - { offset: 0x38136, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSFramerC12ProcessEventOwcp', symObjAddr: 0x2494, symBinAddr: 0x7CBC, symSize: 0x6C }
+  - { offset: 0x38149, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSFramerC12ProcessEventOwca', symObjAddr: 0x2500, symBinAddr: 0x7D28, symSize: 0x7C }
+  - { offset: 0x3815D, size: 0x8, addend: 0x0, symName: ___swift_memcpy48_8, symObjAddr: 0x257C, symBinAddr: 0x7DA4, symSize: 0x14 }
+  - { offset: 0x38170, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSFramerC12ProcessEventOwta', symObjAddr: 0x2590, symBinAddr: 0x7DB8, symSize: 0x48 }
+  - { offset: 0x38183, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSFramerC12ProcessEventOwet', symObjAddr: 0x25D8, symBinAddr: 0x7E00, symSize: 0x74 }
+  - { offset: 0x38196, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSFramerC12ProcessEventOwst', symObjAddr: 0x264C, symBinAddr: 0x7E74, symSize: 0x80 }
+  - { offset: 0x381A9, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSFramerC12ProcessEventOwug', symObjAddr: 0x26CC, symBinAddr: 0x7EF4, symSize: 0x24 }
+  - { offset: 0x381BC, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSFramerC12ProcessEventOwup', symObjAddr: 0x26F0, symBinAddr: 0x7F18, symSize: 0x10 }
+  - { offset: 0x381CF, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSFramerC12ProcessEventOwui', symObjAddr: 0x2700, symBinAddr: 0x7F28, symSize: 0x54 }
+  - { offset: 0x381E2, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSFramerC12ProcessEventOMa', symObjAddr: 0x2754, symBinAddr: 0x7F7C, symSize: 0x10 }
+  - { offset: 0x381F5, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient10FrameEventOWOy', symObjAddr: 0x2794, symBinAddr: 0x7F8C, symSize: 0x14 }
+  - { offset: 0x38208, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient10FrameEventOwxx', symObjAddr: 0x27A8, symBinAddr: 0x7FA0, symSize: 0x14 }
+  - { offset: 0x3821B, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient10FrameEventOWOe', symObjAddr: 0x27BC, symBinAddr: 0x7FB4, symSize: 0x14 }
+  - { offset: 0x3822E, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient10FrameEventOwcp', symObjAddr: 0x27D0, symBinAddr: 0x7FC8, symSize: 0x60 }
+  - { offset: 0x38241, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient10FrameEventOwca', symObjAddr: 0x2830, symBinAddr: 0x8028, symSize: 0x70 }
+  - { offset: 0x38254, size: 0x8, addend: 0x0, symName: ___swift_memcpy34_8, symObjAddr: 0x28A0, symBinAddr: 0x8098, symSize: 0x14 }
+  - { offset: 0x38267, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient10FrameEventOwta', symObjAddr: 0x28B4, symBinAddr: 0x80AC, symSize: 0x48 }
+  - { offset: 0x3827A, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient10FrameEventOwet', symObjAddr: 0x28FC, symBinAddr: 0x80F4, symSize: 0x6C }
+  - { offset: 0x3828D, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient10FrameEventOwst', symObjAddr: 0x2968, symBinAddr: 0x8160, symSize: 0x6C }
+  - { offset: 0x382A0, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient10FrameEventOwug', symObjAddr: 0x29D4, symBinAddr: 0x81CC, symSize: 0xC }
+  - { offset: 0x382B3, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient10FrameEventOwup', symObjAddr: 0x29E0, symBinAddr: 0x81D8, symSize: 0x10 }
+  - { offset: 0x382C6, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient10FrameEventOwui', symObjAddr: 0x29F0, symBinAddr: 0x81E8, symSize: 0x28 }
+  - { offset: 0x382D9, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient10FrameEventOMa', symObjAddr: 0x2A18, symBinAddr: 0x8210, symSize: 0x10 }
+  - { offset: 0x382EC, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient5FrameVwxx', symObjAddr: 0x2A28, symBinAddr: 0x8220, symSize: 0xC }
+  - { offset: 0x382FF, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient5FrameVwcp', symObjAddr: 0x2A34, symBinAddr: 0x822C, symSize: 0x58 }
+  - { offset: 0x38312, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient5FrameVwca', symObjAddr: 0x2A8C, symBinAddr: 0x8284, symSize: 0x78 }
+  - { offset: 0x38325, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient5FrameVwta', symObjAddr: 0x2B04, symBinAddr: 0x82FC, symSize: 0x68 }
+  - { offset: 0x38338, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient5FrameVwet', symObjAddr: 0x2B6C, symBinAddr: 0x8364, symSize: 0x54 }
+  - { offset: 0x3834B, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient5FrameVwst', symObjAddr: 0x2BC0, symBinAddr: 0x83B8, symSize: 0x48 }
+  - { offset: 0x3835E, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient5FrameVMa', symObjAddr: 0x2C08, symBinAddr: 0x8400, symSize: 0x10 }
+  - { offset: 0x38371, size: 0x8, addend: 0x0, symName: ___swift_memcpy1_1, symObjAddr: 0x2C18, symBinAddr: 0x8410, symSize: 0xC }
+  - { offset: 0x38384, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient11FrameOpCodeOwet', symObjAddr: 0x2C28, symBinAddr: 0x841C, symSize: 0x90 }
+  - { offset: 0x38397, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient11FrameOpCodeOwst', symObjAddr: 0x2CB8, symBinAddr: 0x84AC, symSize: 0xBC }
+  - { offset: 0x383AA, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient11FrameOpCodeOwug', symObjAddr: 0x2D74, symBinAddr: 0x8568, symSize: 0x8 }
+  - { offset: 0x383BD, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient11FrameOpCodeOwui', symObjAddr: 0x2D80, symBinAddr: 0x8570, symSize: 0x8 }
+  - { offset: 0x383D0, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient11FrameOpCodeOMa', symObjAddr: 0x2D88, symBinAddr: 0x8578, symSize: 0x10 }
+  - { offset: 0x383E3, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient11FrameOpCodeOSHAASQWb', symObjAddr: 0x2D98, symBinAddr: 0x8588, symSize: 0x4 }
+  - { offset: 0x383F6, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient11FrameOpCodeOACSQAAWl', symObjAddr: 0x2D9C, symBinAddr: 0x858C, symSize: 0x44 }
+  - { offset: 0x3843B, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient11FrameOpCodeOSQAASQ2eeoiySbx_xtFZTW', symObjAddr: 0x5C, symBinAddr: 0x5A14, symSize: 0x3C }
+  - { offset: 0x38516, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient11FrameOpCodeOSHAASH9hashValueSivgTW', symObjAddr: 0x98, symBinAddr: 0x5A50, symSize: 0x58 }
+  - { offset: 0x385D9, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient11FrameOpCodeOSHAASH4hash4intoys6HasherVz_tFTW', symObjAddr: 0xF0, symBinAddr: 0x5AA8, symSize: 0x40 }
+  - { offset: 0x38640, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient11FrameOpCodeOSHAASH13_rawHashValue4seedS2i_tFTW', symObjAddr: 0x130, symBinAddr: 0x5AE8, symSize: 0x54 }
+  - { offset: 0x388A0, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient11FrameOpCodeOSYAASY8rawValuexSg03RawH0Qz_tcfCTW', symObjAddr: 0x184, symBinAddr: 0x5B3C, symSize: 0x28 }
+  - { offset: 0x388C9, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient11FrameOpCodeOSYAASY8rawValue03RawH0QzvgTW', symObjAddr: 0x1AC, symBinAddr: 0x5B64, symSize: 0x24 }
+  - { offset: 0x38950, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSFramerC8isServerACSb_tcfc', symObjAddr: 0x1D0, symBinAddr: 0x5B88, symSize: 0x1C8 }
+  - { offset: 0x38A71, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSFramerC3add4datay10Foundation4DataV_tF', symObjAddr: 0x398, symBinAddr: 0x5D50, symSize: 0x220 }
+  - { offset: 0x38AC7, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSFramerC3add4datay10Foundation4DataV_tFyyYbcfU_', symObjAddr: 0x5B8, symBinAddr: 0x5F70, symSize: 0x488 }
+  - { offset: 0x38BA4, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSFramerC7process33_5A3FC2D4CFAEB4D5DACB31D0CD4B5F86LLAC12ProcessEventOyF', symObjAddr: 0xA50, symBinAddr: 0x6408, symSize: 0x8D0 }
+  - { offset: 0x39376, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSFramerC16createWriteFrame6opcode7payload12isCompressed10Foundation4DataVAA0G6OpCodeO_AJSbtF', symObjAddr: 0x1550, symBinAddr: 0x6F08, symSize: 0x810 }
+  - { offset: 0x39C8B, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSFramerCfD', symObjAddr: 0x1E18, symBinAddr: 0x77D0, symSize: 0x34 }
+  - { offset: 0x39CC4, size: 0x8, addend: 0x0, symName: '_$s10Foundation4DataVyACxcSTRzs5UInt8V7ElementRtzlufCs10ArraySliceVyAEG_Tgm5Tf4g_n', symObjAddr: 0x1FB8, symBinAddr: 0x7930, symSize: 0xF4 }
+  - { offset: 0x39DA0, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient11FrameOpCodeO8rawValueACSgs5UInt8V_tcfCTf4nd_n', symObjAddr: 0x219C, symBinAddr: 0x7A48, symSize: 0x5C }
+  - { offset: 0x3A51E, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSEngineCMU', symObjAddr: 0x1C4C, symBinAddr: 0xA21C, symSize: 0x8 }
+  - { offset: 0x3A531, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSEngineCMa', symObjAddr: 0x1C54, symBinAddr: 0xA224, symSize: 0x3C }
+  - { offset: 0x3A544, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSEngineCMr', symObjAddr: 0x1C90, symBinAddr: 0xA260, symSize: 0xE4 }
+  - { offset: 0x3A563, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient14FrameCollectorC5EventOWOe', symObjAddr: 0x20A0, symBinAddr: 0xA550, symSize: 0x40 }
+  - { offset: 0x3A576, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient10FrameEventOWOb', symObjAddr: 0x2138, symBinAddr: 0xA590, symSize: 0x3C }
+  - { offset: 0x3A589, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient10FrameEventOWOs', symObjAddr: 0x2174, symBinAddr: 0xA5CC, symSize: 0x34 }
+  - { offset: 0x3A59C, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient9HTTPEventOWOe', symObjAddr: 0x21BC, symBinAddr: 0xA600, symSize: 0xC }
+  - { offset: 0x3A5B0, size: 0x8, addend: 0x0, symName: '_$ss15ContiguousArrayV16_createNewBuffer14bufferIsUnique15minimumCapacity13growForAppendySb_SiSbtFs5UInt8V_Tg5', symObjAddr: 0x21C8, symBinAddr: 0xA60C, symSize: 0x1C }
+  - { offset: 0x3A615, size: 0x8, addend: 0x0, symName: '_$ss22_ContiguousArrayBufferV20_consumeAndCreateNew14bufferIsUnique15minimumCapacity13growForAppendAByxGSb_SiSbtFs5UInt8V_Tg5', symObjAddr: 0x21E4, symBinAddr: 0xA628, symSize: 0xF0 }
+  - { offset: 0x3A720, size: 0x8, addend: 0x0, symName: '_$ss12_ArrayBufferV19_getElementSlowPathyyXlSiFSo12NSHTTPCookieC_Tg5', symObjAddr: 0x22D4, symBinAddr: 0xA718, symSize: 0x1E4 }
+  - { offset: 0x3A780, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient15ConnectionStateOWOe', symObjAddr: 0x2538, symBinAddr: 0xA940, symSize: 0x30 }
+  - { offset: 0x3A794, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSEngineC5write4data6opcode10completiony10Foundation4DataV_AA11FrameOpCodeOyycSgtFyyYbcfU_TA', symObjAddr: 0x261C, symBinAddr: 0xA9D0, symSize: 0x14 }
+  - { offset: 0x3A7A8, size: 0x8, addend: 0x0, symName: _block_copy_helper, symObjAddr: 0x2630, symBinAddr: 0xA9E4, symSize: 0x10 }
+  - { offset: 0x3A7BC, size: 0x8, addend: 0x0, symName: _block_destroy_helper, symObjAddr: 0x2640, symBinAddr: 0xA9F4, symSize: 0x8 }
+  - { offset: 0x3A7CF, size: 0x8, addend: 0x0, symName: '_$sIeg_SgWOy', symObjAddr: 0x2648, symBinAddr: 0xA9FC, symSize: 0x10 }
+  - { offset: 0x3A7E2, size: 0x8, addend: 0x0, symName: '_$sSay8Dispatch0A13WorkItemFlagsVGSayxGSTsWl', symObjAddr: 0x2698, symBinAddr: 0xAA0C, symSize: 0x60 }
+  - { offset: 0x3A7F6, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSEngineC5write4data6opcode10completiony10Foundation4DataV_AA11FrameOpCodeOyycSgtFyyYbcfU_ys5Error_pSgcfU_TA', symObjAddr: 0x277C, symBinAddr: 0xAAF0, symSize: 0x28 }
+  - { offset: 0x3A822, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSEngineC4stop9closeCodeys6UInt16V_tFyycfU_TA', symObjAddr: 0x27A4, symBinAddr: 0xAB18, symSize: 0x8 }
+  - { offset: 0x3A835, size: 0x8, addend: 0x0, symName: '_$s10Foundation10URLRequestVSgWOb', symObjAddr: 0x27AC, symBinAddr: 0xAB20, symSize: 0x48 }
+  - { offset: 0x3A848, size: 0x8, addend: 0x0, symName: '_$s10Foundation10URLRequestVSgWOd', symObjAddr: 0x27F4, symBinAddr: 0xAB68, symSize: 0x48 }
+  - { offset: 0x3A91D, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSEngineC5start7requesty10Foundation10URLRequestV_tF', symObjAddr: 0x0, symBinAddr: 0x85D4, symSize: 0x2D4 }
+  - { offset: 0x3AB0D, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSEngineC4stop9closeCodeys6UInt16V_tF', symObjAddr: 0x2D4, symBinAddr: 0x88A8, symSize: 0xD8 }
+  - { offset: 0x3AC3E, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSEngineC4stop9closeCodeys6UInt16V_tFyycfU_', symObjAddr: 0x3AC, symBinAddr: 0x8980, symSize: 0xF4 }
+  - { offset: 0x3AD0E, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSEngineC5write4data6opcode10completiony10Foundation4DataV_AA11FrameOpCodeOyycSgtF', symObjAddr: 0x4A0, symBinAddr: 0x8A74, symSize: 0x22C }
+  - { offset: 0x3AD84, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSEngineC5write4data6opcode10completiony10Foundation4DataV_AA11FrameOpCodeOyycSgtFyyYbcfU_', symObjAddr: 0x6CC, symBinAddr: 0x8CA0, symSize: 0x1FC }
+  - { offset: 0x3AF45, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSEngineC17connectionChanged5stateyAA15ConnectionStateO_tF', symObjAddr: 0x8C8, symBinAddr: 0x8E9C, symSize: 0x6DC }
+  - { offset: 0x3B465, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSEngineC14didReceiveHTTP5eventyAA9HTTPEventO_tF', symObjAddr: 0xFDC, symBinAddr: 0x95AC, symSize: 0x5D4 }
+  - { offset: 0x3B729, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSEngineC14frameProcessed5eventyAA10FrameEventO_tF', symObjAddr: 0x15B0, symBinAddr: 0x9B80, symSize: 0x15C }
+  - { offset: 0x3B7AC, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSEngineC7didForm5eventyAA14FrameCollectorC5EventO_tF', symObjAddr: 0x170C, symBinAddr: 0x9CDC, symSize: 0x464 }
+  - { offset: 0x3B956, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSEngineCfd', symObjAddr: 0x1B70, symBinAddr: 0xA140, symSize: 0xB8 }
+  - { offset: 0x3B979, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSEngineCfD', symObjAddr: 0x1C28, symBinAddr: 0xA1F8, symSize: 0x24 }
+  - { offset: 0x3B9C1, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSEngineCAA6EngineA2aDP8register8delegateyAA0E8Delegate_p_tFTW', symObjAddr: 0x1D74, symBinAddr: 0xA344, symSize: 0x20 }
+  - { offset: 0x3B9FE, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSEngineCAA6EngineA2aDP5start7requesty10Foundation10URLRequestV_tFTW', symObjAddr: 0x1D94, symBinAddr: 0xA364, symSize: 0x20 }
+  - { offset: 0x3BA12, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSEngineCAA6EngineA2aDP4stop9closeCodeys6UInt16V_tFTW', symObjAddr: 0x1DB4, symBinAddr: 0xA384, symSize: 0x20 }
+  - { offset: 0x3BA77, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSEngineCAA6EngineA2aDP5write6string10completionySS_yycSgtFTW', symObjAddr: 0x1DD4, symBinAddr: 0xA3A4, symSize: 0xF8 }
+  - { offset: 0x3BADC, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSEngineCAA014TransportEventC0A2aDP17connectionChanged5stateyAA15ConnectionStateO_tFTW', symObjAddr: 0x1ECC, symBinAddr: 0xA49C, symSize: 0x8 }
+  - { offset: 0x3BAF0, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSEngineCAA011FramerEventC0A2aDP14frameProcessed5eventyAA05FrameF0O_tFTW', symObjAddr: 0x1ED4, symBinAddr: 0xA4A4, symSize: 0x4 }
+  - { offset: 0x3BB04, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSEngineCAA22FrameCollectorDelegateA2aDP7didForm5eventyAA0eF0C5EventO_tFTW', symObjAddr: 0x1ED8, symBinAddr: 0xA4A8, symSize: 0x8 }
+  - { offset: 0x3BB50, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSEngineCAA22FrameCollectorDelegateA2aDP10decompress4data7isFinal10Foundation4DataVSgAK_SbtFTW', symObjAddr: 0x1EE0, symBinAddr: 0xA4B0, symSize: 0xA0 }
+  - { offset: 0x3BD10, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient15ConnectionEventOWOy', symObjAddr: 0x1C, symBinAddr: 0xABF0, symSize: 0x44 }
+  - { offset: 0x3BD23, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient15ConnectionEventOwxx', symObjAddr: 0xB8, symBinAddr: 0xAC34, symSize: 0x14 }
+  - { offset: 0x3BD36, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient15ConnectionEventOWOe', symObjAddr: 0xCC, symBinAddr: 0xAC48, symSize: 0x44 }
+  - { offset: 0x3BD49, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient15ConnectionEventOwca', symObjAddr: 0x1C8, symBinAddr: 0xACE8, symSize: 0x6C }
+  - { offset: 0x3BD5C, size: 0x8, addend: 0x0, symName: ___swift_memcpy19_8, symObjAddr: 0x234, symBinAddr: 0xAD54, symSize: 0x14 }
+  - { offset: 0x3BD6F, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient15ConnectionEventOwta', symObjAddr: 0x248, symBinAddr: 0xAD68, symSize: 0x50 }
+  - { offset: 0x3BD82, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient15ConnectionEventOwet', symObjAddr: 0x298, symBinAddr: 0xADB8, symSize: 0x48 }
+  - { offset: 0x3BD95, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient15ConnectionEventOwst', symObjAddr: 0x2E0, symBinAddr: 0xAE00, symSize: 0x48 }
+  - { offset: 0x3BDA8, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient15ConnectionEventOwug', symObjAddr: 0x328, symBinAddr: 0xAE48, symSize: 0x8 }
+  - { offset: 0x3BDBB, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient15ConnectionEventOwui', symObjAddr: 0x334, symBinAddr: 0xAE50, symSize: 0x8 }
+  - { offset: 0x3BDCE, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient15ConnectionEventOMa', symObjAddr: 0x33C, symBinAddr: 0xAE58, symSize: 0x10 }
+  - { offset: 0x3BDE1, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient11ServerEventOwxx', symObjAddr: 0x37C, symBinAddr: 0xAE68, symSize: 0xAC }
+  - { offset: 0x3BDF4, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient11ServerEventOwcp', symObjAddr: 0x448, symBinAddr: 0xAF14, symSize: 0x200 }
+  - { offset: 0x3BE07, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient11ServerEventOwca', symObjAddr: 0x648, symBinAddr: 0xB114, symSize: 0x2B8 }
+  - { offset: 0x3BE1A, size: 0x8, addend: 0x0, symName: ___swift_memcpy59_8, symObjAddr: 0x900, symBinAddr: 0xB3CC, symSize: 0x1C }
+  - { offset: 0x3BE2D, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient11ServerEventOwta', symObjAddr: 0x91C, symBinAddr: 0xB3E8, symSize: 0x19C }
+  - { offset: 0x3BE40, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient11ServerEventOwet', symObjAddr: 0xAB8, symBinAddr: 0xB584, symSize: 0x3C }
+  - { offset: 0x3BE53, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient11ServerEventOwst', symObjAddr: 0xAF4, symBinAddr: 0xB5C0, symSize: 0x50 }
+  - { offset: 0x3BE66, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient11ServerEventOwug', symObjAddr: 0xB44, symBinAddr: 0xB610, symSize: 0x1C }
+  - { offset: 0x3BE79, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient11ServerEventOwui', symObjAddr: 0xB64, symBinAddr: 0xB62C, symSize: 0x2C }
+  - { offset: 0x3BE8C, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient11ServerEventOMa', symObjAddr: 0xB90, symBinAddr: 0xB658, symSize: 0x10 }
+  - { offset: 0x3C2A9, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient17StringHTTPHandlerCMa', symObjAddr: 0xA94, symBinAddr: 0xC0FC, symSize: 0x20 }
+  - { offset: 0x3C30A, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient16HTTPUpgradeErrorOACs0E0AAWl', symObjAddr: 0x13A0, symBinAddr: 0xC860, symSize: 0x44 }
+  - { offset: 0x3C31D, size: 0x8, addend: 0x0, symName: '_$sS2sSysWl', symObjAddr: 0x13E4, symBinAddr: 0xC8A4, symSize: 0x44 }
+  - { offset: 0x3C4C3, size: 0x8, addend: 0x0, symName: '_$sSlsSQ7ElementRpzrlE10firstIndex2of0C0QzSgAB_tFSS_Tg5', symObjAddr: 0x97C, symBinAddr: 0xBFE4, symSize: 0xEC }
+  - { offset: 0x3C65D, size: 0x8, addend: 0x0, symName: '_$sSlsE6suffix4from11SubSequenceQz5IndexQz_tFSS_Tg5Tf4ng_n', symObjAddr: 0x16E0, symBinAddr: 0xCBA0, symSize: 0x4C }
+  - { offset: 0x3C7BA, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient17StringHTTPHandlerC5parse4dataSi10Foundation4DataV_tF', symObjAddr: 0x0, symBinAddr: 0xB668, symSize: 0x118 }
+  - { offset: 0x3C8AC, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient17StringHTTPHandlerC12parseContent4dataSb10Foundation4DataV_tF', symObjAddr: 0x118, symBinAddr: 0xB780, symSize: 0x864 }
+  - { offset: 0x3CD7A, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient17StringHTTPHandlerCfD', symObjAddr: 0xA68, symBinAddr: 0xC0D0, symSize: 0x2C }
+  - { offset: 0x3CDD8, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient17StringHTTPHandlerCAA0E0A2aDP8register8delegateyAA0E8Delegate_p_tFTW', symObjAddr: 0xAB4, symBinAddr: 0xC11C, symSize: 0x18 }
+  - { offset: 0x3CE1C, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient17StringHTTPHandlerCAA0E0A2aDP7convert7request10Foundation4DataVAH10URLRequestV_tFTW', symObjAddr: 0xACC, symBinAddr: 0xC134, symSize: 0x4 }
+  - { offset: 0x3CE34, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient17StringHTTPHandlerCAA0E0A2aDP7convert7request10Foundation4DataVAH10URLRequestV_tFTW', symObjAddr: 0xACC, symBinAddr: 0xC134, symSize: 0x4 }
+  - { offset: 0x3CE46, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient17StringHTTPHandlerCAA0E0A2aDP5parse4dataSi10Foundation4DataV_tFTW', symObjAddr: 0xAD0, symBinAddr: 0xC138, symSize: 0x20 }
+  - { offset: 0x3CEA1, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient17StringHTTPHandlerC7convert7request10Foundation4DataVAF10URLRequestV_tFTf4nd_n', symObjAddr: 0xB80, symBinAddr: 0xC158, symSize: 0x708 }
+  - { offset: 0x3D287, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient17StringHTTPHandlerC13findEndOfHTTP33_68F52AB8528753BE515AC3A7A19E8237LL4dataSi10Foundation4DataV_tFTf4nd_n', symObjAddr: 0x1428, symBinAddr: 0xC8E8, symSize: 0x2A8 }
+  - { offset: 0x3D5DC, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient27FoundationHTTPServerHandlerC12parseContent4dataSb0D04DataV_tF', symObjAddr: 0x0, symBinAddr: 0xCBEC, symSize: 0x710 }
+  - { offset: 0x3D79F, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient27FoundationHTTPServerHandlerCMa', symObjAddr: 0x764, symBinAddr: 0xD350, symSize: 0x20 }
+  - { offset: 0x3D7BD, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient15ConnectionEventOIegg_SgWOe', symObjAddr: 0xAC4, symBinAddr: 0xD5CC, symSize: 0x10 }
+  - { offset: 0x3D7D0, size: 0x8, addend: 0x0, symName: '_$syp3key_yp5valuetSgWOb', symObjAddr: 0xAD4, symBinAddr: 0xD5DC, symSize: 0x48 }
+  - { offset: 0x3D7E3, size: 0x8, addend: 0x0, symName: '_$sypWOb', symObjAddr: 0xB5C, symBinAddr: 0xD624, symSize: 0x10 }
+  - { offset: 0x3D7F6, size: 0x8, addend: 0x0, symName: '_$sypWOc', symObjAddr: 0xB8C, symBinAddr: 0xD634, symSize: 0x3C }
+  - { offset: 0x3D809, size: 0x8, addend: 0x0, symName: '_$sSo8NSStringCMa', symObjAddr: 0xBC8, symBinAddr: 0xD670, symSize: 0x3C }
+  - { offset: 0x3D8F0, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient27FoundationHTTPServerHandlerC12parseContent4dataSb0D04DataV_tF', symObjAddr: 0x0, symBinAddr: 0xCBEC, symSize: 0x710 }
+  - { offset: 0x3DD9A, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient27FoundationHTTPServerHandlerCfD', symObjAddr: 0x730, symBinAddr: 0xD31C, symSize: 0x34 }
+  - { offset: 0x3DDD3, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient27FoundationHTTPServerHandlerC14createResponse7headers0D04DataVSDyS2SG_tFTf4nd_n', symObjAddr: 0x814, symBinAddr: 0xD370, symSize: 0x25C }
+  - { offset: 0x3E241, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12TCPTransportCMa', symObjAddr: 0x12C, symBinAddr: 0xD7C8, symSize: 0x20 }
+  - { offset: 0x3E2ED, size: 0x8, addend: 0x0, symName: '_$sSo24OS_sec_protocol_metadata_pSo0a1_B6_trust_pSbIegy_Iegggg_SoAA_pSoAB_pSbIeyBy_IeyByyy_TR', symObjAddr: 0x834, symBinAddr: 0xDED0, symSize: 0xA8 }
+  - { offset: 0x3E310, size: 0x8, addend: 0x0, symName: '_$sSaySo17OS_dispatch_queueC8DispatchE10AttributesVGMa', symObjAddr: 0x1504, symBinAddr: 0xEB24, symSize: 0x54 }
+  - { offset: 0x3E323, size: 0x8, addend: 0x0, symName: '_$s7Network7NWErrorOSgWOc', symObjAddr: 0x1558, symBinAddr: 0xEB78, symSize: 0x48 }
+  - { offset: 0x3E336, size: 0x8, addend: 0x0, symName: '_$s7Network7NWErrorOSgWOh', symObjAddr: 0x15A0, symBinAddr: 0xEBC0, symSize: 0x40 }
+  - { offset: 0x3E34A, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12TCPTransportC5start33_91F5340B6616588A9D88055F961D5447LLyyFy7Network12NWConnectionC5StateOcfU_TA', symObjAddr: 0x1644, symBinAddr: 0xEC24, symSize: 0x8 }
+  - { offset: 0x3E35E, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12TCPTransportC5start33_91F5340B6616588A9D88055F961D5447LLyyFySbcfU0_TA', symObjAddr: 0x165C, symBinAddr: 0xEC2C, symSize: 0x1C }
+  - { offset: 0x3E372, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12TCPTransportC5start33_91F5340B6616588A9D88055F961D5447LLyyFySbcfU1_TA', symObjAddr: 0x1678, symBinAddr: 0xEC48, symSize: 0x1C }
+  - { offset: 0x3E386, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12TCPTransportC8readLoop33_91F5340B6616588A9D88055F961D5447LLyyFy10Foundation4DataVSg_7Network12NWConnectionC14ContentContextCSgSbAJ7NWErrorOSgtYbcfU_TA', symObjAddr: 0x1694, symBinAddr: 0xEC64, symSize: 0x8 }
+  - { offset: 0x3E39A, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12TCPTransportC5write4data10completiony10Foundation4DataV_ys5Error_pSgctFy7Network7NWErrorOSgYbcfU_TA', symObjAddr: 0x1764, symBinAddr: 0xEC90, symSize: 0x8 }
+  - { offset: 0x3E3AD, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient17TCPTransportErrorOACs0E0AAWl', symObjAddr: 0x176C, symBinAddr: 0xEC98, symSize: 0x44 }
+  - { offset: 0x3E3C1, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12TCPTransportC7connect3url7timeout18certificatePinningy10Foundation3URLV_SdAA011CertificateI0_pSgtFySo24OS_sec_protocol_metadata_p_So0m1_N6_trust_pySbctcfU_TA', symObjAddr: 0x17DC, symBinAddr: 0xED08, symSize: 0x34 }
+  - { offset: 0x3E3D5, size: 0x8, addend: 0x0, symName: _block_copy_helper, symObjAddr: 0x1810, symBinAddr: 0xED3C, symSize: 0x10 }
+  - { offset: 0x3E3E9, size: 0x8, addend: 0x0, symName: _block_destroy_helper, symObjAddr: 0x1820, symBinAddr: 0xED4C, symSize: 0x8 }
+  - { offset: 0x3E408, size: 0x8, addend: 0x0, symName: '_$sSbIeyBy_SbIegy_TRTA', symObjAddr: 0x184C, symBinAddr: 0xED78, symSize: 0x14 }
+  - { offset: 0x3E430, size: 0x8, addend: 0x0, symName: ___swift_memcpy0_1, symObjAddr: 0x1884, symBinAddr: 0xED8C, symSize: 0x4 }
+  - { offset: 0x3E443, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient17TCPTransportErrorOwet', symObjAddr: 0x188C, symBinAddr: 0xED90, symSize: 0x50 }
+  - { offset: 0x3E456, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient17TCPTransportErrorOwst', symObjAddr: 0x18DC, symBinAddr: 0xEDE0, symSize: 0x8C }
+  - { offset: 0x3E469, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient17TCPTransportErrorOwug', symObjAddr: 0x1968, symBinAddr: 0xEE6C, symSize: 0x8 }
+  - { offset: 0x3E47C, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient17TCPTransportErrorOMa', symObjAddr: 0x1978, symBinAddr: 0xEE74, symSize: 0x10 }
+  - { offset: 0x3E48F, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient17TCPTransportErrorOSHAASQWb', symObjAddr: 0x1988, symBinAddr: 0xEE84, symSize: 0x4 }
+  - { offset: 0x3E4A2, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient17TCPTransportErrorOACSQAAWl', symObjAddr: 0x198C, symBinAddr: 0xEE88, symSize: 0x44 }
+  - { offset: 0x3E51F, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient17TCPTransportErrorOSHAASH13_rawHashValue4seedS2i_tFTW', symObjAddr: 0x6C, symBinAddr: 0xD718, symSize: 0x3C }
+  - { offset: 0x3E68B, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient17TCPTransportErrorOSQAASQ2eeoiySbx_xtFZTW', symObjAddr: 0x0, symBinAddr: 0xD6AC, symSize: 0x8 }
+  - { offset: 0x3E6CC, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient17TCPTransportErrorOSHAASH9hashValueSivgTW', symObjAddr: 0x8, symBinAddr: 0xD6B4, symSize: 0x40 }
+  - { offset: 0x3E792, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient17TCPTransportErrorOSHAASH4hash4intoys6HasherVz_tFTW', symObjAddr: 0x48, symBinAddr: 0xD6F4, symSize: 0x24 }
+  - { offset: 0x3E82E, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12TCPTransportCfD', symObjAddr: 0xB8, symBinAddr: 0xD754, symSize: 0x74 }
+  - { offset: 0x3E8B9, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12TCPTransportCACycfc', symObjAddr: 0x14C, symBinAddr: 0xD7E8, symSize: 0x1B8 }
+  - { offset: 0x3EA25, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12TCPTransportC7connect3url7timeout18certificatePinningy10Foundation3URLV_SdAA011CertificateI0_pSgtF', symObjAddr: 0x304, symBinAddr: 0xD9A0, symSize: 0x484 }
+  - { offset: 0x3EC2B, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12TCPTransportC7connect3url7timeout18certificatePinningy10Foundation3URLV_SdAA011CertificateI0_pSgtFySo24OS_sec_protocol_metadata_p_So0m1_N6_trust_pySbctcfU_', symObjAddr: 0x788, symBinAddr: 0xDE24, symSize: 0xAC }
+  - { offset: 0x3ECE2, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12TCPTransportC10disconnectyyF', symObjAddr: 0x8DC, symBinAddr: 0xDF78, symSize: 0x4C }
+  - { offset: 0x3ED14, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12TCPTransportC5write4data10completiony10Foundation4DataV_ys5Error_pSgctF', symObjAddr: 0x928, symBinAddr: 0xDFC4, symSize: 0x11C }
+  - { offset: 0x3ED65, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12TCPTransportC5write4data10completiony10Foundation4DataV_ys5Error_pSgctFy7Network7NWErrorOSgYbcfU_04$s22ab63Client16ServerConnectionC10didReceive5eventyAA9HTTPEventO_tFys5J8_pSgcfU_Tf3npf_n', symObjAddr: 0xA44, symBinAddr: 0xE0E0, symSize: 0xE4 }
+  - { offset: 0x3ED90, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12TCPTransportC5write4data10completiony10Foundation4DataV_ys5Error_pSgctFy7Network7NWErrorOSgYbcfU_', symObjAddr: 0xB28, symBinAddr: 0xE1C4, symSize: 0x100 }
+  - { offset: 0x3EDE0, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12TCPTransportC5start33_91F5340B6616588A9D88055F961D5447LLyyF', symObjAddr: 0xC28, symBinAddr: 0xE2C4, symSize: 0x1E4 }
+  - { offset: 0x3EE31, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12TCPTransportC5start33_91F5340B6616588A9D88055F961D5447LLyyFy7Network12NWConnectionC5StateOcfU_', symObjAddr: 0xE0C, symBinAddr: 0xE4A8, symSize: 0x364 }
+  - { offset: 0x3EE8A, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12TCPTransportC8readLoop33_91F5340B6616588A9D88055F961D5447LLyyFy10Foundation4DataVSg_7Network12NWConnectionC14ContentContextCSgSbAJ7NWErrorOSgtYbcfU_', symObjAddr: 0x121C, symBinAddr: 0xE8B8, symSize: 0x24C }
+  - { offset: 0x3EFA4, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12TCPTransportCAA9TransportA2aDP8register8delegateyAA0e5EventC0_p_tFTW', symObjAddr: 0x1468, symBinAddr: 0xEB04, symSize: 0x14 }
+  - { offset: 0x3EFE1, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12TCPTransportCAA9TransportA2aDP7connect3url7timeout18certificatePinningy10Foundation3URLV_SdAA011CertificateJ0_pSgtFTW', symObjAddr: 0x147C, symBinAddr: 0xEB18, symSize: 0x4 }
+  - { offset: 0x3EFF5, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12TCPTransportCAA9TransportA2aDP10disconnectyyFTW', symObjAddr: 0x1480, symBinAddr: 0xEB1C, symSize: 0x4 }
+  - { offset: 0x3F009, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12TCPTransportCAA9TransportA2aDP5write4data10completiony10Foundation4DataV_ys5Error_pSgctFTW', symObjAddr: 0x1484, symBinAddr: 0xEB20, symSize: 0x4 }
+  - { offset: 0x3F217, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient06SocketC7BuilderVMa', symObjAddr: 0x68, symBinAddr: 0xEF30, symSize: 0x10 }
+  - { offset: 0x3F258, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient06SocketC7BuilderV5buildAA0dC0_pyF', symObjAddr: 0x4, symBinAddr: 0xEECC, symSize: 0x64 }
+  - { offset: 0x3F6B7, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient21FoundationHTTPHandlerCMa', symObjAddr: 0xB58, symBinAddr: 0xFA6C, symSize: 0x20 }
+  - { offset: 0x3F6CB, size: 0x8, addend: 0x0, symName: '_$ss17_NativeDictionaryV12mutatingFind_8isUniques10_HashTableV6BucketV6bucket_Sb5foundtx_SbtFSS_SSTg5', symObjAddr: 0xC44, symBinAddr: 0xFAB0, symSize: 0xD8 }
+  - { offset: 0x3F734, size: 0x8, addend: 0x0, symName: '_$ss17_NativeDictionaryV20_copyOrMoveAndResize8capacity12moveElementsySi_SbtFSS_SSTg5', symObjAddr: 0xD1C, symBinAddr: 0xFB88, symSize: 0x340 }
+  - { offset: 0x3F86F, size: 0x8, addend: 0x0, symName: '_$sSa6append10contentsOfyqd__n_t7ElementQyd__RszSTRd__lFs5UInt8V_SWTg5', symObjAddr: 0x0, symBinAddr: 0xEF40, symSize: 0x204 }
+  - { offset: 0x3FC1F, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient21FoundationHTTPHandlerC5parse4dataSi0D04DataV_tF', symObjAddr: 0x204, symBinAddr: 0xF144, symSize: 0x134 }
+  - { offset: 0x3FC87, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient21FoundationHTTPHandlerC12parseContent4dataSb0D04DataV_tF', symObjAddr: 0x338, symBinAddr: 0xF278, symSize: 0x7D4 }
+  - { offset: 0x4018E, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient21FoundationHTTPHandlerCAA0E0A2aDP7convert7request0D04DataVAH10URLRequestV_tFTW', symObjAddr: 0xB90, symBinAddr: 0xFA8C, symSize: 0x4 }
+  - { offset: 0x401A6, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient21FoundationHTTPHandlerCAA0E0A2aDP7convert7request0D04DataVAH10URLRequestV_tFTW', symObjAddr: 0xB90, symBinAddr: 0xFA8C, symSize: 0x4 }
+  - { offset: 0x401B8, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient21FoundationHTTPHandlerCAA0E0A2aDP5parse4dataSi0D04DataV_tFTW', symObjAddr: 0xB94, symBinAddr: 0xFA90, symSize: 0x20 }
+  - { offset: 0x401DA, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient21FoundationHTTPHandlerC7convert7request0D04DataVAF10URLRequestV_tFTf4nd_n', symObjAddr: 0x105C, symBinAddr: 0xFEC8, symSize: 0x35C }
+  - { offset: 0x4034D, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient21FoundationHTTPHandlerC13findEndOfHTTP33_D7233D98DCA4F481F9F3475BBE62CFD1LL4dataSi0D04DataV_tFTf4nd_n', symObjAddr: 0x158C, symBinAddr: 0x10224, symSize: 0x2A8 }
+  - { offset: 0x40B61, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient19FoundationTransportCfETo', symObjAddr: 0x22C, symBinAddr: 0x106F8, symSize: 0x7C }
+  - { offset: 0x40CA0, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient19FoundationTransportCMa', symObjAddr: 0x1828, symBinAddr: 0x11CF4, symSize: 0x20 }
+  - { offset: 0x40CB3, size: 0x8, addend: 0x0, symName: '_$sSo8NSStreamCMa', symObjAddr: 0x1870, symBinAddr: 0x11D3C, symSize: 0x3C }
+  - { offset: 0x40D17, size: 0x8, addend: 0x0, symName: '_$s10Foundation13__DataStorageC22withUnsafeMutableBytes2in5applyxSnySiG_xSwKXEtKlFs5Int32V_Tg5015$s10Foundation4b32V22ZendeskSDKSocketClientE22withef34BytesyxxSpyq_GKXEKr0_lFxSwKXEfU_s5J12V_s4Int8VTG5SpyxGq_s5Error_pRi_zRi0_zRi__Ri0__r0_lys0Z0VAIIsgyrzo_Tf1ncn_n', symObjAddr: 0x18D0, symBinAddr: 0x11D9C, symSize: 0xE0 }
+  - { offset: 0x40DB9, size: 0x8, addend: 0x0, symName: '_$s10Foundation4DataV06InlineB0VyAESWcfCTf4nd_n', symObjAddr: 0x19B0, symBinAddr: 0x11E7C, symSize: 0xC0 }
+  - { offset: 0x40E2F, size: 0x8, addend: 0x0, symName: '_$s10Foundation4DataV10LargeSliceVyAESWcfCTf4nd_n', symObjAddr: 0x1A70, symBinAddr: 0x11F3C, symSize: 0x78 }
+  - { offset: 0x40E5C, size: 0x8, addend: 0x0, symName: '_$s10Foundation4DataV11InlineSliceVyAESWcfCTf4nd_n', symObjAddr: 0x1AE8, symBinAddr: 0x11FB4, symSize: 0x80 }
+  - { offset: 0x40ED2, size: 0x8, addend: 0x0, symName: '_$s10Foundation4DataV15_RepresentationOyAESWcfCTf4nd_n', symObjAddr: 0x1B68, symBinAddr: 0x12034, symSize: 0x64 }
+  - { offset: 0x40EEE, size: 0x8, addend: 0x0, symName: '_$s10Foundation4DataV15_RepresentationOyAESWcfCTf4nd_n', symObjAddr: 0x1B68, symBinAddr: 0x12034, symSize: 0x64 }
+  - { offset: 0x40F3A, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12PinningStateOWOy', symObjAddr: 0x1BCC, symBinAddr: 0x12098, symSize: 0x10 }
+  - { offset: 0x40F4D, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12PinningStateOWOe', symObjAddr: 0x1BDC, symBinAddr: 0x120A8, symSize: 0x10 }
+  - { offset: 0x40F60, size: 0x8, addend: 0x0, symName: '_$sypSgWOb', symObjAddr: 0x1C30, symBinAddr: 0x120B8, symSize: 0x48 }
+  - { offset: 0x40F73, size: 0x8, addend: 0x0, symName: '_$sypSgWOh', symObjAddr: 0x1CB8, symBinAddr: 0x12100, symSize: 0x40 }
+  - { offset: 0x40F87, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient19FoundationTransportC15getSecurityData33_6B7C4CC5D28A604579C05C546865A2D0LLSo11SecTrustRefaSg_SSSgtyFs5Int32VSpys4Int8VGXEfU_TA', symObjAddr: 0x1CF8, symBinAddr: 0x12140, symSize: 0x34 }
+  - { offset: 0x41046, size: 0x8, addend: 0x0, symName: '_$s10Foundation4DataV15_RepresentationO22withUnsafeMutableBytesyxxSwKXEKlFs5Int32V_Tg5015$s10Foundation4b32V22ZendeskSDKSocketClientE22withef34BytesyxxSpyq_GKXEKr0_lFxSwKXEfU_s5H12V_s4Int8VTG5SpyxGq_s5Error_pRi_zRi0_zRi__Ri0__r0_lys0X0VAHIsgyrzo_Tf1cn_nTf4ng_n', symObjAddr: 0x1D2C, symBinAddr: 0x12174, symSize: 0x308 }
+  - { offset: 0x411BB, size: 0x8, addend: 0x0, symName: '_$s10Foundation4DataVACSTAAWl', symObjAddr: 0x2088, symBinAddr: 0x1248C, symSize: 0x44 }
+  - { offset: 0x411CE, size: 0x8, addend: 0x0, symName: '_$s10Foundation4DataV22ZendeskSDKSocketClientE9ByteErrorVAFs0G0ADWl', symObjAddr: 0x20DC, symBinAddr: 0x124D0, symSize: 0x44 }
+  - { offset: 0x411E1, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient24FoundationTransportErrorOACs0F0AAWl', symObjAddr: 0x2120, symBinAddr: 0x12514, symSize: 0x44 }
+  - { offset: 0x411F5, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient19FoundationTransportC7connect3url7timeout18certificatePinningy0D03URLV_SdAA011CertificateJ0_pSgtFyyYbcfU_TA', symObjAddr: 0x2174, symBinAddr: 0x12558, symSize: 0x8 }
+  - { offset: 0x41209, size: 0x8, addend: 0x0, symName: _block_copy_helper, symObjAddr: 0x217C, symBinAddr: 0x12560, symSize: 0x10 }
+  - { offset: 0x4121D, size: 0x8, addend: 0x0, symName: _block_destroy_helper, symObjAddr: 0x218C, symBinAddr: 0x12570, symSize: 0x8 }
+  - { offset: 0x41230, size: 0x8, addend: 0x0, symName: '_$sSay8Dispatch0A13WorkItemFlagsVGMa', symObjAddr: 0x21D4, symBinAddr: 0x12578, symSize: 0x54 }
+  - { offset: 0x41243, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient24FoundationTransportErrorOwet', symObjAddr: 0x225C, symBinAddr: 0x125CC, symSize: 0x90 }
+  - { offset: 0x41256, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient24FoundationTransportErrorOwst', symObjAddr: 0x22EC, symBinAddr: 0x1265C, symSize: 0xBC }
+  - { offset: 0x41269, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient24FoundationTransportErrorOMa', symObjAddr: 0x23BC, symBinAddr: 0x12718, symSize: 0x10 }
+  - { offset: 0x4127C, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient24FoundationTransportErrorOSHAASQWb', symObjAddr: 0x23CC, symBinAddr: 0x12728, symSize: 0x4 }
+  - { offset: 0x4128F, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient24FoundationTransportErrorOACSQAAWl', symObjAddr: 0x23D0, symBinAddr: 0x1272C, symSize: 0x44 }
+  - { offset: 0x412E5, size: 0x8, addend: 0x0, symName: '_$sSTsSQ7ElementRpzrlE8containsySbABFSaySSG_Tg5', symObjAddr: 0x0, symBinAddr: 0x104DC, symSize: 0xC4 }
+  - { offset: 0x41496, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient24FoundationTransportErrorOSHAASH13_rawHashValue4seedS2i_tFTW', symObjAddr: 0x144, symBinAddr: 0x10620, symSize: 0x40 }
+  - { offset: 0x41722, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient24FoundationTransportErrorOSQAASQ2eeoiySbx_xtFZTW', symObjAddr: 0xC4, symBinAddr: 0x105A0, symSize: 0x14 }
+  - { offset: 0x41798, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient24FoundationTransportErrorOSHAASH9hashValueSivgTW', symObjAddr: 0xD8, symBinAddr: 0x105B4, symSize: 0x44 }
+  - { offset: 0x4185E, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient24FoundationTransportErrorOSHAASH4hash4intoys6HasherVz_tFTW', symObjAddr: 0x11C, symBinAddr: 0x105F8, symSize: 0x28 }
+  - { offset: 0x418BB, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient19FoundationTransportCfD', symObjAddr: 0x194, symBinAddr: 0x10660, symSize: 0x74 }
+  - { offset: 0x418E0, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient19FoundationTransportCfDTo', symObjAddr: 0x208, symBinAddr: 0x106D4, symSize: 0x24 }
+  - { offset: 0x41BB0, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient19FoundationTransportC7connect3url7timeout18certificatePinningy0D03URLV_SdAA011CertificateJ0_pSgtF', symObjAddr: 0x2A8, symBinAddr: 0x10774, symSize: 0x62C }
+  - { offset: 0x41EC6, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient19FoundationTransportC7connect3url7timeout18certificatePinningy0D03URLV_SdAA011CertificateJ0_pSgtFyyYbcfU_', symObjAddr: 0x8D4, symBinAddr: 0x10DA0, symSize: 0xF4 }
+  - { offset: 0x41F51, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient19FoundationTransportC10disconnectyyF', symObjAddr: 0x9C8, symBinAddr: 0x10E94, symSize: 0xD8 }
+  - { offset: 0x4206A, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient19FoundationTransportC5write4data10completiony0D04DataV_ys5Error_pSgctF', symObjAddr: 0xAA0, symBinAddr: 0x10F6C, symSize: 0x208 }
+  - { offset: 0x421A8, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient19FoundationTransportC15getSecurityData33_6B7C4CC5D28A604579C05C546865A2D0LLSo11SecTrustRefaSg_SSSgtyF', symObjAddr: 0xCB8, symBinAddr: 0x11184, symSize: 0x408 }
+  - { offset: 0x423DF, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient19FoundationTransportC4read33_6B7C4CC5D28A604579C05C546865A2D0LLyyF', symObjAddr: 0x10C0, symBinAddr: 0x1158C, symSize: 0x150 }
+  - { offset: 0x42539, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient19FoundationTransportC6stream_6handleySo8NSStreamC_So0H5EventVtF', symObjAddr: 0x1210, symBinAddr: 0x116DC, symSize: 0x36C }
+  - { offset: 0x426D3, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient19FoundationTransportC6stream_6handleySo8NSStreamC_So0H5EventVtFyAA12PinningStateOXEfU_', symObjAddr: 0x15BC, symBinAddr: 0x11A88, symSize: 0x1E8 }
+  - { offset: 0x42790, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient19FoundationTransportC6stream_6handleySo8NSStreamC_So0H5EventVtFTo', symObjAddr: 0x17A4, symBinAddr: 0x11C70, symSize: 0x58 }
+  - { offset: 0x427B8, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient19FoundationTransportCACycfcTo', symObjAddr: 0x17FC, symBinAddr: 0x11CC8, symSize: 0x2C }
+  - { offset: 0x42861, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient19FoundationTransportCAA0E0A2aDP8register8delegateyAA0e5EventC0_p_tFTW', symObjAddr: 0x1848, symBinAddr: 0x11D14, symSize: 0x1C }
+  - { offset: 0x428C6, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient19FoundationTransportCAA0E0A2aDP7connect3url7timeout18certificatePinningy0D03URLV_SdAA011CertificateJ0_pSgtFTW', symObjAddr: 0x1864, symBinAddr: 0x11D30, symSize: 0x4 }
+  - { offset: 0x428DA, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient19FoundationTransportCAA0E0A2aDP10disconnectyyFTW', symObjAddr: 0x1868, symBinAddr: 0x11D34, symSize: 0x4 }
+  - { offset: 0x428EE, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient19FoundationTransportCAA0E0A2aDP5write4data10completiony0D04DataV_ys5Error_pSgctFTW', symObjAddr: 0x186C, symBinAddr: 0x11D38, symSize: 0x4 }
+  - { offset: 0x42A89, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient013DefaultSocketC0C7connect3urly10Foundation3URLV_tF', symObjAddr: 0x0, symBinAddr: 0x12770, symSize: 0x1D0 }
+  - { offset: 0x42D2B, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient013DefaultSocketC0CMa', symObjAddr: 0x2F8, symBinAddr: 0x12A68, symSize: 0x20 }
+  - { offset: 0x42E7E, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient013DefaultSocketC0C7connect3urly10Foundation3URLV_tF', symObjAddr: 0x0, symBinAddr: 0x12770, symSize: 0x1D0 }
+  - { offset: 0x42F8A, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient013DefaultSocketC0C10disconnectyyF', symObjAddr: 0x1D0, symBinAddr: 0x12940, symSize: 0xFC }
+  - { offset: 0x4301B, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient013DefaultSocketC0CfD', symObjAddr: 0x2CC, symBinAddr: 0x12A3C, symSize: 0x2C }
+  - { offset: 0x43063, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient013DefaultSocketC0CAA0eC0A2aDP8delegateAA0eC8Delegate_pSgvgTW', symObjAddr: 0x318, symBinAddr: 0x12A88, symSize: 0x48 }
+  - { offset: 0x43094, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient013DefaultSocketC0CAA0eC0A2aDP8delegateAA0eC8Delegate_pSgvsTW', symObjAddr: 0x360, symBinAddr: 0x12AD0, symSize: 0x64 }
+  - { offset: 0x430C5, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient013DefaultSocketC0CAA0eC0A2aDP8delegateAA0eC8Delegate_pSgvMTW', symObjAddr: 0x3C4, symBinAddr: 0x12B34, symSize: 0x70 }
+  - { offset: 0x430EF, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient013DefaultSocketC0CAA0eC0A2aDP8delegateAA0eC8Delegate_pSgvMTW.resume.0', symObjAddr: 0x434, symBinAddr: 0x12BA4, symSize: 0x70 }
+  - { offset: 0x43111, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient013DefaultSocketC0CAA0eC0A2aDP7connect3urly10Foundation3URLV_tFTW', symObjAddr: 0x4A4, symBinAddr: 0x12C14, symSize: 0x20 }
+  - { offset: 0x43125, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient013DefaultSocketC0CAA0eC0A2aDP10disconnectyyFTW', symObjAddr: 0x4C4, symBinAddr: 0x12C34, symSize: 0x20 }
+  - { offset: 0x4319C, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient013DefaultSocketC0CAA0eC0A2aDP11sendMessage4textySS_tFTW', symObjAddr: 0x4E4, symBinAddr: 0x12C54, symSize: 0xA0 }
+  - { offset: 0x43728, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient13WSCompressionCMa', symObjAddr: 0x11B0, symBinAddr: 0x13EA4, symSize: 0x20 }
+  - { offset: 0x437CD, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12DecompressorCMa', symObjAddr: 0x1594, symBinAddr: 0x14288, symSize: 0x20 }
+  - { offset: 0x43930, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient10CompressorCMa', symObjAddr: 0x1EF8, symBinAddr: 0x14BEC, symSize: 0x20 }
+  - { offset: 0x43944, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient10CompressorC8compressy10Foundation4DataVAGKFySPys5UInt8VGXEfU_TA', symObjAddr: 0x1F18, symBinAddr: 0x14C0C, symSize: 0x20 }
+  - { offset: 0x43958, size: 0x8, addend: 0x0, symName: '_$s10Foundation13__DataStorageC15withUnsafeBytes2in5applyxSnySiG_xSWKXEtKlFyt_Tg5015$s10Foundation4b32V22ZendeskSDKSocketClientE15withE46BytesyxxSPyq_GKXEKr0_lFxSWKXEfU_yt_s5UInt8VTg5SPyxGq_s5Error_pRi_zRi0_zRi__Ri0__r0_lys0W0VytIsgyrzo_Tf1nncn_n', symObjAddr: 0x1F38, symBinAddr: 0x14C2C, symSize: 0xD8 }
+  - { offset: 0x43A31, size: 0x8, addend: 0x0, symName: '_$ss12_ArrayBufferV20_consumeAndCreateNew14bufferIsUnique15minimumCapacity13growForAppendAByxGSb_SiSbtFs5UInt8V_Tg5', symObjAddr: 0x21F8, symBinAddr: 0x14D04, symSize: 0xF0 }
+  - { offset: 0x43B47, size: 0x8, addend: 0x0, symName: '_$ss12_ArrayBufferV20_consumeAndCreateNewAByxGyFs5UInt8V_Tg5', symObjAddr: 0x22E8, symBinAddr: 0x14DF4, symSize: 0x14 }
+  - { offset: 0x43B98, size: 0x8, addend: 0x0, symName: '_$ss13_parseInteger5ascii5radixq_Sgx_SitSyRzs010FixedWidthB0R_r0_lFSS_SiTg5', symObjAddr: 0x2350, symBinAddr: 0x14E1C, symSize: 0xE4 }
+  - { offset: 0x43C11, size: 0x8, addend: 0x0, symName: '_$sSS8_copyingyS2SFZ', symObjAddr: 0x26B0, symBinAddr: 0x1517C, symSize: 0x50 }
+  - { offset: 0x43C46, size: 0x8, addend: 0x0, symName: '_$sSS8_copyingySSSsFZ', symObjAddr: 0x274C, symBinAddr: 0x151CC, symSize: 0xBC }
+  - { offset: 0x43C9E, size: 0x8, addend: 0x0, symName: '_$ss32_copyCollectionToContiguousArrayys0dE0Vy7ElementQzGxSlRzlFSs8UTF8ViewV_Tgq5', symObjAddr: 0x2808, symBinAddr: 0x15288, symSize: 0xB0 }
+  - { offset: 0x43CDF, size: 0x8, addend: 0x0, symName: '_$sSlsE5countSivgSs8UTF8ViewV_Tgq5', symObjAddr: 0x28B8, symBinAddr: 0x15338, symSize: 0xEC }
+  - { offset: 0x43D04, size: 0x8, addend: 0x0, symName: '_$ss22_ContiguousArrayBufferV19_uninitializedCount15minimumCapacityAByxGSi_SitcfCs5UInt8V_Tgmq5', symObjAddr: 0x29A4, symBinAddr: 0x15424, symSize: 0x6C }
+  - { offset: 0x43D3A, size: 0x8, addend: 0x0, symName: '_$sSTsE21_copySequenceContents12initializing8IteratorQz_SitSry7ElementQzG_tFSs8UTF8ViewV_Tgq5', symObjAddr: 0x2A10, symBinAddr: 0x15490, symSize: 0x210 }
+  - { offset: 0x43D73, size: 0x8, addend: 0x0, symName: '_$ss11_StringGutsV27_slowEnsureMatchingEncodingySS5IndexVAEF', symObjAddr: 0x2C20, symBinAddr: 0x156A0, symSize: 0x78 }
+  - { offset: 0x43D8B, size: 0x8, addend: 0x0, symName: '_$sSmsSKRz11SubSequenceSlQzRszrlE17_customRemoveLastySbSiF10Foundation4DataV_Tgq5', symObjAddr: 0x2C98, symBinAddr: 0x15718, symSize: 0x14C }
+  - { offset: 0x43DD8, size: 0x8, addend: 0x0, symName: '_$sSksSx5IndexRpzSnyABG7IndicesRtzSiAA_6StrideRTzrlE8distance4from2toSiAB_ABtF10Foundation4DataV_Tgq5', symObjAddr: 0x2E04, symBinAddr: 0x15884, symSize: 0xB8 }
+  - { offset: 0x43E11, size: 0x8, addend: 0x0, symName: '_$sSksSx5IndexRpzSnyABG7IndicesRtzSiAA_6StrideRTzrlE5index_8offsetByA2B_SitF10Foundation4DataV_Tgq5', symObjAddr: 0x2EDC, symBinAddr: 0x1595C, symSize: 0x64 }
+  - { offset: 0x43E52, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12DecompressorC10decompress_6finish10Foundation4DataVAH_SbtKFAHSPys5UInt8VGKXEfU_TA', symObjAddr: 0x2F50, symBinAddr: 0x159D0, symSize: 0x20 }
+  - { offset: 0x43E7C, size: 0x8, addend: 0x0, symName: '_$sSa9repeating5countSayxGx_SitcfCs5UInt8V_Tgm5', symObjAddr: 0x0, symBinAddr: 0x12CF4, symSize: 0x74 }
+  - { offset: 0x43F14, size: 0x8, addend: 0x0, symName: '_$ss17FixedWidthIntegerPsEyxSgSScfCSi_Tgm5', symObjAddr: 0x74, symBinAddr: 0x12D68, symSize: 0x24C }
+  - { offset: 0x441D3, size: 0x8, addend: 0x0, symName: '_$sSmsSKRz11SubSequenceSlQzRszrlE10removeLastyySiF10Foundation4DataV_Tg5', symObjAddr: 0x1D68, symBinAddr: 0x14A5C, symSize: 0xF0 }
+  - { offset: 0x443FF, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient13WSCompressionC4load7headersySDyS2SG_tF', symObjAddr: 0x2C0, symBinAddr: 0x12FB4, symSize: 0xAD8 }
+  - { offset: 0x44CAC, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient13WSCompressionC10decompress4data7isFinal10Foundation4DataVSgAI_SbtF', symObjAddr: 0xD98, symBinAddr: 0x13A8C, symSize: 0x314 }
+  - { offset: 0x44DF8, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient13WSCompressionC8compress4data10Foundation4DataVSgAH_tF', symObjAddr: 0x10BC, symBinAddr: 0x13DB0, symSize: 0xC0 }
+  - { offset: 0x44E81, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient13WSCompressionCfD', symObjAddr: 0x117C, symBinAddr: 0x13E70, symSize: 0x34 }
+  - { offset: 0x44EBA, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12DecompressorC11initInflate33_B54EA1A902C4428F08EEA22B60766315LLSbyF', symObjAddr: 0x11D0, symBinAddr: 0x13EC4, symSize: 0xA8 }
+  - { offset: 0x44F7D, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12DecompressorC10decompress_6finish10Foundation4DataVAH_SbtKFAHSPys5UInt8VGKXEfU_', symObjAddr: 0x12B4, symBinAddr: 0x13FA8, symSize: 0x118 }
+  - { offset: 0x4507F, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12DecompressorC10decompress33_B54EA1A902C4428F08EEA22B60766315LL5bytes5count3outySPys5UInt8VG_Si10Foundation4DataVztKF', symObjAddr: 0x13DC, symBinAddr: 0x140D0, symSize: 0x1AC }
+  - { offset: 0x452FA, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient10CompressorC11initDeflate33_B54EA1A902C4428F08EEA22B60766315LLSbyF', symObjAddr: 0x15B4, symBinAddr: 0x142A8, symSize: 0xB8 }
+  - { offset: 0x45382, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient10CompressorC8compressy10Foundation4DataVAGKF', symObjAddr: 0x1778, symBinAddr: 0x1446C, symSize: 0x424 }
+  - { offset: 0x45794, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient10CompressorC8compressy10Foundation4DataVAGKFySPys5UInt8VGXEfU_', symObjAddr: 0x1BAC, symBinAddr: 0x148A0, symSize: 0x1AC }
+  - { offset: 0x45AEC, size: 0x8, addend: 0x0, symName: '_$sIegh_IeyBh_TR', symObjAddr: 0x0, symBinAddr: 0x159F0, symSize: 0x2C }
+  - { offset: 0x45C78, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient9WebSocketCMU', symObjAddr: 0x5C4, symBinAddr: 0x15E3C, symSize: 0x8 }
+  - { offset: 0x45C8B, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient9WebSocketCMa', symObjAddr: 0x5CC, symBinAddr: 0x15E44, symSize: 0x3C }
+  - { offset: 0x45C9E, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient9WebSocketCMr', symObjAddr: 0x608, symBinAddr: 0x15E80, symSize: 0x98 }
+  - { offset: 0x45CB1, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient14WebSocketEventOWOy', symObjAddr: 0x6B0, symBinAddr: 0x15F28, symSize: 0x44 }
+  - { offset: 0x45CC4, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient14WebSocketEventOwxx', symObjAddr: 0x74C, symBinAddr: 0x15F6C, symSize: 0x14 }
+  - { offset: 0x45CD7, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient14WebSocketEventOWOe', symObjAddr: 0x760, symBinAddr: 0x15F80, symSize: 0x44 }
+  - { offset: 0x45CEA, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient14WebSocketEventOwca', symObjAddr: 0x85C, symBinAddr: 0x16020, symSize: 0x6C }
+  - { offset: 0x45CFD, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient14WebSocketEventOwta', symObjAddr: 0x8DC, symBinAddr: 0x1608C, symSize: 0x50 }
+  - { offset: 0x45D10, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient14WebSocketEventOwet', symObjAddr: 0x92C, symBinAddr: 0x160DC, symSize: 0x48 }
+  - { offset: 0x45D23, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient14WebSocketEventOwst', symObjAddr: 0x974, symBinAddr: 0x16124, symSize: 0x48 }
+  - { offset: 0x45D36, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient14WebSocketEventOwug', symObjAddr: 0x9BC, symBinAddr: 0x1616C, symSize: 0x18 }
+  - { offset: 0x45D49, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient14WebSocketEventOwui', symObjAddr: 0x9D8, symBinAddr: 0x16184, symSize: 0x1C }
+  - { offset: 0x45D5C, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient14WebSocketEventOMa', symObjAddr: 0x9F4, symBinAddr: 0x161A0, symSize: 0x10 }
+  - { offset: 0x46025, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient18CompressionHandler_pSgWOh', symObjAddr: 0x1178, symBinAddr: 0x168E8, symSize: 0x40 }
+  - { offset: 0x46038, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient18CompressionHandler_pSgWOc', symObjAddr: 0x11F8, symBinAddr: 0x16928, symSize: 0x48 }
+  - { offset: 0x4604B, size: 0x8, addend: 0x0, symName: ___swift_mutable_project_boxed_opaque_existential_1, symObjAddr: 0x1240, symBinAddr: 0x16970, symSize: 0x28 }
+  - { offset: 0x4605E, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient6Framer_pWOc', symObjAddr: 0x12A8, symBinAddr: 0x16998, symSize: 0x44 }
+  - { offset: 0x46071, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient11HTTPHandler_pWOb', symObjAddr: 0x12EC, symBinAddr: 0x169DC, symSize: 0x18 }
+  - { offset: 0x46085, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient9WebSocketC10didReceive5eventyAA0dE5EventO_tFyyYbcfU_TA', symObjAddr: 0x1380, symBinAddr: 0x16A4C, symSize: 0x18 }
+  - { offset: 0x46099, size: 0x8, addend: 0x0, symName: _block_copy_helper, symObjAddr: 0x1398, symBinAddr: 0x16A64, symSize: 0x10 }
+  - { offset: 0x460AD, size: 0x8, addend: 0x0, symName: _block_destroy_helper, symObjAddr: 0x13A8, symBinAddr: 0x16A74, symSize: 0x8 }
+  - { offset: 0x460C1, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient013DefaultSocketC0C10didReceive5event6clientyAA03WebE5EventO_AA0jeC0_ptFTf4nen_nAA0jE0C_Tg5Tf4ndn_n', symObjAddr: 0x143C, symBinAddr: 0x16A7C, symSize: 0x30C }
+  - { offset: 0x46196, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient7WSErrorVwxx', symObjAddr: 0x1778, symBinAddr: 0x16D88, symSize: 0x8 }
+  - { offset: 0x461A9, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient7WSErrorVwcp', symObjAddr: 0x1780, symBinAddr: 0x16D90, symSize: 0x3C }
+  - { offset: 0x461BC, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient7WSErrorVwca', symObjAddr: 0x17BC, symBinAddr: 0x16DCC, symSize: 0x5C }
+  - { offset: 0x461CF, size: 0x8, addend: 0x0, symName: ___swift_memcpy26_8, symObjAddr: 0x1818, symBinAddr: 0x16E28, symSize: 0x14 }
+  - { offset: 0x461E2, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient7WSErrorVwta', symObjAddr: 0x182C, symBinAddr: 0x16E3C, symSize: 0x44 }
+  - { offset: 0x461F5, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient7WSErrorVwet', symObjAddr: 0x1870, symBinAddr: 0x16E80, symSize: 0x48 }
+  - { offset: 0x46208, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient7WSErrorVwst', symObjAddr: 0x18B8, symBinAddr: 0x16EC8, symSize: 0x44 }
+  - { offset: 0x4621B, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient7WSErrorVMa', symObjAddr: 0x18FC, symBinAddr: 0x16F0C, symSize: 0x10 }
+  - { offset: 0x4622E, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient9ErrorTypeOwet', symObjAddr: 0x191C, symBinAddr: 0x16F1C, symSize: 0x90 }
+  - { offset: 0x46241, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient9ErrorTypeOwst', symObjAddr: 0x19AC, symBinAddr: 0x16FAC, symSize: 0xBC }
+  - { offset: 0x46254, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient9ErrorTypeOMa', symObjAddr: 0x1A7C, symBinAddr: 0x17068, symSize: 0x10 }
+  - { offset: 0x46267, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient9ErrorTypeOSHAASQWb', symObjAddr: 0x1A8C, symBinAddr: 0x17078, symSize: 0x4 }
+  - { offset: 0x4627A, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient9ErrorTypeOACSQAAWl', symObjAddr: 0x1A90, symBinAddr: 0x1707C, symSize: 0x44 }
+  - { offset: 0x463BB, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient9WebSocketC10didReceive5eventyAA0dE5EventO_tF', symObjAddr: 0x10C, symBinAddr: 0x15A1C, symSize: 0x250 }
+  - { offset: 0x4642F, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient9WebSocketC10didReceive5eventyAA0dE5EventO_tFyyYbcfU_', symObjAddr: 0x35C, symBinAddr: 0x15C6C, symSize: 0xE4 }
+  - { offset: 0x4651A, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient9WebSocketCfd', symObjAddr: 0x440, symBinAddr: 0x15D50, symSize: 0x6C }
+  - { offset: 0x4654D, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient9WebSocketCfD', symObjAddr: 0x500, symBinAddr: 0x15DBC, symSize: 0x78 }
+  - { offset: 0x46588, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient9WebSocketCAA14EngineDelegateA2aDP10didReceive5eventyAA0dE5EventO_tFTW', symObjAddr: 0x578, symBinAddr: 0x15E34, symSize: 0x8 }
+  - { offset: 0x465F3, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient8WSEngineC9transport10certPinner15headerValidator11httpHandler6framer011compressionK0AcA9Transport_p_AA18CertificatePinning_pSgAA06HeaderI0_pAA11HTTPHandler_pAA6Framer_pAA011CompressionK0_pSgtcfcTf4nnnnenn_nAA8WSFramerC_Tg5Tf4ennnnnn_nAA12TCPTransportC_Tg5Tf4nneennn_nAA18FoundationSecurityC_AA0wR0CTg5', symObjAddr: 0xA04, symBinAddr: 0x161B0, symSize: 0x380 }
+  - { offset: 0x46828, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient9WebSocketC7request10certPinner18compressionHandler15useCustomEngineAC10Foundation10URLRequestV_AA18CertificatePinning_pSgAA011CompressionJ0_pSgSbtcfCTf4nnnnd_n', symObjAddr: 0xD84, symBinAddr: 0x16530, symSize: 0x3B8 }
+  - { offset: 0x46B90, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient06SocketC6LoggerVMa', symObjAddr: 0x0, symBinAddr: 0x170C0, symSize: 0x10 }
+  - { offset: 0x46BA6, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient06SocketC6LoggerVMa', symObjAddr: 0x0, symBinAddr: 0x170C0, symSize: 0x10 }
+  - { offset: 0x46C71, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient06SocketC6LoggerVAC0A9SDKLogger8LoggableAAWl', symObjAddr: 0x8F0, symBinAddr: 0x179B0, symSize: 0x44 }
+  - { offset: 0x46DD8, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient06SocketC6LoggerV11sendMessage4textySS_tF', symObjAddr: 0x10, symBinAddr: 0x170D0, symSize: 0x114 }
+  - { offset: 0x46EB1, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient06SocketC6LoggerV10didReceive5eventyAA03WebD5EventO_tF', symObjAddr: 0x124, symBinAddr: 0x171E4, symSize: 0x774 }
+  - { offset: 0x47396, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient06SocketC6LoggerV0A9SDKLogger8LoggableAadEP12logNamespaceSSvgZTW', symObjAddr: 0x8C0, symBinAddr: 0x17980, symSize: 0x1C }
+  - { offset: 0x473AA, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient06SocketC6LoggerV0A9SDKLogger8LoggableAadEP11logCategorySSvgZTW', symObjAddr: 0x8DC, symBinAddr: 0x1799C, symSize: 0xC }
+  - { offset: 0x473C7, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient06SocketC6LoggerV0A9SDKLogger8LoggableAadEP3logAD3Log_pvgZTW', symObjAddr: 0x8E8, symBinAddr: 0x179A8, symSize: 0x4 }
+  - { offset: 0x473E3, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient06SocketC6LoggerV0A9SDKLogger8LoggableAadEP3logAD3Log_pvgTW', symObjAddr: 0x8EC, symBinAddr: 0x179AC, symSize: 0x4 }
+  - { offset: 0x474FE, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12NativeEngineC5start7requesty10Foundation10URLRequestV_tF', symObjAddr: 0x0, symBinAddr: 0x179F4, symSize: 0x15C }
+  - { offset: 0x47A01, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12NativeEngineCfETo', symObjAddr: 0x998, symBinAddr: 0x1838C, symSize: 0x38 }
+  - { offset: 0x47A2F, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12NativeEngineCMa', symObjAddr: 0x9D0, symBinAddr: 0x183C4, symSize: 0x20 }
+  - { offset: 0x47A59, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12NativeEngineC6doRead33_FFEF0E477B3BD80A1644E56F3D0A1AF2LLyyFys6ResultOySo25NSURLSessionWebSocketTaskC10FoundationE7MessageOs5Error_pGYbcfU_TA', symObjAddr: 0xB08, symBinAddr: 0x184C4, symSize: 0x8 }
+  - { offset: 0x47A6C, size: 0x8, addend: 0x0, symName: '_$ss6ResultOySo25NSURLSessionWebSocketTaskC10FoundationE7MessageOs5Error_pGWOc', symObjAddr: 0xB50, symBinAddr: 0x184CC, symSize: 0x48 }
+  - { offset: 0x47B3D, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12NativeEngineC5start7requesty10Foundation10URLRequestV_tF', symObjAddr: 0x0, symBinAddr: 0x179F4, symSize: 0x15C }
+  - { offset: 0x47C0B, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12NativeEngineC5write6string10completionySS_yycSgtF', symObjAddr: 0x15C, symBinAddr: 0x17B50, symSize: 0x11C }
+  - { offset: 0x47CD3, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12NativeEngineC6doRead33_FFEF0E477B3BD80A1644E56F3D0A1AF2LLyyFys6ResultOySo25NSURLSessionWebSocketTaskC10FoundationE7MessageOs5Error_pGYbcfU_', symObjAddr: 0x278, symBinAddr: 0x17C6C, symSize: 0x424 }
+  - { offset: 0x47E51, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12NativeEngineC10urlSession_13webSocketTask19didOpenWithProtocolySo12NSURLSessionC_So0o3WebiJ0CSSSgtFTo', symObjAddr: 0x69C, symBinAddr: 0x18090, symSize: 0xA0 }
+  - { offset: 0x47E82, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12NativeEngineC10urlSession_13webSocketTask12didCloseWith6reasonySo12NSURLSessionC_So0o3WebiJ0CSo0opiL4CodeV10Foundation4DataVSgtFTo', symObjAddr: 0x73C, symBinAddr: 0x18130, symSize: 0xD0 }
+  - { offset: 0x47EF3, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12NativeEngineC10urlSession_4task20didCompleteWithErrorySo12NSURLSessionC_So0M4TaskCs0L0_pSgtFTo', symObjAddr: 0x80C, symBinAddr: 0x18200, symSize: 0xFC }
+  - { offset: 0x47F88, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12NativeEngineCACycfcTo', symObjAddr: 0x908, symBinAddr: 0x182FC, symSize: 0x60 }
+  - { offset: 0x47FBD, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12NativeEngineCfD', symObjAddr: 0x968, symBinAddr: 0x1835C, symSize: 0x30 }
+  - { offset: 0x4802A, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12NativeEngineCAA0E0A2aDP8register8delegateyAA0E8Delegate_p_tFTW', symObjAddr: 0x9F0, symBinAddr: 0x183E4, symSize: 0x20 }
+  - { offset: 0x4808F, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12NativeEngineCAA0E0A2aDP5start7requesty10Foundation10URLRequestV_tFTW', symObjAddr: 0xA10, symBinAddr: 0x18404, symSize: 0x20 }
+  - { offset: 0x480DC, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12NativeEngineCAA0E0A2aDP4stop9closeCodeys6UInt16V_tFTW', symObjAddr: 0xA30, symBinAddr: 0x18424, symSize: 0x30 }
+  - { offset: 0x4817D, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12NativeEngineCAA0E0A2aDP5write6string10completionySS_yycSgtFTW', symObjAddr: 0xA60, symBinAddr: 0x18454, symSize: 0x20 }
+  - { offset: 0x481BA, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12NativeEngineC10urlSession_13webSocketTask19didOpenWithProtocolySo12NSURLSessionC_So0o3WebiJ0CSSSgtFTf4ddnn_n', symObjAddr: 0xC28, symBinAddr: 0x18514, symSize: 0x124 }
+  - { offset: 0x482DE, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient12NativeEngineC10urlSession_13webSocketTask12didCloseWith6reasonySo12NSURLSessionC_So0o3WebiJ0CSo0opiL4CodeV10Foundation4DataVSgtFTf4ddnnn_n', symObjAddr: 0xD4C, symBinAddr: 0x18638, symSize: 0x12C }
+  - { offset: 0x48660, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient15WebSocketServerCMa', symObjAddr: 0x16C, symBinAddr: 0x188D0, symSize: 0x20 }
+  - { offset: 0x486E0, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient16ServerConnectionCMa', symObjAddr: 0xDA0, symBinAddr: 0x19504, symSize: 0x20 }
+  - { offset: 0x486F3, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient14FrameCollectorC5EventOWOy', symObjAddr: 0xDE0, symBinAddr: 0x19544, symSize: 0x40 }
+  - { offset: 0x48706, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient11ServerEventOWOh', symObjAddr: 0xF20, symBinAddr: 0x19584, symSize: 0x34 }
+  - { offset: 0x48719, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient9HTTPEventOWOy', symObjAddr: 0xFF0, symBinAddr: 0x195F0, symSize: 0xC }
+  - { offset: 0x48738, size: 0x8, addend: 0x0, symName: '_$ss22__RawDictionaryStorageC4findys10_HashTableV6BucketV6bucket_Sb5foundtxSHRzlFSS_Tg5', symObjAddr: 0x1008, symBinAddr: 0x195FC, symSize: 0x64 }
+  - { offset: 0x4877B, size: 0x8, addend: 0x0, symName: '_$ss22__RawDictionaryStorageC4find_9hashValues10_HashTableV6BucketV6bucket_Sb5foundtx_SitSHRzlFSS_Tg5', symObjAddr: 0x106C, symBinAddr: 0x19660, symSize: 0xE0 }
+  - { offset: 0x48840, size: 0x8, addend: 0x0, symName: '_$sSD8_VariantV11removeValue6forKeyq_Sgx_tFSS_22ZendeskSDKSocketClient16ServerConnectionCTg5', symObjAddr: 0x114C, symBinAddr: 0x19740, symSize: 0xD4 }
+  - { offset: 0x488F7, size: 0x8, addend: 0x0, symName: '_$ss17_NativeDictionaryV7_insert2at3key5valueys10_HashTableV6BucketV_xnq_ntFSS_SSTg5', symObjAddr: 0x1220, symBinAddr: 0x19814, symSize: 0x50 }
+  - { offset: 0x48991, size: 0x8, addend: 0x0, symName: '_$ss17_NativeDictionaryV4copyyyFSS_22ZendeskSDKSocketClient16ServerConnectionCTg5', symObjAddr: 0x1270, symBinAddr: 0x19864, symSize: 0x1C8 }
+  - { offset: 0x48A2E, size: 0x8, addend: 0x0, symName: '_$ss17_NativeDictionaryV4copyyyFSS_SSTg5', symObjAddr: 0x1438, symBinAddr: 0x19A2C, symSize: 0x1CC }
+  - { offset: 0x48AE1, size: 0x8, addend: 0x0, symName: '_$ss17_NativeDictionaryV7_delete2atys10_HashTableV6BucketV_tFSS_22ZendeskSDKSocketClient16ServerConnectionCTg5', symObjAddr: 0x1604, symBinAddr: 0x19BF8, symSize: 0x1D4 }
+  - { offset: 0x48BAC, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient11ServerEventOWOc', symObjAddr: 0x19C4, symBinAddr: 0x19ED0, symSize: 0x3C }
+  - { offset: 0x48CCC, size: 0x8, addend: 0x0, symName: '_$sSD17dictionaryLiteralSDyxq_Gx_q_td_tcfCSS_SSTgm5Tf4g_n', symObjAddr: 0x17D8, symBinAddr: 0x19DCC, symSize: 0x104 }
+  - { offset: 0x48E35, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient15WebSocketServerC10didReceive5eventyAA0F5EventO_tF', symObjAddr: 0x0, symBinAddr: 0x18764, symSize: 0x130 }
+  - { offset: 0x48EEF, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient15WebSocketServerCfD', symObjAddr: 0x130, symBinAddr: 0x18894, symSize: 0x3C }
+  - { offset: 0x48F96, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient16ServerConnectionC17connectionChanged5stateyAA0E5StateO_tF', symObjAddr: 0x18C, symBinAddr: 0x188F0, symSize: 0x398 }
+  - { offset: 0x49169, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient16ServerConnectionC10didReceive5eventyAA9HTTPEventO_tF', symObjAddr: 0x524, symBinAddr: 0x18C88, symSize: 0x244 }
+  - { offset: 0x49251, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient16ServerConnectionC14frameProcessed5eventyAA10FrameEventO_tF', symObjAddr: 0x768, symBinAddr: 0x18ECC, symSize: 0xDC }
+  - { offset: 0x492B4, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient16ServerConnectionC7didForm5eventyAA14FrameCollectorC5EventO_tF', symObjAddr: 0x844, symBinAddr: 0x18FA8, symSize: 0x508 }
+  - { offset: 0x49400, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient16ServerConnectionCfD', symObjAddr: 0xD4C, symBinAddr: 0x194B0, symSize: 0x54 }
+  - { offset: 0x49439, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient16ServerConnectionCAA011FramerEventC0A2aDP14frameProcessed5eventyAA05FrameG0O_tFTW', symObjAddr: 0xDC0, symBinAddr: 0x19524, symSize: 0x4 }
+  - { offset: 0x4944D, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient16ServerConnectionCAA22FrameCollectorDelegateA2aDP7didForm5eventyAA0fG0C5EventO_tFTW', symObjAddr: 0xDC4, symBinAddr: 0x19528, symSize: 0x8 }
+  - { offset: 0x49461, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient16ServerConnectionCAA22FrameCollectorDelegateA2aDP10decompress4data7isFinal10Foundation4DataVSgAK_SbtFTW', symObjAddr: 0xDCC, symBinAddr: 0x19530, symSize: 0xC }
+  - { offset: 0x49475, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient16ServerConnectionCAA014TransportEventC0A2aDP17connectionChanged5stateyAA0E5StateO_tFTW', symObjAddr: 0xDD8, symBinAddr: 0x1953C, symSize: 0x8 }
+  - { offset: 0x4959B, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient14FrameCollectorC3add5frameyAA0D0V_tF', symObjAddr: 0x14, symBinAddr: 0x19F0C, symSize: 0x5B0 }
+  - { offset: 0x4961B, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient14FrameCollectorCMa', symObjAddr: 0x60C, symBinAddr: 0x1A504, symSize: 0x20 }
+  - { offset: 0x4962E, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient5FrameVWOr', symObjAddr: 0x62C, symBinAddr: 0x1A524, symSize: 0x2C }
+  - { offset: 0x49669, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient14FrameCollectorC3add5frameyAA0D0V_tF', symObjAddr: 0x14, symBinAddr: 0x19F0C, symSize: 0x5B0 }
+  - { offset: 0x497A3, size: 0x8, addend: 0x0, symName: '_$s22ZendeskSDKSocketClient14FrameCollectorCfD', symObjAddr: 0x5E0, symBinAddr: 0x1A4D8, symSize: 0x2C }
+  - { offset: 0x498C7, size: 0x8, addend: 0x0, symName: '_$s10Foundation4DataV22ZendeskSDKSocketClientE9ByteErrorVMa', symObjAddr: 0x0, symBinAddr: 0x1A550, symSize: 0x10 }
+  - { offset: 0x498DD, size: 0x8, addend: 0x0, symName: '_$s10Foundation4DataV22ZendeskSDKSocketClientE9ByteErrorVMa', symObjAddr: 0x0, symBinAddr: 0x1A550, symSize: 0x10 }
 ...
