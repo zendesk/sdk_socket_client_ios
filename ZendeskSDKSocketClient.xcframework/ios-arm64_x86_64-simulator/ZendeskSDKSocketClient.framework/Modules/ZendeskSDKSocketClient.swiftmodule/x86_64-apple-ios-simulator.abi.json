@@ -1695,6 +1695,13 @@
       "value": "2"
     },
     {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/Source\/DefaultSocketClient.swift",
+      "kind": "StringLiteral",
+      "offset": 914,
+      "length": 37,
+      "value": "\"com.zendesk.socketclient.connection\""
+    },
+    {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/SocketClient\/SocketClient\/ThirdParty\/Starscream\/Compression\/WSCompression.swift",
       "kind": "StringLiteral",
       "offset": 1361,
