@@ -17,7 +17,7 @@ let package = Package(
         .package(
             name: "ZendeskSDKLogger",
             url: "https://github.com/zendesk/sdk_logger_ios",
-            from: "0.12.0"
+            from: "0.13.0"
         )
     ],
     targets: [
